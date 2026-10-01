@@ -79,7 +79,7 @@ body {
 .hero h1 {
     font-family:Georgia,"Times New Roman",serif;
     font-size:clamp(48px,7.5vw,108px);
-    line-height:.94;
+    line-height:1.1;
     letter-spacing:-.055em;
     font-weight:400;
     margin:0;

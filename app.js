@@ -51,9 +51,9 @@ function bindCoverImages(root=document){
 
 function card(book){
   const metric = book.metric || book.availability || '시장지표 조사 중';
-  return `<article class="book-card status-${escapeHtml(book.status)}" tabindex="0" data-id="${book.id}" aria-label="${escapeHtml(book.title)} 상세보기">
+  return `<article class="book-card" tabindex="0" data-id="${book.id}" aria-label="${escapeHtml(book.title)} 상세보기">
     <div class="cover">${cover(book)}</div>
-    <div class="card-meta"><span>${escapeHtml(book.company)}</span><span><i class="status-dot"></i>${escapeHtml(book.status)}</span></div>
+    <div class="card-meta"><span>${escapeHtml(book.company)}</span></div>
     <h3>${escapeHtml(book.title)}</h3>
     <div class="card-note">${escapeHtml(metric)}</div>
   </article>`;
@@ -81,7 +81,7 @@ function openBook(book){
     <dl class="detail-list">
       <div class="detail-row"><dt>분야</dt><dd>${escapeHtml(book.category||'—')}</dd></div>
       <div class="detail-row"><dt>상태</dt><dd>${escapeHtml(book.availability||'—')}</dd></div>
-      <div class="detail-row"><dt>작업 내용</dt><dd>${escapeHtml(book.metric||'편집 담당')}</dd></div>
+      <div class="detail-row"><dt>작업 내용</dt><dd>${escapeHtml(book.metric||'추가 조사 중')}</dd></div>
       <div class="detail-row"><dt>성과 메모</dt><dd>${escapeHtml(book.note||'—')}</dd></div>
     </dl>
     ${book.url?`<a class="store-link" href="${escapeHtml(book.url)}" target="_blank" rel="noopener noreferrer">서점 / 출처 페이지 보기 ↗</a>`:''}
