@@ -22,7 +22,7 @@ function cover(book){
   const covers = Array.isArray(book.covers) ? book.covers.filter(Boolean) : [];
   if(book.count > 1 && covers.length >= 2){
     const shown = covers.slice(0,4);
-    return `<div class="series-collage" data-book-id="${book.id}">${shown.map((_,i)=>`<img class="series-cover-img" data-book-id="${book.id}" data-cover-index="${i}" alt="${escapeHtml(book.title)} 시리즈 표지 ${i+1}" loading="lazy" referrerpolicy="no-referrer">`).join('')}<span class="series-badge">${book.count}종</span></div>`;
+    return `<div class="series-collage series-count-${shown.length}" data-book-id="${book.id}">${shown.map((_,i)=>`<img class="series-cover-img" data-book-id="${book.id}" data-cover-index="${i}" alt="${escapeHtml(book.title)} 시리즈 표지 ${i+1}" loading="lazy" referrerpolicy="no-referrer">`).join('')}<span class="series-badge">${book.count}종</span></div>`;
   }
   if(book.cover){
     return `<div class="single-series-wrap"><img class="book-cover-img" data-book-id="${book.id}" alt="${escapeHtml(book.title)} 표지" loading="lazy" referrerpolicy="no-referrer">${book.count>1?`<span class="series-badge">${book.count}종</span>`:''}</div>`;
@@ -80,10 +80,9 @@ function openBook(book){
     <h2>${escapeHtml(book.title)}</h2><div class="modal-company">${escapeHtml(book.company)}</div>
     <dl class="detail-list">
       <div class="detail-row"><dt>분야</dt><dd>${escapeHtml(book.category||'—')}</dd></div>
-      <div class="detail-row"><dt>공개 상태</dt><dd>${escapeHtml(book.availability||'—')}</dd></div>
-      <div class="detail-row"><dt>시장 지표</dt><dd>${escapeHtml(book.metric||'추가 조사 중')}</dd></div>
+      <div class="detail-row"><dt>상태</dt><dd>${escapeHtml(book.availability||'—')}</dd></div>
+      <div class="detail-row"><dt>작업 내용</dt><dd>${escapeHtml(book.metric||'편집 담당')}</dd></div>
       <div class="detail-row"><dt>성과 메모</dt><dd>${escapeHtml(book.note||'—')}</dd></div>
-      <div class="detail-row"><dt>조사 상태</dt><dd>${escapeHtml(book.status||'—')}</dd></div>
     </dl>
     ${book.url?`<a class="store-link" href="${escapeHtml(book.url)}" target="_blank" rel="noopener noreferrer">서점 / 출처 페이지 보기 ↗</a>`:''}
   </div></div>`;
