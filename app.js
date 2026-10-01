@@ -2,7 +2,7 @@ const books = window.BOOKS || [];
 const grid = document.querySelector('#bookGrid');
 const search = document.querySelector('#searchInput');
 const companyFilter = document.querySelector('#companyFilter');
-const statusFilter = document.querySelector('#statusFilter');
+const categoryFilter = document.querySelector('#categoryFilter');
 const typeFilter = document.querySelector('#typeFilter');
 const resultCount = document.querySelector('#resultCount');
 const emptyState = document.querySelector('#emptyState');
@@ -14,7 +14,7 @@ document.querySelector('#archiveCount').textContent = books.length;
 
 function unique(key){return [...new Set(books.map(b=>b[key]).filter(Boolean))].sort((a,b)=>a.localeCompare(b,'ko'));}
 unique('company').forEach(v=>companyFilter.insertAdjacentHTML('beforeend',`<option>${escapeHtml(v)}</option>`));
-unique('status').forEach(v=>statusFilter.insertAdjacentHTML('beforeend',`<option>${escapeHtml(v)}</option>`));
+unique('category').forEach(v=>categoryFilter.insertAdjacentHTML('beforeend',`<option>${escapeHtml(v)}</option>`));
 
 function escapeHtml(s=''){return String(s).replace(/[&<>'"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[c]));}
 function placeholder(book){return `<div class="placeholder"><span>${escapeHtml(book.company)}</span><b>${escapeHtml(book.title.slice(0,18))}</b><span>EDITORIAL ARCHIVE</span></div>`;}
@@ -61,7 +61,7 @@ function card(book){
 
 function render(){
   const q=search.value.trim().toLowerCase();
-  const list=books.filter(b=>(!q || `${b.title} ${b.company} ${b.note} ${b.metric}`.toLowerCase().includes(q)) && (!companyFilter.value||b.company===companyFilter.value) && (!statusFilter.value||b.status===statusFilter.value) && (!typeFilter.value||b.type===typeFilter.value));
+  const list=books.filter(b=>(!q || `${b.title} ${b.company} ${b.category} ${b.note} ${b.metric}`.toLowerCase().includes(q)) && (!companyFilter.value||b.company===companyFilter.value) && (!categoryFilter.value||b.category===categoryFilter.value) && (!typeFilter.value||b.type===typeFilter.value));
   grid.innerHTML=list.map(card).join('');
   bindCoverImages(grid);
   resultCount.textContent=`${list.length} / ${books.length}`;
@@ -79,6 +79,7 @@ function openBook(book){
     <div class="modal-kicker">${escapeHtml(book.type)} · ${book.count ? escapeHtml(book.count)+'종' : '기획 프로젝트'}</div>
     <h2>${escapeHtml(book.title)}</h2><div class="modal-company">${escapeHtml(book.company)}</div>
     <dl class="detail-list">
+      <div class="detail-row"><dt>분야</dt><dd>${escapeHtml(book.category||'—')}</dd></div>
       <div class="detail-row"><dt>공개 상태</dt><dd>${escapeHtml(book.availability||'—')}</dd></div>
       <div class="detail-row"><dt>시장 지표</dt><dd>${escapeHtml(book.metric||'추가 조사 중')}</dd></div>
       <div class="detail-row"><dt>성과 메모</dt><dd>${escapeHtml(book.note||'—')}</dd></div>
@@ -100,7 +101,7 @@ function openBook(book){
 
 grid.addEventListener('click',e=>{const card=e.target.closest('.book-card');if(card)openBook(books.find(b=>b.id===Number(card.dataset.id)));});
 grid.addEventListener('keydown',e=>{if((e.key==='Enter'||e.key===' ')&&e.target.matches('.book-card')){e.preventDefault();openBook(books.find(b=>b.id===Number(e.target.dataset.id)));}});
-[search,companyFilter,statusFilter,typeFilter].forEach(el=>el.addEventListener(el===search?'input':'change',render));
+[search,companyFilter,categoryFilter,typeFilter].forEach(el=>el.addEventListener(el===search?'input':'change',render));
 document.querySelector('#aboutBtn').addEventListener('click',()=>aboutDialog.showModal());
 document.querySelectorAll('[data-close]').forEach(btn=>btn.addEventListener('click',()=>btn.closest('dialog').close()));
 [dialog,aboutDialog].forEach(d=>d.addEventListener('click',e=>{if(e.target===d)d.close();}));
