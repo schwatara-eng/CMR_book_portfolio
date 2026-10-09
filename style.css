@@ -191,24 +191,25 @@ body {
 }
 
 .cover {
-    aspect-ratio:3/4;
-    background:#efeee9;
-    overflow:hidden;
-    position:relative;
-    border:1px solid rgba(0,0,0,.05);
-    padding:18px
+    position: relative;
+    width: 100%;
+    aspect-ratio: 3 / 4;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    background: transparent;
 }
 
 .cover img {
-    width:100%;
-    height:100%;
-    object-fit:contain;
-    display:block;
-    transition:transform .35s ease
+    display: block;
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+    transition: transform .35s ease;
 }
 
 .book-card:hover .cover img {
-    transform:scale(1.025)
+    transform: none;
 }
 
 .placeholder {
@@ -521,237 +522,73 @@ footer {
 
 }
 
-/* Series cards: 여러 권 작업은 한 장짜리 대표표지보다 시리즈 묶음으로 보이게 한다. */
-.series-collage {
-    position:relative;
-    width:calc(100% + 36px);
-    height:calc(100% + 36px);
-    margin:-18px;
-    display:grid;
-    grid-template-columns:1fr 1fr;
-    grid-template-rows:1fr 1fr;
-    gap:8px;
-    background:#e6e4df;
-    padding:14px
-}
-
-.series-collage img {
-    width:100%;
-    height:100%;
-    object-fit:contain;
-    display:block;
-    min-width:0;
-    min-height:0;
-    background:#f7f6f2
-}
-
-
-
+/* 표지는 원본 비율을 유지하며 각 행의 아랫선에 정렬 */
 .single-series-wrap {
-    position:relative;
-    width:100%;
-    height:100%
-}
-
-.single-series-wrap>img {
-    width:100%;
-    height:100%;
-    object-fit:cover;
-    display:block
-}
-
-.series-badge {
-    position:absolute;
-    right:10px;
-    bottom:10px;
-    z-index:3;
-    background:rgba(17,18,20,.88);
-    color:#fff;
-    border:1px solid rgba(255,255,255,.2);
-    padding:6px 8px;
-    font-size:10px;
-    line-height:1;
-    letter-spacing:.08em;
-    box-shadow:0 2px 8px rgba(0,0,0,.18)
-}
-
-.placeholder {
-    position:relative
-}
-
-.book-card:hover .series-collage img {
-    transform:none
-}
-/* ==============================
-   BOOK COVER - FINAL OVERRIDE
-   표지 이미지 전체 표시
-============================== */
-
-.card .cover {
-    aspect-ratio: 3 / 4;
-    padding: 18px;
-    box-sizing: border-box;
-    overflow: hidden;
-    background: #efeee9;
-}
-
-.card .cover > img,
-.card .cover .single-series-wrap > img {
-    width: 100% !important;
-    height: 100% !important;
-
-
-
-
-
-    
-    object-fit: contain !important;
-    object-position: center center !important;
-
-    display: block;
-}
-
-/* 이미지 자체를 확대하는 효과 제거 */
-.card:hover .cover img {
-    transform: none !important;
-}
-
-/* 시리즈 여러 권 표시 */
-.card .series-collage img {
-    width: 100% !important;
-    height: 100% !important;
-
-    object-fit: contain !important;
-    object-position: center center !important;
-
-    display: block;
-}
-
-/* =========================================================
-   FINAL COVER / SERIES LAYOUT
-   누적 수정 대신 이 블록을 최종 규칙으로 사용
-========================================================= */
-
-/* 모든 카드 표지 프레임 */
-.book-card .cover {
-    aspect-ratio: 3 / 4;
-    padding: 18px;
-    box-sizing: border-box;
-    overflow: hidden;
-    background: #efeee9;
-    border: 0;
-    outline: 0;
-    box-shadow: none;
-}
-
-/* 단일 표지 */
-.book-card .single-series-wrap {
+    position: relative;
     width: 100%;
     height: 100%;
     display: flex;
-    align-items: center;
+    align-items: flex-end;
     justify-content: center;
-    position: relative;
 }
 
-.book-card .book-cover-img,
-.book-card .single-series-wrap > img,
-.book-card .cover > img {
+.single-series-wrap > img {
     width: 100%;
-    height: 100%;
+    height: auto;
+    max-height: 100%;
     object-fit: contain;
-    object-position: center;
-    display: block;
-    border: 0;
-    outline: 0;
-    box-shadow: none;
 }
 
-/* 시리즈 공통 */
-.book-card .series-collage {
+.series-collage {
+    position: relative;
     width: 100%;
     height: 100%;
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
     display: grid;
-    gap: 8px;
-    background: transparent;
-    position: relative;
-    align-items: stretch;
-    justify-items: stretch;
+    gap: 4px;
+    align-content: end;
+    align-items: end;
 }
 
-/* 2권: 가로 2개 */
-.book-card .series-collage.series-count-2 {
+.series-collage.series-count-2 {
     grid-template-columns: repeat(2, minmax(0, 1fr));
     grid-template-rows: 1fr;
 }
 
-/* 3권: 위 2개 + 아래 가운데 1개 */
-.book-card .series-collage.series-count-3 {
+.series-collage.series-count-3,
+.series-collage.series-count-4 {
     grid-template-columns: repeat(2, minmax(0, 1fr));
     grid-template-rows: repeat(2, minmax(0, 1fr));
 }
 
-.book-card .series-collage.series-count-3 > img:nth-of-type(3) {
+.series-collage.series-count-3 > img:nth-of-type(3) {
     grid-column: 1 / -1;
-    width: calc(50% - 4px);
+    width: calc(50% - 2px);
     justify-self: center;
 }
 
-/* 4권 이상: 2 x 2 대표표지 */
-.book-card .series-collage.series-count-4 {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-    grid-template-rows: repeat(2, minmax(0, 1fr));
-}
-
-/* 시리즈 개별 표지: 잘리지 않고 셀을 최대한 활용 */
-.book-card .series-collage > img {
+.series-collage > img {
     width: 100%;
     height: 100%;
     min-width: 0;
     min-height: 0;
     object-fit: contain;
-    object-position: center;
+    object-position: bottom;
     display: block;
-    border: 0;
-    outline: 0;
-    box-shadow: none;
-    background: transparent;
 }
 
-/* hover 확대 제거 */
-.book-card:hover .cover img {
-    transform: none;
+.series-badge {
+    position: absolute;
+    right: 4px;
+    bottom: 4px;
+    z-index: 3;
+    background: rgba(17,18,20,.88);
+    color: #fff;
+    padding: 6px 8px;
+    font-size: 10px;
+    line-height: 1;
+    letter-spacing: .08em;
 }
 
-/* 책 표지 프레임 제거 */
-.book-card .cover {
-    background: transparent;
-    border: none;
-    padding: 0;
-    box-shadow: none;
-}
-
-/* 표지 이미지 비율 유지 */
-.book-card .cover > img,
-.book-card .single-series-wrap > img {
-    width: 100%;
-    height: 100%;
-    object-fit: contain;
-    object-position: center;
-}
-
-/* 여러 권의 표지 사이 간격 */
-.book-card .series-collage {
-    background: transparent;
-    gap: 4px;
-    padding: 0;
-    margin: 0;
-}
-
-.book-card .series-collage > img {
-    background: transparent;
-    object-fit: contain;
+.placeholder {
+    position: relative;
 }

@@ -292,35 +292,55 @@ window.BOOKS = [
     "category": "어린이",
     "type": "재직",
     "company": "파랑새",
-    "title": "어메이징 사이언스 7~8권",
-    "count": 2,
+    "title": "어메이징 사이언스 7권",
+    "count": 1,
     "availability": "추가 확인 필요",
-    "metric": "2종 편집 담당",
+    "metric": "편집 담당",
     "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 어린이 교양·학습 분야 편집 경험을 보여줌.",
     "url": "https://www.yes24.com/product/goods/76205417",
-    "covers": [
-      "https://image.yes24.com/momo/TopCate282/MidCate005/28149323.jpg",
-      "https://image.yes24.com/momo/TopCate339/MidCate007/33866135.jpg"
-    ]
+    "cover": "https://image.yes24.com/momo/TopCate282/MidCate005/28149323.jpg"
   },
   {
     "id": 23,
     "category": "어린이",
     "type": "재직",
     "company": "파랑새",
-    "title": "WHAT? 키즈 사이언스 9~10권",
-    "count": 2,
+    "title": "어메이징 사이언스 8권",
+    "count": 1,
     "availability": "추가 확인 필요",
     "metric": "2종 편집 담당",
     "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 어린이 교양·학습 분야 편집 경험을 보여줌.",
-    "url": "https://www.yes24.com/product/goods/15716619",
-    "covers": [
-      "https://image.yes24.com/momo/TopCate442/MidCate005/44141633.jpg",
-      "https://image.yes24.com/momo/TopCate442/MidCate005/44141813.jpg"
-    ]
+    "url": "https://www.yes24.com/product/goods/76205417",
+    "cover": "https://image.yes24.com/momo/TopCate339/MidCate007/33866135.jpg"
   },
   {
     "id": 24,
+    "category": "어린이",
+    "type": "재직",
+    "company": "파랑새",
+    "title": "WHAT? 키즈 사이언스 9권",
+    "count": 1,
+    "availability": "추가 확인 필요",
+    "metric": "편집 담당",
+    "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 어린이 교양·학습 분야 편집 경험을 보여줌.",
+    "url": "https://www.yes24.com/product/goods/15716619",
+    "cover": "https://image.yes24.com/momo/TopCate442/MidCate005/44141633.jpg"
+  },
+  {
+    "id": 25,
+    "category": "어린이",
+    "type": "재직",
+    "company": "파랑새",
+    "title": "WHAT? 키즈 사이언스 10권",
+    "count": 1,
+    "availability": "추가 확인 필요",
+    "metric": "편집 담당",
+    "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 어린이 교양·학습 분야 편집 경험을 보여줌.",
+    "url": "https://www.yes24.com/product/goods/15716619",
+    "cover": "https://image.yes24.com/momo/TopCate442/MidCate005/44141813.jpg"
+  },
+  {
+    "id": 26,
     "category": "어린이",
     "type": "재직",
     "company": "파랑새",
@@ -333,7 +353,7 @@ window.BOOKS = [
     "cover": "https://image.yes24.com/momo/TopCate276/MidCate005/27545684.jpg"
   },
   {
-    "id": 25,
+    "id": 27,
     "category": "어린이",
     "type": "재직",
     "company": "파랑새",
@@ -346,7 +366,7 @@ window.BOOKS = [
     "cover": "https://image.yes24.com/momo/TopCate304/MidCate001/30303757.jpg"
   },
   {
-    "id": 26,
+    "id": 28,
     "category": "어린이",
     "type": "재직",
     "company": "파랑새",
@@ -359,7 +379,7 @@ window.BOOKS = [
     "cover": "https://image.yes24.com/momo/TopCate325/MidCate005/32443787.jpg"
   },
   {
-    "id": 27,
+    "id": 29,
     "category": "어린이",
     "type": "재직",
     "company": "파랑새",
@@ -372,7 +392,7 @@ window.BOOKS = [
     "cover": "https://image.yes24.com/momo/TopCate345/MidCate008/34472404.jpg"
   },
   {
-    "id": 28,
+    "id": 30,
     "category": "어린이",
     "type": "재직",
     "company": "파랑새",
@@ -385,7 +405,7 @@ window.BOOKS = [
     "cover": "https://image.yes24.com/momo/TopCate363/MidCate008/36272202.jpg"
   },
   {
-    "id": 29,
+    "id": 31,
     "category": "어린이",
     "type": "재직",
     "company": "파랑새",
@@ -398,7 +418,7 @@ window.BOOKS = [
     "cover": "https://image.yes24.com/momo/TopCate675/MidCate002/67412335.jpg"
   },
   {
-    "id": 30,
+    "id": 32,
     "category": "어린이",
     "type": "재직",
     "company": "파랑새",
@@ -411,7 +431,7 @@ window.BOOKS = [
     "cover": "https://image.yes24.com/momo/TopCate675/MidCate002/67412214.jpg"
   },
   {
-    "id": 31,
+    "id": 33,
     "category": "어린이",
     "type": "재직",
     "company": "파랑새",
@@ -424,7 +444,7 @@ window.BOOKS = [
     "cover": "https://image.yes24.com/goods/9327615/XL"
   },
   {
-    "id": 32,
+    "id": 34,
     "category": "어린이",
     "type": "재직",
     "company": "파랑새",
@@ -437,7 +457,7 @@ window.BOOKS = [
     "cover": "https://image.yes24.com/momo/TopCate380/MidCate008/37971323.jpg"
   },
   {
-    "id": 33,
+    "id": 35,
     "category": "어린이",
     "type": "재직",
     "company": "파랑새",
@@ -450,7 +470,7 @@ window.BOOKS = [
     "cover": "https://image.yes24.com/goods/18199704/XL"
   },
   {
-    "id": 34,
+    "id": 36,
     "category": "어린이",
     "type": "재직",
     "company": "파랑새",
@@ -463,7 +483,7 @@ window.BOOKS = [
     "cover": "https://image.yes24.com/goods/20372133/XL"
   },
   {
-    "id": 35,
+    "id": 37,
     "category": "어린이",
     "type": "재직",
     "company": "파랑새",
@@ -476,7 +496,7 @@ window.BOOKS = [
     "cover": "https://image.yes24.com/momo/TopCate670/MidCate008/66889890.jpg"
   },
   {
-    "id": 36,
+    "id": 38,
     "category": "어린이",
     "type": "재직",
     "company": "파랑새",
@@ -489,7 +509,7 @@ window.BOOKS = [
     "cover": "https://image.yes24.com/goods/24419544/XL"
   },
   {
-    "id": 37,
+    "id": 39,
     "category": "어린이",
     "type": "재직",
     "company": "파랑새",
@@ -502,44 +522,85 @@ window.BOOKS = [
     "cover": "https://image.yes24.com/goods/14713860/XL"
   },
   {
-    "id": 38,
+    "id": 40,
     "category": "어린이",
     "type": "재직",
     "company": "파랑새",
-    "title": "파랑새 풍속여행 7~10권",
-    "count": 4,
+    "title": "파랑새 풍속여행 7권",
+    "count": 1,
     "availability": "추가 확인 필요",
-    "metric": "4종 편집 담당",
+    "metric": "편집 담당",
     "note": "온라인 서점 직접 링크가 없어 현재 판매 여부와 세부 유통 현황은 추가 확인이 필요한 작업. 어린이 교양·학습 분야 편집 경험을 보여줌.",
     "url": "",
-    "cover": "https://image.yes24.com/goods/4617049/XL",
-    "covers": [
-      "https://image.yes24.com/momo/TopCate287/MidCate008/28672588.jpg",
-      "https://image.yes24.com/momo/TopCate333/MidCate007/33262612.jpg",
-      "https://image.yes24.com/goods/13356544/XL",
-      "https://image.yes24.com/momo/TopCate499/MidCate001/49802977.jpg"
-
-    ]
+    "cover": "https://image.yes24.com/momo/TopCate287/MidCate008/28672588.jpg"
   },
   {
-    "id": 39,
+    "id": 41,
     "category": "어린이",
     "type": "재직",
     "company": "파랑새",
-    "title": "어린이 경제 1~2권",
-    "count": 2,
+    "title": "파랑새 풍속여행 8권",
+    "count": 1,
     "availability": "추가 확인 필요",
-    "metric": "2종 편집 담당",
-    "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 어린이 교양·학습 분야 편집 경험을 보여줌.",
-    "url": "https://www.yes24.com/product/goods/22465441",
-"covers": [
-      "https://image.yes24.com/momo/TopCate644/MidCate010/64333998.jpg",
-      "https://image.yes24.com/momo/TopCate644/MidCate010/64334006.jpg"
-
-    ]
+    "metric": "편집 담당",
+    "note": "온라인 서점 직접 링크가 없어 현재 판매 여부와 세부 유통 현황은 추가 확인이 필요한 작업. 어린이 교양·학습 분야 편집 경험을 보여줌.",
+    "url": "",
+    "cover": "https://image.yes24.com/momo/TopCate333/MidCate007/33262612.jpg"
   },
   {
-    "id": 40,
+    "id": 42,
+    "category": "어린이",
+    "type": "재직",
+    "company": "파랑새",
+    "title": "파랑새 풍속여행 9권",
+    "count": 1,
+    "availability": "추가 확인 필요",
+    "metric": "편집 담당",
+    "note": "온라인 서점 직접 링크가 없어 현재 판매 여부와 세부 유통 현황은 추가 확인이 필요한 작업. 어린이 교양·학습 분야 편집 경험을 보여줌.",
+    "url": "",
+    "cover": "https://image.yes24.com/goods/13356544/XL"
+  },
+  {
+    "id": 43,
+    "category": "어린이",
+    "type": "재직",
+    "company": "파랑새",
+    "title": "파랑새 풍속여행 10권",
+    "count": 1,
+    "availability": "추가 확인 필요",
+    "metric": "편집 담당",
+    "note": "온라인 서점 직접 링크가 없어 현재 판매 여부와 세부 유통 현황은 추가 확인이 필요한 작업. 어린이 교양·학습 분야 편집 경험을 보여줌.",
+    "url": "",
+    "cover": "https://image.yes24.com/momo/TopCate499/MidCate001/49802977.jpg"
+  },
+  {
+    "id": 44,
+    "category": "어린이",
+    "type": "재직",
+    "company": "파랑새",
+    "title": "어린이 경제 1권",
+    "count": 1,
+    "availability": "추가 확인 필요",
+    "metric": "편집 담당",
+    "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 어린이 교양·학습 분야 편집 경험을 보여줌.",
+    "url": "https://www.yes24.com/product/goods/22465441",
+    "cover": "https://image.yes24.com/momo/TopCate644/MidCate010/64333998.jpg"
+  },
+  {
+    "id": 45,
+    "category": "어린이",
+    "type": "재직",
+    "company": "파랑새",
+    "title": "어린이 경제 2권",
+    "count": 1,
+    "availability": "추가 확인 필요",
+    "metric": "편집 담당",
+    "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 어린이 교양·학습 분야 편집 경험을 보여줌.",
+    "url": "https://www.yes24.com/product/goods/22465441",
+    "cover": "https://image.yes24.com/momo/TopCate644/MidCate010/64334006.jpg"
+  },
+  {
+    "id": 46,
     "category": "어린이",
     "type": "재직",
     "company": "파랑새",
@@ -552,7 +613,7 @@ window.BOOKS = [
     "cover": "https://image.yes24.com/momo/TopCate1051/MidCate3/105020565.jpg"
   },
   {
-    "id": 41,
+    "id": 47,
     "category": "어린이",
     "type": "재직",
     "company": "파랑새",
@@ -562,11 +623,10 @@ window.BOOKS = [
     "metric": "5종 편집 담당",
     "note": "일부 권의 절판·품절이 확인되지만 시리즈 유통 흔적이 남아 있는 작업. 어린이 교양·학습 분야 편집 경험을 보여줌.",
     "url": "https://www.yes24.com/product/goods/76205401",
-    "cover": "https://image.yes24.com/goods/76205401/XL",
-   
+    "cover": "https://image.yes24.com/goods/76205401/XL"
   },
   {
-    "id": 42,
+    "id": 48,
     "category": "어린이",
     "type": "재직",
     "company": "파랑새",
@@ -579,7 +639,7 @@ window.BOOKS = [
     "cover": "https://image.yes24.com/momo/TopCate712/MidCate04/71130699.jpg"
   },
   {
-    "id": 43,
+    "id": 49,
     "category": "어린이",
     "type": "재직",
     "company": "북이십일",
@@ -592,7 +652,7 @@ window.BOOKS = [
     "cover": ""
   },
   {
-    "id": 44,
+    "id": 50,
     "category": "어린이",
     "type": "재직",
     "company": "길벗어린이",
@@ -608,7 +668,7 @@ window.BOOKS = [
     ]
   },
   {
-    "id": 45,
+    "id": 51,
     "category": "어린이",
     "type": "재직",
     "company": "길벗어린이",
@@ -621,7 +681,7 @@ window.BOOKS = [
     "cover": "https://image.yes24.com/goods/62162466/XL"
   },
   {
-    "id": 46,
+    "id": 52,
     "category": "어린이",
     "type": "재직",
     "company": "길벗어린이",
@@ -634,7 +694,7 @@ window.BOOKS = [
     "cover": "https://image.yes24.com/goods/61943499/XL"
   },
   {
-    "id": 47,
+    "id": 53,
     "category": "어린이",
     "type": "재직",
     "company": "사회평론",
@@ -650,7 +710,7 @@ window.BOOKS = [
     ]
   },
   {
-    "id": 48,
+    "id": 54,
     "category": "어린이",
     "type": "재직",
     "company": "백앤아월드",
@@ -663,7 +723,7 @@ window.BOOKS = [
     "cover": "https://image.yes24.com/goods/193095307/XL"
   },
   {
-    "id": 49,
+    "id": 55,
     "category": "유아",
     "type": "외주",
     "company": "이유출판",
@@ -676,7 +736,7 @@ window.BOOKS = [
     "cover": "https://image.yes24.com/momo/TopCate396/MidCate001/39504320.jpg"
   },
   {
-    "id": 50,
+    "id": 56,
     "category": "유아",
     "type": "외주",
     "company": "이유출판",
@@ -689,7 +749,7 @@ window.BOOKS = [
     "cover": "https://image.yes24.com/momo/TopCate676/MidCate009/67580010.jpg"
   },
   {
-    "id": 51,
+    "id": 57,
     "category": "유아",
     "type": "외주",
     "company": "이유출판",
@@ -702,7 +762,7 @@ window.BOOKS = [
     "cover": "https://image.yes24.com/momo/TopCate1115/MidCate001/111406136.jpg"
   },
   {
-    "id": 52,
+    "id": 58,
     "category": "유아",
     "type": "외주",
     "company": "이유출판",
@@ -715,7 +775,7 @@ window.BOOKS = [
     "cover": "https://image.yes24.com/goods/65049816/XL"
   },
   {
-    "id": 53,
+    "id": 59,
     "category": "유아",
     "type": "외주",
     "company": "이유출판",
@@ -728,7 +788,7 @@ window.BOOKS = [
     "cover": "https://image.yes24.com/goods/109724674/XL"
   },
   {
-    "id": 54,
+    "id": 60,
     "category": "유아",
     "type": "외주",
     "company": "이유출판",
@@ -741,7 +801,7 @@ window.BOOKS = [
     "cover": "https://image.yes24.com/goods/115777461/XL"
   },
   {
-    "id": 55,
+    "id": 61,
     "category": "예술",
     "type": "외주",
     "company": "이유출판",
@@ -754,7 +814,7 @@ window.BOOKS = [
     "cover": "https://image.yes24.com/momo/TopCate725/MidCate009/72489517.jpg"
   },
   {
-    "id": 56,
+    "id": 62,
     "category": "예술",
     "type": "외주",
     "company": "이유출판",
@@ -767,7 +827,7 @@ window.BOOKS = [
     "cover": "https://image.yes24.com/goods/115007188/XL"
   },
   {
-    "id": 57,
+    "id": 63,
     "category": "예술",
     "type": "외주",
     "company": "이유출판",
@@ -780,7 +840,7 @@ window.BOOKS = [
     "cover": "https://image.yes24.com/goods/118196081/XL"
   },
   {
-    "id": 58,
+    "id": 64,
     "category": "예술",
     "type": "외주",
     "company": "이유출판",
@@ -793,7 +853,7 @@ window.BOOKS = [
     "cover": "https://image.yes24.com/goods/139872585/XL"
   },
   {
-    "id": 59,
+    "id": 65,
     "category": "예술",
     "type": "외주",
     "company": "이유출판",
@@ -806,7 +866,7 @@ window.BOOKS = [
     "cover": "https://image.yes24.com/goods/142786684/XL"
   },
   {
-    "id": 60,
+    "id": 66,
     "category": "에세이",
     "type": "외주",
     "company": "이유출판",
@@ -819,7 +879,7 @@ window.BOOKS = [
     "cover": "https://image.yes24.com/goods/105384856/XL"
   },
   {
-    "id": 61,
+    "id": 67,
     "category": "에세이",
     "type": "외주",
     "company": "이유출판",
@@ -832,7 +892,7 @@ window.BOOKS = [
     "cover": "https://image.yes24.com/goods/110241958/XL"
   },
   {
-    "id": 62,
+    "id": 68,
     "category": "에세이",
     "type": "외주",
     "company": "이유출판",
@@ -845,7 +905,7 @@ window.BOOKS = [
     "cover": "https://image.yes24.com/goods/121119637/XL"
   },
   {
-    "id": 63,
+    "id": 69,
     "category": "에세이",
     "type": "외주",
     "company": "이유출판",
@@ -858,7 +918,7 @@ window.BOOKS = [
     "cover": "https://image.yes24.com/goods/118790972/XL"
   },
   {
-    "id": 64,
+    "id": 70,
     "category": "에세이",
     "type": "외주",
     "company": "이유출판",
@@ -871,7 +931,7 @@ window.BOOKS = [
     "cover": "https://image.yes24.com/goods/122090254/XL"
   },
   {
-    "id": 65,
+    "id": 71,
     "category": "에세이",
     "type": "외주",
     "company": "이유출판",
@@ -884,7 +944,7 @@ window.BOOKS = [
     "cover": "https://image.yes24.com/goods/126458455/XL"
   },
   {
-    "id": 66,
+    "id": 72,
     "category": "에세이",
     "type": "외주",
     "company": "이유출판",
@@ -897,7 +957,7 @@ window.BOOKS = [
     "cover": "https://image.yes24.com/goods/128945872/XL"
   },
   {
-    "id": 67,
+    "id": 73,
     "category": "에세이",
     "type": "외주",
     "company": "이유출판",
@@ -910,7 +970,7 @@ window.BOOKS = [
     "cover": "https://image.yes24.com/goods/135902538/XL"
   },
   {
-    "id": 68,
+    "id": 74,
     "category": "에세이",
     "type": "외주",
     "company": "이유출판",
@@ -923,7 +983,7 @@ window.BOOKS = [
     "cover": "https://image.yes24.com/goods/145648186/XL"
   },
   {
-    "id": 69,
+    "id": 75,
     "category": "에세이",
     "type": "외주",
     "company": "이유출판",
@@ -936,7 +996,7 @@ window.BOOKS = [
     "cover": "https://image.yes24.com/goods/153711609/XL"
   },
   {
-    "id": 70,
+    "id": 76,
     "category": "에세이",
     "type": "외주",
     "company": "이유출판",
@@ -949,7 +1009,7 @@ window.BOOKS = [
     "cover": "https://image.yes24.com/goods/180386804/XL"
   },
   {
-    "id": 71,
+    "id": 77,
     "category": "에세이",
     "type": "외주",
     "company": "이유출판",
@@ -962,7 +1022,7 @@ window.BOOKS = [
     "cover": "https://image.yes24.com/goods/194188362/XL"
   },
   {
-    "id": 72,
+    "id": 78,
     "category": "자연과학",
     "type": "외주",
     "company": "이유출판",
@@ -975,7 +1035,7 @@ window.BOOKS = [
     "cover": "https://image.yes24.com/goods/105659918/XL"
   },
   {
-    "id": 73,
+    "id": 79,
     "category": "사회 정치",
     "type": "외주",
     "company": "이유출판",
@@ -988,7 +1048,7 @@ window.BOOKS = [
     "cover": "https://image.yes24.com/goods/111681380/XL"
   },
   {
-    "id": 74,
+    "id": 80,
     "category": "자연과학",
     "type": "외주",
     "company": "이유출판",
@@ -1001,7 +1061,7 @@ window.BOOKS = [
     "cover": "https://image.yes24.com/goods/117971212/XL"
   },
   {
-    "id": 75,
+    "id": 81,
     "category": "인문",
     "type": "외주",
     "company": "이유출판",
@@ -1014,7 +1074,7 @@ window.BOOKS = [
     "cover": "https://image.yes24.com/goods/110442500/XL"
   },
   {
-    "id": 76,
+    "id": 82,
     "category": "인문",
     "type": "외주",
     "company": "이유출판",
@@ -1027,7 +1087,7 @@ window.BOOKS = [
     "cover": "https://image.yes24.com/goods/124038555/XL"
   },
   {
-    "id": 77,
+    "id": 83,
     "category": "인문",
     "type": "외주",
     "company": "이유출판",
@@ -1040,7 +1100,7 @@ window.BOOKS = [
     "cover": "https://image.yes24.com/goods/151049211/XL"
   },
   {
-    "id": 78,
+    "id": 84,
     "category": "인문",
     "type": "외주",
     "company": "이유출판",
@@ -1053,7 +1113,7 @@ window.BOOKS = [
     "cover": "https://image.yes24.com/goods/191693300/XL"
   },
   {
-    "id": 79,
+    "id": 85,
     "category": "자기계발",
     "type": "외주",
     "company": "이유출판",
@@ -1066,7 +1126,7 @@ window.BOOKS = [
     "cover": "https://image.yes24.com/goods/150163766/XL"
   },
   {
-    "id": 80,
+    "id": 86,
     "category": "어린이",
     "type": "외주",
     "company": "북이십일",
@@ -1082,7 +1142,7 @@ window.BOOKS = [
     ]
   },
   {
-    "id": 81,
+    "id": 87,
     "category": "어린이",
     "type": "외주",
     "company": "북이십일",
@@ -1095,7 +1155,7 @@ window.BOOKS = [
     "cover": "https://image.yes24.com/goods/174087496/XL"
   },
   {
-    "id": 82,
+    "id": 88,
     "category": "가정 살림",
     "type": "외주",
     "company": "글상자/지식상자",
@@ -1108,7 +1168,7 @@ window.BOOKS = [
     "cover": "https://image.yes24.com/momo/TopCate877/MidCate009/87689643.jpg"
   },
   {
-    "id": 83,
+    "id": 89,
     "category": "어린이",
     "type": "외주",
     "company": "글상자/지식상자",
@@ -1121,7 +1181,7 @@ window.BOOKS = [
     "cover": "https://image.yes24.com/goods/67111107/XL"
   },
   {
-    "id": 84,
+    "id": 90,
     "category": "건강 취미",
     "type": "외주",
     "company": "글상자/지식상자",
@@ -1134,7 +1194,7 @@ window.BOOKS = [
     "cover": "https://image.yes24.com/momo/TopCate722/MidCate004/72137396.jpg"
   },
   {
-    "id": 85,
+    "id": 91,
     "category": "건강 취미",
     "type": "외주",
     "company": "글상자/지식상자",
@@ -1147,7 +1207,7 @@ window.BOOKS = [
     "cover": "https://image.yes24.com/momo/TopCate851/MidCate006/85059811.jpg"
   },
   {
-    "id": 86,
+    "id": 92,
     "category": "인문",
     "type": "외주",
     "company": "글상자/지식상자",
@@ -1160,7 +1220,7 @@ window.BOOKS = [
     "cover": "https://image.yes24.com/momo/TopCate582/MidCate007/58165247.jpg"
   },
   {
-    "id": 87,
+    "id": 93,
     "category": "가정 살림",
     "type": "외주",
     "company": "글상자/지식상자",
@@ -1173,7 +1233,7 @@ window.BOOKS = [
     "cover": "https://image.yes24.com/momo/TopCate1109/MidCate006/110852383.jpg"
   },
   {
-    "id": 88,
+    "id": 94,
     "category": "건강 취미",
     "type": "외주",
     "company": "글상자/지식상자",
@@ -1186,7 +1246,7 @@ window.BOOKS = [
     "cover": "https://image.yes24.com/momo/TopCate665/MidCate006/66456575.jpg"
   },
   {
-    "id": 89,
+    "id": 95,
     "category": "청소년",
     "type": "외주",
     "company": "한빛에듀",
@@ -1199,7 +1259,7 @@ window.BOOKS = [
     "cover": "https://image.yes24.com/goods/127098745/XL"
   },
   {
-    "id": 90,
+    "id": 96,
     "category": "청소년",
     "type": "외주",
     "company": "한빛에듀",
@@ -1215,7 +1275,7 @@ window.BOOKS = [
     ]
   },
   {
-    "id": 91,
+    "id": 97,
     "category": "청소년",
     "type": "외주",
     "company": "한빛에듀",
@@ -1228,7 +1288,7 @@ window.BOOKS = [
     "cover": "https://image.yes24.com/goods/142764639/XL"
   },
   {
-    "id": 92,
+    "id": 98,
     "category": "청소년",
     "type": "외주",
     "company": "한빛에듀",
@@ -1241,44 +1301,111 @@ window.BOOKS = [
     "cover": "https://image.yes24.com/goods/150109693/XL"
   },
   {
-    "id": 93,
+    "id": 99,
     "category": "유아",
     "type": "외주",
     "company": "탁툰",
-    "title": "린다의 신기한 여행 1~5권",
-    "count": 5,
+    "title": "린다의 신기한 여행 1권",
+    "count": 1,
     "availability": "일부 품절/시리즈 유통",
-    "metric": "5종 턴키 제작",
+    "metric": "턴키 제작",
     "note": "5종 턴키 제작 경험을 보여주는 시리즈. 일부 권은 품절 상태지만 시리즈 관련 상품 유통 흔적은 남아 있음.",
     "url": "https://www.yes24.com/product/goods/105277264",
-    "covers": [
-      "https://image.yes24.com/goods/105277264/XL",
-      "https://image.yes24.com/goods/105277281/XL",
-      "https://image.yes24.com/goods/105277380/XL",
-      "https://image.yes24.com/goods/105277403/XL",
-      "https://image.yes24.com/goods/105277419/XL"
-
-    ]
+    "cover": "https://image.yes24.com/goods/105277264/XL"
   },
   {
-    "id": 94,
+    "id": 100,
+    "category": "유아",
+    "type": "외주",
+    "company": "탁툰",
+    "title": "린다의 신기한 여행 2권",
+    "count": 1,
+    "availability": "일부 품절/시리즈 유통",
+    "metric": "턴키 제작",
+    "note": "5종 턴키 제작 경험을 보여주는 시리즈. 일부 권은 품절 상태지만 시리즈 관련 상품 유통 흔적은 남아 있음.",
+    "url": "https://www.yes24.com/product/goods/105277264",
+    "cover": "https://image.yes24.com/goods/105277281/XL"
+  },
+  {
+    "id": 101,
+    "category": "유아",
+    "type": "외주",
+    "company": "탁툰",
+    "title": "린다의 신기한 여행 3권",
+    "count": 1,
+    "availability": "일부 품절/시리즈 유통",
+    "metric": "턴키 제작",
+    "note": "5종 턴키 제작 경험을 보여주는 시리즈. 일부 권은 품절 상태지만 시리즈 관련 상품 유통 흔적은 남아 있음.",
+    "url": "https://www.yes24.com/product/goods/105277264",
+    "cover": "https://image.yes24.com/goods/105277380/XL"
+  },
+  {
+    "id": 102,
+    "category": "유아",
+    "type": "외주",
+    "company": "탁툰",
+    "title": "린다의 신기한 여행 4권",
+    "count": 1,
+    "availability": "일부 품절/시리즈 유통",
+    "metric": "턴키 제작",
+    "note": "5종 턴키 제작 경험을 보여주는 시리즈. 일부 권은 품절 상태지만 시리즈 관련 상품 유통 흔적은 남아 있음.",
+    "url": "https://www.yes24.com/product/goods/105277264",
+    "cover": "https://image.yes24.com/goods/105277403/XL"
+  },
+  {
+    "id": 103,
+    "category": "유아",
+    "type": "외주",
+    "company": "탁툰",
+    "title": "린다의 신기한 여행 5권",
+    "count": 1,
+    "availability": "일부 품절/시리즈 유통",
+    "metric": "턴키 제작",
+    "note": "5종 턴키 제작 경험을 보여주는 시리즈. 일부 권은 품절 상태지만 시리즈 관련 상품 유통 흔적은 남아 있음.",
+    "url": "https://www.yes24.com/product/goods/105277264",
+    "cover": "https://image.yes24.com/goods/105277419/XL"
+  },
+  {
+    "id": 104,
     "category": "어린이",
     "type": "외주",
     "company": "길벗스쿨",
-    "title": "이상한 과자 가게 전천당: 행운의 갈림길 1~3권",
-    "count": 3,
+    "title": "이상한 과자 가게 전천당: 행운의 갈림길 1권",
+    "count": 1,
     "availability": "강한 판매",
-    "metric": "3종 편집 담당",
+    "metric": "편집 담당",
     "note": "현재 ‘행운의 갈림길’ 1~4권 세트까지 확장되어 YES24에서 판매 중이며 세트 리뷰가 200건 이상 누적된 대형 IP 작업.",
     "url": "https://www.yes24.com/product/category/series/001?SeriesNumber=258010",
-    "covers": [
-      "https://image.yes24.com/goods/139702782/XL",
-      "https://image.yes24.com/goods/148332391/XL",
-      "https://image.yes24.com/goods/167428502/XL"
-    ]
+    "cover": "https://image.yes24.com/goods/139702782/XL"
   },
   {
-    "id": 95,
+    "id": 105,
+    "category": "어린이",
+    "type": "외주",
+    "company": "길벗스쿨",
+    "title": "이상한 과자 가게 전천당: 행운의 갈림길 2권",
+    "count": 1,
+    "availability": "강한 판매",
+    "metric": "편집 담당",
+    "note": "현재 ‘행운의 갈림길’ 1~4권 세트까지 확장되어 YES24에서 판매 중이며 세트 리뷰가 200건 이상 누적된 대형 IP 작업.",
+    "url": "https://www.yes24.com/product/category/series/001?SeriesNumber=258010",
+    "cover": "https://image.yes24.com/goods/148332391/XL"
+  },
+  {
+    "id": 106,
+    "category": "어린이",
+    "type": "외주",
+    "company": "길벗스쿨",
+    "title": "이상한 과자 가게 전천당: 행운의 갈림길 3권",
+    "count": 1,
+    "availability": "강한 판매",
+    "metric": "편집 담당",
+    "note": "현재 ‘행운의 갈림길’ 1~4권 세트까지 확장되어 YES24에서 판매 중이며 세트 리뷰가 200건 이상 누적된 대형 IP 작업.",
+    "url": "https://www.yes24.com/product/category/series/001?SeriesNumber=258010",
+    "cover": "https://image.yes24.com/goods/167428502/XL"
+  },
+  {
+    "id": 107,
     "category": "어린이",
     "type": "외주",
     "company": "길벗스쿨",
@@ -1291,7 +1418,7 @@ window.BOOKS = [
     "cover": "https://image.yes24.com/goods/142874035/XL"
   },
   {
-    "id": 96,
+    "id": 108,
     "category": "건강 취미",
     "type": "외주",
     "company": "중앙북스",
