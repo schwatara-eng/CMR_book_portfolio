@@ -19,7 +19,12 @@ html {
 
 body {
     margin:0;
-    background:var(--paper);
+    background-color:#d6d9d8;
+    background-image:linear-gradient(rgba(255,255,255,.42),rgba(255,255,255,.42)),url("images/background.jpg");
+    background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat;
+    background-attachment:fixed;
     color:var(--ink);
     font-family:Arial,"Noto Sans KR",sans-serif;
     letter-spacing:-.02em
@@ -34,8 +39,9 @@ body {
     border-bottom:1px solid var(--line);
     position:sticky;
     top:0;
-    background:rgba(245,244,240,.94);
+    background:transparent;
     backdrop-filter:blur(12px);
+    color:#173c3c;
     z-index:20
 }
 
@@ -49,7 +55,8 @@ body {
 
 .brand span {
     font-weight:400;
-    color:var(--muted);
+    color:#fff;
+    text-shadow:0 1px 3px rgba(0,0,0,.85),0 2px 8px rgba(0,0,0,.55);
     margin-left:10px;
     letter-spacing:.01em
 }
@@ -72,7 +79,8 @@ body {
 .eyebrow {
     font-size:11px;
     letter-spacing:.14em;
-    color:var(--muted);
+    color:#fff;
+    text-shadow:0 1px 3px rgba(0,0,0,.85),0 2px 8px rgba(0,0,0,.55);
     margin:0 0 24px
 }
 
@@ -83,12 +91,15 @@ body {
     letter-spacing:-.055em;
     font-weight:400;
     margin:0;
-    max-width:1100px
+    max-width:1100px;
+    color:#fff;
+    text-shadow:0 1px 5px rgba(0,0,0,.22)
 }
 
 .hero h1 em {
     font-weight:400;
-    color:var(--accent)
+    color:#064d46;
+    text-shadow:none
 }
 
 .hero-copy {
@@ -96,7 +107,8 @@ body {
     line-height:1.8;
     max-width:600px;
     margin:36px 0 56px;
-    color:#4d5055
+    color:#fff;
+    text-shadow:0 1px 3px rgba(0,0,0,.7),0 2px 8px rgba(0,0,0,.45)
 }
 
 .stats {
@@ -117,14 +129,17 @@ body {
 .stats strong {
     font-family:Georgia,serif;
     font-size:30px;
-    font-weight:400
+    font-weight:400;
+    color:#fff;
+    text-shadow:0 1px 5px rgba(0,0,0,.22)
 }
 
 .stats span {
     font-size:11px;
     text-transform:uppercase;
     letter-spacing:.08em;
-    color:var(--muted)
+    color:#fff;
+    text-shadow:0 1px 3px rgba(0,0,0,.7),0 2px 8px rgba(0,0,0,.45)
 }
 
 .archive {
@@ -153,7 +168,8 @@ body {
 
 .result-count {
     font-size:12px;
-    color:var(--muted)
+    color:#fff;
+    text-shadow:0 1px 3px rgba(0,0,0,.85),0 2px 8px rgba(0,0,0,.55)
 }
 
 .toolbar {
@@ -240,21 +256,23 @@ body {
     gap:10px;
     margin-top:14px;
     font-size:10px;
-    color:var(--muted);
+    color:#fff;
+    text-shadow:0 1px 3px rgba(0,0,0,.85),0 2px 8px rgba(0,0,0,.55);
     letter-spacing:.06em;
     text-transform:uppercase
 }
 
 .book-card h3 {
     font-size:16px;
-    line-height:1.45;
+    line-height:1;
     margin:7px 0 5px;
     font-weight:650
 }
 
 .card-note {
     font-size:12px;
-    color:var(--muted);
+    color:#fff;
+    text-shadow:0 1px 3px rgba(0,0,0,.85),0 2px 8px rgba(0,0,0,.55);
     white-space:nowrap;
     overflow:hidden;
     text-overflow:ellipsis
