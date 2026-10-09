@@ -725,3 +725,33 @@ footer {
 .book-card:hover .cover img {
     transform: none;
 }
+
+/* 책 표지 프레임 제거 */
+.book-card .cover {
+    background: transparent;
+    border: none;
+    padding: 0;
+    box-shadow: none;
+}
+
+/* 표지 이미지 비율 유지 */
+.book-card .cover > img,
+.book-card .single-series-wrap > img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    object-position: center;
+}
+
+/* 여러 권의 표지 사이 간격 */
+.book-card .series-collage {
+    background: transparent;
+    gap: 4px;
+    padding: 0;
+    margin: 0;
+}
+
+.book-card .series-collage > img {
+    background: transparent;
+    object-fit: contain;
+}
