@@ -110,7 +110,7 @@ function openBook(book){
       <div class="detail-row"><dt>분야</dt><dd>${escapeHtml(book.category||'—')}</dd></div>
       <div class="detail-row"><dt>상태</dt><dd>${escapeHtml(book.availability||'—')}</dd></div>
       <div class="detail-row"><dt>작업 내용</dt><dd>${escapeHtml(book.metric||'추가 조사 중')}</dd></div>
-      <div class="detail-row"><dt>성과 메모</dt><dd>${escapeHtml(book.note||'—')}</dd></div>
+      <div class="detail-row"><dt>코멘트</dt><dd>${escapeHtml(book.note||'—')}</dd></div>
     </dl>
     ${bibliographyMarkup(book)}
     ${book.url?`<a class="store-link" href="${escapeHtml(book.url)}" target="_blank" rel="noopener noreferrer">서점 / 출처 페이지 보기 ↗</a>`:''}
