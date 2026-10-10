@@ -68,9 +68,37 @@ function render(){
   emptyState.hidden=list.length!==0;
 }
 
+function bibliographyMarkup(book){
+  const info = book.bibliography || {};
+  const formatPrice = value => {
+    if (value === null || value === undefined || String(value).trim() === '') return '';
+    const raw = String(value).trim();
+    const numeric = raw.replace(/[,\s원₩]/g, '');
+    return /^\d+$/.test(numeric) ? Number(numeric).toLocaleString('ko-KR') + '원' : raw;
+  };
+  const fields = [
+    ['글', info.author],
+    ['그림', info.illustrator],
+    ['번역', info.translator],
+    ['출판사', info.publisher],
+    ['출간일', info.published],
+    ['제본', info.binding],
+    ['판형', info.dimensions],
+    ['쪽수', info.pages],
+    ['ISBN', info.isbn13],
+    ['정가', formatPrice(info.price)]
+  ];
+  const rows = fields.filter(([, value]) => value !== null && value !== undefined && String(value).trim() !== '');
+  if (!rows.length) return '';
+  return `<section class="bibliography" aria-label="도서 서지정보">
+    <h3>도서 정보</h3>
+    <dl class="bibliography-list">${rows.map(([label, value]) =>
+      `<div class="bibliography-row"><dt>${escapeHtml(label)}</dt><dd>${escapeHtml(value)}</dd></div>`
+    ).join('')}</dl>
+  </section>`;
+}
+
 function openBook(book){
-  // 모달도 먼저 안전한 텍스트 마크업만 만든 뒤 이미지 src를 DOM으로 주입한다.
-  // 외부 이미지 주소 때문에 modalBody.innerHTML 구조가 깨지는 것을 원천적으로 차단한다.
   const image = book.cover
     ? `<img class="modal-cover-img" alt="${escapeHtml(book.title)} 표지" referrerpolicy="no-referrer">`
     : placeholder(book);
@@ -84,6 +112,7 @@ function openBook(book){
       <div class="detail-row"><dt>작업 내용</dt><dd>${escapeHtml(book.metric||'추가 조사 중')}</dd></div>
       <div class="detail-row"><dt>성과 메모</dt><dd>${escapeHtml(book.note||'—')}</dd></div>
     </dl>
+    ${bibliographyMarkup(book)}
     ${book.url?`<a class="store-link" href="${escapeHtml(book.url)}" target="_blank" rel="noopener noreferrer">서점 / 출처 페이지 보기 ↗</a>`:''}
   </div></div>`;
 

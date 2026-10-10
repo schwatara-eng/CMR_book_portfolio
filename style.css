@@ -610,3 +610,61 @@ footer {
 .placeholder {
     position: relative;
 }
+
+/* 상세창: 표지의 세로형 프레임을 제거하고 좌우 여백 확보 */
+.modal {
+    width: min(1080px, calc(100% - 32px));
+    max-height: min(90vh, 940px);
+    overflow-y: auto;
+}
+.modal-grid {
+    grid-template-columns: minmax(0, 48%) minmax(0, 52%);
+    min-height: 0;
+}
+.modal-cover {
+    background: transparent;
+    padding: 48px 36px;
+    align-items: center;
+    justify-content: center;
+}
+.modal-cover img {
+    width: auto;
+    height: auto;
+    max-width: 100%;
+    max-height: min(72vh, 670px);
+    object-fit: contain;
+    box-shadow: 0 9px 20px rgba(0,0,0,.12);
+}
+.modal-copy {
+    padding: 54px 44px 46px 32px;
+}
+.bibliography {
+    margin-top: 26px;
+}
+.bibliography h3 {
+    margin: 0 0 14px;
+    font-size: 15px;
+    font-weight: 700;
+}
+.bibliography-list {
+    margin: 0;
+    border-top: 1px solid var(--line);
+}
+.bibliography-row {
+    display: grid;
+    grid-template-columns: 96px minmax(0,1fr);
+    gap: 12px;
+    padding: 9px 0;
+    border-bottom: 1px solid var(--line);
+    font-size: 12px;
+    line-height: 1.5;
+}
+.bibliography-row dt { color: var(--muted); }
+.bibliography-row dd { margin: 0; overflow-wrap: anywhere; }
+@media (max-width: 720px) {
+    .modal-grid { grid-template-columns: 1fr; }
+    .modal-cover { padding: 36px 32px 22px; }
+    .modal-cover img { max-height: 340px; }
+    .modal-copy { padding: 28px 24px 36px; }
+    .bibliography-row { grid-template-columns: 82px minmax(0,1fr); }
+}
