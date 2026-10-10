@@ -1202,16 +1202,74 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/12800238",
     "cover": "https://image.yes24.com/momo/TopCate712/MidCate04/71130699.jpg",
     "bibliography": {
-      "author": "",
-      "illustrator": "",
+      "author": "장혜미(17권) · 윤상석(18권) · 강이든(19·20권)",
+      "illustrator": "박재현(17권) · 김다정(18권) · 이상미(19권) · 심보영(20권)",
       "translator": "",
-      "publisher": "왓스쿨(파랑새)",
-      "published": "",
+      "publisher": "왓스쿨",
+      "published": "2014.07~2015.01",
       "binding": "",
-      "dimensions": "",
-      "pages": "",
+      "dimensions": "187×250mm (두께 권별 상이)",
+      "pages": "각 112쪽",
       "isbn13": "",
-      "price": null
+      "price": null,
+      "volumes": [
+        {
+          "volume": 17,
+          "title": "유전",
+          "author": "장혜미",
+          "illustrator": "박재현",
+          "supervisor": "권오길",
+          "publisher": "왓스쿨",
+          "published": "2014.07.08",
+          "pages": "112쪽",
+          "dimensions": "187×250×12mm",
+          "isbn13": "9788961553155",
+          "price": 9900,
+          "url": "https://www.yes24.com/product/goods/13953040"
+        },
+        {
+          "volume": 18,
+          "title": "줄기세포",
+          "author": "윤상석",
+          "illustrator": "김다정",
+          "supervisor": "권오길",
+          "publisher": "왓스쿨",
+          "published": "2014.11.07",
+          "pages": "112쪽",
+          "dimensions": "187×250×8mm",
+          "isbn13": "9788961553162",
+          "price": 9900,
+          "url": "https://www.yes24.com/product/goods/15123708"
+        },
+        {
+          "volume": 19,
+          "title": "빅데이터",
+          "author": "강이든",
+          "illustrator": "이상미",
+          "supervisor": "정순기",
+          "publisher": "왓스쿨",
+          "published": "2015.01.23",
+          "pages": "112쪽",
+          "dimensions": "187×250×8mm",
+          "isbn13": "9788961553179",
+          "price": 9900,
+          "url": "https://www.yes24.com/product/goods/16425641"
+        },
+        {
+          "volume": 20,
+          "title": "로봇과 인공지능",
+          "author": "강이든",
+          "illustrator": "심보영",
+          "supervisor": "정순기",
+          "publisher": "왓스쿨",
+          "published": "2015.01.23",
+          "pages": "112쪽",
+          "dimensions": "187×250×10mm",
+          "isbn13": "9788961553186",
+          "price": 9900,
+          "url": "https://www.yes24.com/product/goods/17972020"
+        }
+      ]
     }
   },
   {
@@ -3230,15 +3288,15 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/20477793",
     "cover": "https://image.yes24.com/momo/TopCate582/MidCate007/58165247.jpg",
     "bibliography": {
-      "author": "",
+      "author": "조한빈 편",
       "illustrator": "",
       "translator": "",
-      "publisher": "",
-      "published": "",
+      "publisher": "지식상자",
+      "published": "2015.09.30",
       "binding": "",
-      "dimensions": "",
-      "pages": "",
-      "isbn13": "",
+      "dimensions": "180×173×20mm",
+      "pages": "240쪽",
+      "isbn13": "9791195574742",
       "price": null
     }
   },
