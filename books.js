@@ -1194,86 +1194,103 @@ window.BOOKS = [
     "category": "어린이",
     "type": "재직",
     "company": "파랑새",
-    "title": "WHAT? 초등과학 17~20권",
-    "count": 4,
+    "title": "WHAT? 초등과학 17권 — 유전",
+    "count": 1,
     "availability": "추가 확인 필요",
-    "metric": "4종 편집 담당",
-    "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 어린이 교양·학습 분야 편집 경험을 보여줌.",
-    "url": "https://www.yes24.com/product/goods/12800238",
-    "cover": "https://image.yes24.com/momo/TopCate712/MidCate04/71130699.jpg",
+    "metric": "1종 편집 담당",
+    "note": "어린이 과학 교양서 단권 편집 담당.",
+    "url": "https://www.yes24.com/product/goods/13953040",
+    "cover": "https://image.yes24.com/goods/13953040/XL",
     "bibliography": {
-      "author": "장혜미(17권) · 윤상석(18권) · 강이든(19·20권)",
-      "illustrator": "박재현(17권) · 김다정(18권) · 이상미(19권) · 심보영(20권)",
+      "author": "장혜미",
+      "illustrator": "박재현",
       "translator": "",
       "publisher": "왓스쿨",
-      "published": "2014.07~2015.01",
+      "published": "2014.07.08",
       "binding": "",
-      "dimensions": "187×250mm (두께 권별 상이)",
-      "pages": "각 112쪽",
-      "isbn13": "",
-      "price": null,
-      "volumes": [
-        {
-          "volume": 17,
-          "title": "유전",
-          "author": "장혜미",
-          "illustrator": "박재현",
-          "supervisor": "권오길",
-          "publisher": "왓스쿨",
-          "published": "2014.07.08",
-          "pages": "112쪽",
-          "dimensions": "187×250×12mm",
-          "isbn13": "9788961553155",
-          "price": 9900,
-          "url": "https://www.yes24.com/product/goods/13953040"
-        },
-        {
-          "volume": 18,
-          "title": "줄기세포",
-          "author": "윤상석",
-          "illustrator": "김다정",
-          "supervisor": "권오길",
-          "publisher": "왓스쿨",
-          "published": "2014.11.07",
-          "pages": "112쪽",
-          "dimensions": "187×250×8mm",
-          "isbn13": "9788961553162",
-          "price": 9900,
-          "url": "https://www.yes24.com/product/goods/15123708"
-        },
-        {
-          "volume": 19,
-          "title": "빅데이터",
-          "author": "강이든",
-          "illustrator": "이상미",
-          "supervisor": "정순기",
-          "publisher": "왓스쿨",
-          "published": "2015.01.23",
-          "pages": "112쪽",
-          "dimensions": "187×250×8mm",
-          "isbn13": "9788961553179",
-          "price": 9900,
-          "url": "https://www.yes24.com/product/goods/16425641"
-        },
-        {
-          "volume": 20,
-          "title": "로봇과 인공지능",
-          "author": "강이든",
-          "illustrator": "심보영",
-          "supervisor": "정순기",
-          "publisher": "왓스쿨",
-          "published": "2015.01.23",
-          "pages": "112쪽",
-          "dimensions": "187×250×10mm",
-          "isbn13": "9788961553186",
-          "price": 9900,
-          "url": "https://www.yes24.com/product/goods/17972020"
-        }
-      ]
+      "dimensions": "187×250×12mm",
+      "pages": "112쪽",
+      "isbn13": "9788961553155",
+      "price": 9900
     }
   },
   {
     "id": 49,
+    "category": "어린이",
+    "type": "재직",
+    "company": "파랑새",
+    "title": "WHAT? 초등과학 18권 — 줄기세포",
+    "count": 1,
+    "availability": "추가 확인 필요",
+    "metric": "1종 편집 담당",
+    "note": "어린이 과학 교양서 단권 편집 담당.",
+    "url": "https://www.yes24.com/product/goods/15123708",
+    "cover": "https://image.yes24.com/goods/15123708/XL",
+    "bibliography": {
+      "author": "윤상석",
+      "illustrator": "김다정",
+      "translator": "",
+      "publisher": "왓스쿨",
+      "published": "2014.11.07",
+      "binding": "",
+      "dimensions": "187×250×8mm",
+      "pages": "112쪽",
+      "isbn13": "9788961553162",
+      "price": 9900
+    }
+  },
+  {
+    "id": 50,
+    "category": "어린이",
+    "type": "재직",
+    "company": "파랑새",
+    "title": "WHAT? 초등과학 19권 — 빅데이터",
+    "count": 1,
+    "availability": "추가 확인 필요",
+    "metric": "1종 편집 담당",
+    "note": "어린이 과학 교양서 단권 편집 담당.",
+    "url": "https://www.yes24.com/product/goods/16425641",
+    "cover": "https://image.yes24.com/goods/16425641/XL",
+    "bibliography": {
+      "author": "강이든",
+      "illustrator": "이상미",
+      "translator": "",
+      "publisher": "왓스쿨",
+      "published": "2015.01.23",
+      "binding": "",
+      "dimensions": "187×250×8mm",
+      "pages": "112쪽",
+      "isbn13": "9788961553179",
+      "price": 9900
+    }
+  },
+  {
+    "id": 51,
+    "category": "어린이",
+    "type": "재직",
+    "company": "파랑새",
+    "title": "WHAT? 초등과학 20권 — 로봇과 인공지능",
+    "count": 1,
+    "availability": "추가 확인 필요",
+    "metric": "1종 편집 담당",
+    "note": "어린이 과학 교양서 단권 편집 담당.",
+    "url": "https://www.yes24.com/product/goods/17972020",
+    "cover": "https://image.yes24.com/goods/17972020/XL",
+    "bibliography": {
+      "author": "강이든",
+      "illustrator": "심보영",
+      "translator": "",
+      "publisher": "왓스쿨",
+      "published": "2015.01.23",
+      "binding": "",
+      "dimensions": "187×250×10mm",
+      "pages": "112쪽",
+      "isbn13": "9788961553186",
+      "price": 9900
+    }
+  },
+  {
+    "id": 52,
     "category": "어린이",
     "type": "재직",
     "company": "북이십일",
@@ -1298,7 +1315,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 50,
+    "id": 53,
     "category": "어린이",
     "type": "재직",
     "company": "길벗어린이",
@@ -1326,7 +1343,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 51,
+    "id": 54,
     "category": "어린이",
     "type": "재직",
     "company": "길벗어린이",
@@ -1351,7 +1368,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 52,
+    "id": 55,
     "category": "어린이",
     "type": "재직",
     "company": "길벗어린이",
@@ -1376,7 +1393,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 53,
+    "id": 56,
     "category": "어린이",
     "type": "재직",
     "company": "사회평론",
@@ -1401,7 +1418,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 129,
+    "id": 132,
     "category": "어린이",
     "type": "재직",
     "company": "사회평론",
@@ -1426,7 +1443,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 130,
+    "id": 133,
     "category": "어린이",
     "type": "재직",
     "company": "사회평론",
@@ -1451,7 +1468,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 131,
+    "id": 134,
     "category": "어린이",
     "type": "재직",
     "company": "사회평론",
@@ -1476,7 +1493,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 132,
+    "id": 135,
     "category": "어린이",
     "type": "재직",
     "company": "사회평론",
@@ -1501,7 +1518,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 133,
+    "id": 136,
     "category": "어린이",
     "type": "재직",
     "company": "사회평론",
@@ -1526,7 +1543,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 134,
+    "id": 137,
     "category": "어린이",
     "type": "재직",
     "company": "사회평론",
@@ -1551,7 +1568,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 135,
+    "id": 138,
     "category": "어린이",
     "type": "재직",
     "company": "사회평론",
@@ -1576,7 +1593,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 136,
+    "id": 139,
     "category": "어린이",
     "type": "재직",
     "company": "사회평론",
@@ -1601,7 +1618,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 137,
+    "id": 140,
     "category": "어린이",
     "type": "재직",
     "company": "사회평론",
@@ -1626,7 +1643,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 138,
+    "id": 141,
     "category": "어린이",
     "type": "재직",
     "company": "사회평론",
@@ -1651,7 +1668,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 139,
+    "id": 142,
     "category": "어린이",
     "type": "재직",
     "company": "사회평론",
@@ -1676,7 +1693,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 140,
+    "id": 143,
     "category": "어린이",
     "type": "재직",
     "company": "사회평론",
@@ -1701,7 +1718,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 141,
+    "id": 144,
     "category": "어린이",
     "type": "재직",
     "company": "사회평론",
@@ -1726,7 +1743,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 142,
+    "id": 145,
     "category": "어린이",
     "type": "재직",
     "company": "사회평론",
@@ -1751,7 +1768,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 143,
+    "id": 146,
     "category": "어린이",
     "type": "재직",
     "company": "사회평론",
@@ -1776,7 +1793,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 144,
+    "id": 147,
     "category": "어린이",
     "type": "재직",
     "company": "사회평론",
@@ -1801,7 +1818,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 145,
+    "id": 148,
     "category": "어린이",
     "type": "재직",
     "company": "사회평론",
@@ -1826,7 +1843,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 146,
+    "id": 149,
     "category": "어린이",
     "type": "재직",
     "company": "사회평론",
@@ -1851,7 +1868,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 147,
+    "id": 150,
     "category": "어린이",
     "type": "재직",
     "company": "사회평론",
@@ -1876,7 +1893,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 148,
+    "id": 151,
     "category": "어린이",
     "type": "재직",
     "company": "사회평론",
@@ -1901,7 +1918,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 149,
+    "id": 152,
     "category": "어린이",
     "type": "재직",
     "company": "사회평론",
@@ -1926,7 +1943,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 54,
+    "id": 57,
     "category": "어린이",
     "type": "재직",
     "company": "백앤아월드",
@@ -1951,7 +1968,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 55,
+    "id": 58,
     "category": "유아",
     "type": "외주",
     "company": "이유출판",
@@ -1976,7 +1993,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 56,
+    "id": 59,
     "category": "유아",
     "type": "외주",
     "company": "이유출판",
@@ -2001,7 +2018,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 57,
+    "id": 60,
     "category": "유아",
     "type": "외주",
     "company": "이유출판",
@@ -2026,7 +2043,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 58,
+    "id": 61,
     "category": "유아",
     "type": "외주",
     "company": "이유출판",
@@ -2051,7 +2068,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 59,
+    "id": 62,
     "category": "유아",
     "type": "외주",
     "company": "이유출판",
@@ -2076,7 +2093,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 60,
+    "id": 63,
     "category": "유아",
     "type": "외주",
     "company": "이유출판",
@@ -2101,7 +2118,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 61,
+    "id": 64,
     "category": "예술",
     "type": "외주",
     "company": "이유출판",
@@ -2126,7 +2143,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 62,
+    "id": 65,
     "category": "예술",
     "type": "외주",
     "company": "이유출판",
@@ -2151,7 +2168,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 63,
+    "id": 66,
     "category": "예술",
     "type": "외주",
     "company": "이유출판",
@@ -2176,7 +2193,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 64,
+    "id": 67,
     "category": "예술",
     "type": "외주",
     "company": "이유출판",
@@ -2201,7 +2218,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 65,
+    "id": 68,
     "category": "예술",
     "type": "외주",
     "company": "이유출판",
@@ -2226,7 +2243,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 66,
+    "id": 69,
     "category": "에세이",
     "type": "외주",
     "company": "이유출판",
@@ -2251,7 +2268,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 67,
+    "id": 70,
     "category": "에세이",
     "type": "외주",
     "company": "이유출판",
@@ -2276,7 +2293,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 68,
+    "id": 71,
     "category": "에세이",
     "type": "외주",
     "company": "이유출판",
@@ -2301,7 +2318,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 69,
+    "id": 72,
     "category": "에세이",
     "type": "외주",
     "company": "이유출판",
@@ -2326,7 +2343,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 70,
+    "id": 73,
     "category": "에세이",
     "type": "외주",
     "company": "이유출판",
@@ -2351,7 +2368,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 71,
+    "id": 74,
     "category": "에세이",
     "type": "외주",
     "company": "이유출판",
@@ -2376,7 +2393,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 72,
+    "id": 75,
     "category": "에세이",
     "type": "외주",
     "company": "이유출판",
@@ -2401,7 +2418,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 73,
+    "id": 76,
     "category": "에세이",
     "type": "외주",
     "company": "이유출판",
@@ -2426,7 +2443,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 74,
+    "id": 77,
     "category": "에세이",
     "type": "외주",
     "company": "이유출판",
@@ -2451,7 +2468,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 75,
+    "id": 78,
     "category": "에세이",
     "type": "외주",
     "company": "이유출판",
@@ -2476,7 +2493,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 76,
+    "id": 79,
     "category": "에세이",
     "type": "외주",
     "company": "이유출판",
@@ -2501,7 +2518,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 77,
+    "id": 80,
     "category": "에세이",
     "type": "외주",
     "company": "이유출판",
@@ -2526,7 +2543,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 78,
+    "id": 81,
     "category": "자연과학",
     "type": "외주",
     "company": "이유출판",
@@ -2551,7 +2568,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 79,
+    "id": 82,
     "category": "사회 정치",
     "type": "외주",
     "company": "이유출판",
@@ -2576,7 +2593,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 80,
+    "id": 83,
     "category": "자연과학",
     "type": "외주",
     "company": "이유출판",
@@ -2601,7 +2618,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 81,
+    "id": 84,
     "category": "인문",
     "type": "외주",
     "company": "이유출판",
@@ -2626,7 +2643,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 82,
+    "id": 85,
     "category": "인문",
     "type": "외주",
     "company": "이유출판",
@@ -2651,7 +2668,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 83,
+    "id": 86,
     "category": "인문",
     "type": "외주",
     "company": "이유출판",
@@ -2676,7 +2693,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 84,
+    "id": 87,
     "category": "인문",
     "type": "외주",
     "company": "이유출판",
@@ -2701,7 +2718,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 85,
+    "id": 88,
     "category": "자기계발",
     "type": "외주",
     "company": "이유출판",
@@ -2726,7 +2743,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 86,
+    "id": 89,
     "category": "어린이",
     "type": "외주",
     "company": "북이십일",
@@ -2751,7 +2768,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 110,
+    "id": 113,
     "category": "어린이",
     "type": "외주",
     "company": "북이십일",
@@ -2776,7 +2793,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 111,
+    "id": 114,
     "category": "어린이",
     "type": "외주",
     "company": "북이십일",
@@ -2801,7 +2818,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 112,
+    "id": 115,
     "category": "어린이",
     "type": "외주",
     "company": "북이십일",
@@ -2826,7 +2843,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 113,
+    "id": 116,
     "category": "어린이",
     "type": "외주",
     "company": "북이십일",
@@ -2851,7 +2868,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 114,
+    "id": 117,
     "category": "어린이",
     "type": "외주",
     "company": "북이십일",
@@ -2876,7 +2893,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 115,
+    "id": 118,
     "category": "어린이",
     "type": "외주",
     "company": "북이십일",
@@ -2901,7 +2918,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 116,
+    "id": 119,
     "category": "어린이",
     "type": "외주",
     "company": "북이십일",
@@ -2926,7 +2943,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 117,
+    "id": 120,
     "category": "어린이",
     "type": "외주",
     "company": "북이십일",
@@ -2951,7 +2968,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 118,
+    "id": 121,
     "category": "어린이",
     "type": "외주",
     "company": "북이십일",
@@ -2976,7 +2993,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 119,
+    "id": 122,
     "category": "어린이",
     "type": "외주",
     "company": "북이십일",
@@ -3001,7 +3018,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 120,
+    "id": 123,
     "category": "어린이",
     "type": "외주",
     "company": "북이십일",
@@ -3026,7 +3043,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 87,
+    "id": 90,
     "category": "어린이",
     "type": "외주",
     "company": "북이십일",
@@ -3051,7 +3068,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 122,
+    "id": 125,
     "category": "어린이",
     "type": "외주",
     "company": "북이십일",
@@ -3076,7 +3093,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 123,
+    "id": 126,
     "category": "어린이",
     "type": "외주",
     "company": "북이십일",
@@ -3101,7 +3118,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 124,
+    "id": 127,
     "category": "어린이",
     "type": "외주",
     "company": "북이십일",
@@ -3126,7 +3143,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 125,
+    "id": 128,
     "category": "어린이",
     "type": "외주",
     "company": "북이십일",
@@ -3151,7 +3168,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 126,
+    "id": 129,
     "category": "어린이",
     "type": "외주",
     "company": "북이십일",
@@ -3176,7 +3193,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 88,
+    "id": 91,
     "category": "가정 살림",
     "type": "외주",
     "company": "글상자/지식상자",
@@ -3201,7 +3218,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 89,
+    "id": 92,
     "category": "어린이",
     "type": "외주",
     "company": "글상자/지식상자",
@@ -3226,7 +3243,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 90,
+    "id": 93,
     "category": "건강 취미",
     "type": "외주",
     "company": "글상자/지식상자",
@@ -3251,7 +3268,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 91,
+    "id": 94,
     "category": "건강 취미",
     "type": "외주",
     "company": "글상자/지식상자",
@@ -3276,7 +3293,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 92,
+    "id": 95,
     "category": "인문",
     "type": "외주",
     "company": "글상자/지식상자",
@@ -3301,7 +3318,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 93,
+    "id": 96,
     "category": "가정 살림",
     "type": "외주",
     "company": "글상자/지식상자",
@@ -3326,7 +3343,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 94,
+    "id": 97,
     "category": "건강 취미",
     "type": "외주",
     "company": "글상자/지식상자",
@@ -3351,7 +3368,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 95,
+    "id": 98,
     "category": "청소년",
     "type": "외주",
     "company": "한빛에듀",
@@ -3376,7 +3393,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 96,
+    "id": 99,
     "category": "청소년",
     "type": "외주",
     "company": "한빛에듀",
@@ -3404,7 +3421,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 97,
+    "id": 100,
     "category": "청소년",
     "type": "외주",
     "company": "한빛에듀",
@@ -3429,7 +3446,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 98,
+    "id": 101,
     "category": "청소년",
     "type": "외주",
     "company": "한빛에듀",
@@ -3454,7 +3471,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 99,
+    "id": 102,
     "category": "유아",
     "type": "외주",
     "company": "탁툰",
@@ -3479,7 +3496,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 100,
+    "id": 103,
     "category": "유아",
     "type": "외주",
     "company": "탁툰",
@@ -3504,7 +3521,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 101,
+    "id": 104,
     "category": "유아",
     "type": "외주",
     "company": "탁툰",
@@ -3529,7 +3546,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 102,
+    "id": 105,
     "category": "유아",
     "type": "외주",
     "company": "탁툰",
@@ -3554,7 +3571,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 103,
+    "id": 106,
     "category": "유아",
     "type": "외주",
     "company": "탁툰",
@@ -3579,7 +3596,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 104,
+    "id": 107,
     "category": "어린이",
     "type": "외주",
     "company": "길벗스쿨",
@@ -3604,7 +3621,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 105,
+    "id": 108,
     "category": "어린이",
     "type": "외주",
     "company": "길벗스쿨",
@@ -3629,7 +3646,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 106,
+    "id": 109,
     "category": "어린이",
     "type": "외주",
     "company": "길벗스쿨",
@@ -3654,7 +3671,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 107,
+    "id": 110,
     "category": "어린이",
     "type": "외주",
     "company": "길벗스쿨",
@@ -3679,7 +3696,7 @@ window.BOOKS = [
     }
   },
   {
-    "id": 108,
+    "id": 111,
     "category": "건강 취미",
     "type": "외주",
     "company": "중앙북스",
