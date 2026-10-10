@@ -20,7 +20,7 @@ html {
 body {
     margin:0;
     background-color:#d6d9d8;
-    background-image:linear-gradient(rgba(255,255,255,.42),rgba(255,255,255,.42)),url("images/pexels-angel-balcruz-3574423-15426315.jpg");
+    background-image:linear-gradient(rgba(255,255,255,.50),rgba(255,255,255,.42)),url("images/background.jpg");
     background-size:cover;
     background-position:center;
     background-repeat:no-repeat;
@@ -78,7 +78,7 @@ body {
 }
 
 .eyebrow {
-    font-size:11px;
+    font-size:12px;
     letter-spacing:.14em;
     color:#fff;
     text-shadow:0 1px 3px rgba(0,0,0,.85),0 2px 8px rgba(0,0,0,.55);
@@ -88,28 +88,31 @@ body {
 .hero h1 {
     font-family:Georgia,"Times New Roman",serif;
     font-size:clamp(48px,7.5vw,108px);
+    font-weight: 400;
+    -webkit-text-stroke: 0.3px currentColor;
+    text-shadow: 0 1px 3px rgba(0, 0, 0, 0.18);
     line-height:1.1;
     letter-spacing:-.055em;
-    font-weight:400;
     margin:0;
     max-width:1100px;
     color:#fff;
-    text-shadow:0 1px 5px rgba(0,0,0,.22)
+    text-shadow:0 1px 3px rgba(0,0,0,.5)
 }
 
 .hero h1 em {
     font-weight:400;
+    -webkit-text-stroke: 2px currentColor;
     color:#064d46;
-    text-shadow:none
+    text-shadow:0 1px 3px rgba(0,0,0,0.4)
 }
 
 .hero-copy {
-    font-size:16px;
+    font-size:18px;
     line-height:1.8;
     max-width:600px;
     margin:36px 0 56px;
     color:#fff;
-    text-shadow:0 1px 3px rgba(0,0,0,.7),0 2px 8px rgba(0,0,0,.45)
+    text-shadow:0 1px 3px rgba(0,0,0,0.5),0 2px 8px rgba(0,0,0,.45)
 }
 
 .stats {
@@ -440,11 +443,10 @@ footer {
     max-width:var(--max);
     margin:auto;
     padding:28px clamp(22px,4vw,64px);
-    border-top:1px solid var(--line);
     display:flex;
     justify-content:space-between;
-    font-size:10px;
-    color:var(--muted);
+    font-size:11px;
+    color:black;
     letter-spacing:.05em
 }
 
@@ -683,11 +685,11 @@ footer {
 
 /* 작업 도서 영역 반투명 베다 */
 .archive {
-  background: rgba(255, 250, 240, 0.50);
+  background: rgba(255, 255, 255, 0.1);
   border-radius: 16px;
   padding: 40px 48px 56px;
-  backdrop-filter: blur(8px);
-  -webkit-backdrop-filter: blur(8px);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
 }
 
 /* 모바일 화면 */
@@ -696,4 +698,32 @@ footer {
     padding: 24px 16px 36px;
     border-radius: 10px;
   }
+}
+/* 밝은 베다 위의 도서 정보 가독성 */
+.archive .eyebrow,
+.archive .result-count,
+.archive .card-meta,
+.archive .card-note {
+  color: #3e4944;
+  text-shadow: none;
+}
+
+.archive .book-card h3 {
+  color: #171c19;
+  line-height: 1.35;
+}
+
+/* 표지에는 별도 프레임이나 배경을 추가하지 않음 */
+.archive .cover {
+  background: transparent;
+  border: 0;
+  box-shadow: none;
+  padding: 0;
+}
+
+/* 출판사명: Hero 강조 문구와 같은 색상, 1px 확대 */
+.archive .book-card .card-meta > :first-child {
+  color: #064d46;
+  font-size: 11px;
+  text-shadow: none;
 }
