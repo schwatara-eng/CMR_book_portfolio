@@ -20,7 +20,7 @@ html {
 body {
     margin:0;
     background-color:#d6d9d8;
-    background-image:linear-gradient(rgba(255,255,255,.42),rgba(255,255,255,.42)),url("pexels-arturoaez225-15963985.jpg");
+    background-image:linear-gradient(rgba(255,255,255,.42),rgba(255,255,255,.42)),url("images/pexels-angel-balcruz-3574423-15426315.jpg");
     background-size:cover;
     background-position:center;
     background-repeat:no-repeat;
@@ -75,24 +75,6 @@ body {
   max-width: var(--max);
   margin: auto;
   padding: clamp(72px, 10vw, 150px) clamp(22px, 4vw, 64px) 72px;
-}
-
-.hero-visual {
-  position: absolute;
-  right: 0;
-  top: 50%;
-  transform: translateY(-50%);
-  width: 42%;
-  max-width: 520px;
-  pointer-events: none;
-  z-index: 1;
-}
-
-.hero-visual img {
-  width: 100%;
-  height: auto;
-  display: block;
-  mix-blend-mode: multiply;
 }
 
 .eyebrow {
@@ -697,4 +679,21 @@ footer {
     .modal-cover img { max-height: 340px; }
     .modal-copy { padding: 28px 24px 36px; }
     .bibliography-row { grid-template-columns: 82px minmax(0,1fr); }
+}
+
+/* 작업 도서 영역 반투명 베다 */
+.archive {
+  background: rgba(255, 250, 240, 0.50);
+  border-radius: 16px;
+  padding: 40px 48px 56px;
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+}
+
+/* 모바일 화면 */
+@media (max-width: 768px) {
+  .archive {
+    padding: 24px 16px 36px;
+    border-radius: 10px;
+  }
 }
