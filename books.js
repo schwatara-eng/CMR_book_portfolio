@@ -1135,8 +1135,8 @@ window.BOOKS = [
     "availability": "추가 확인 필요",
     "metric": "턴키 제작·일정·외주 총괄 PM",
     "note": "시리즈 12종 턴키 제작·일정·외주 총괄 PM 담당. 개별 권의 서점 링크 및 표지 확인 필요.",
-    "url": "https://www.yes24.com/product/goods/124151936",
-    "cover": ""
+    "url": "https://www.yes24.com/product/goods/120184644",
+    "cover": "https://image.yes24.com/goods/120184644/XL"
   },
   {
     "id": 110,
@@ -1148,8 +1148,8 @@ window.BOOKS = [
     "availability": "추가 확인 필요",
     "metric": "턴키 제작·일정·외주 총괄 PM",
     "note": "시리즈 12종 턴키 제작·일정·외주 총괄 PM 담당. 개별 권의 서점 링크 및 표지 확인 필요.",
-    "url": "https://www.yes24.com/product/goods/124151936",
-    "cover": ""
+    "url": "https://www.yes24.com/product/goods/120185003",
+    "cover": "https://image.yes24.com/goods/120185003/XL"
   },
   {
     "id": 111,
@@ -1161,8 +1161,8 @@ window.BOOKS = [
     "availability": "추가 확인 필요",
     "metric": "턴키 제작·일정·외주 총괄 PM",
     "note": "시리즈 12종 턴키 제작·일정·외주 총괄 PM 담당. 개별 권의 서점 링크 및 표지 확인 필요.",
-    "url": "https://www.yes24.com/product/goods/124151936",
-    "cover": ""
+    "url": "https://www.yes24.com/product/goods/120185011",
+    "cover": "https://image.yes24.com/goods/120185011/XL"
   },
   {
     "id": 112,
@@ -1174,8 +1174,8 @@ window.BOOKS = [
     "availability": "추가 확인 필요",
     "metric": "턴키 제작·일정·외주 총괄 PM",
     "note": "시리즈 12종 턴키 제작·일정·외주 총괄 PM 담당. 개별 권의 서점 링크 및 표지 확인 필요.",
-    "url": "https://www.yes24.com/product/goods/124151936",
-    "cover": ""
+    "url": "https://www.yes24.com/product/goods/120185020",
+    "cover": "https://image.yes24.com/goods/120185020/XL"
   },
   {
     "id": 113,
@@ -1187,8 +1187,8 @@ window.BOOKS = [
     "availability": "추가 확인 필요",
     "metric": "턴키 제작·일정·외주 총괄 PM",
     "note": "시리즈 12종 턴키 제작·일정·외주 총괄 PM 담당. 개별 권의 서점 링크 및 표지 확인 필요.",
-    "url": "https://www.yes24.com/product/goods/124151936",
-    "cover": ""
+    "url": "https://www.yes24.com/product/goods/120185029",
+    "cover": "https://image.yes24.com/goods/120185029/XL"
   },
   {
     "id": 114,
@@ -1200,8 +1200,8 @@ window.BOOKS = [
     "availability": "추가 확인 필요",
     "metric": "턴키 제작·일정·외주 총괄 PM",
     "note": "시리즈 12종 턴키 제작·일정·외주 총괄 PM 담당. 개별 권의 서점 링크 및 표지 확인 필요.",
-    "url": "https://www.yes24.com/product/goods/124151936",
-    "cover": ""
+    "url": "https://www.yes24.com/product/goods/120185034",
+    "cover": "https://image.yes24.com/goods/120185034/XL"
   },
   {
     "id": 115,
@@ -1213,8 +1213,8 @@ window.BOOKS = [
     "availability": "추가 확인 필요",
     "metric": "턴키 제작·일정·외주 총괄 PM",
     "note": "시리즈 12종 턴키 제작·일정·외주 총괄 PM 담당. 개별 권의 서점 링크 및 표지 확인 필요.",
-    "url": "https://www.yes24.com/product/goods/124151936",
-    "cover": ""
+    "url": "https://www.yes24.com/product/goods/124151888",
+    "cover": "https://image.yes24.com/goods/124151888/XL"
   },
   {
     "id": 116,
@@ -1226,8 +1226,8 @@ window.BOOKS = [
     "availability": "추가 확인 필요",
     "metric": "턴키 제작·일정·외주 총괄 PM",
     "note": "시리즈 12종 턴키 제작·일정·외주 총괄 PM 담당. 개별 권의 서점 링크 및 표지 확인 필요.",
-    "url": "https://www.yes24.com/product/goods/124151936",
-    "cover": ""
+    "url": "https://www.yes24.com/product/goods/124151893",
+    "cover": "https://image.yes24.com/goods/124151893/XL"
   },
   {
     "id": 117,
@@ -1239,8 +1239,8 @@ window.BOOKS = [
     "availability": "추가 확인 필요",
     "metric": "턴키 제작·일정·외주 총괄 PM",
     "note": "시리즈 12종 턴키 제작·일정·외주 총괄 PM 담당. 개별 권의 서점 링크 및 표지 확인 필요.",
-    "url": "https://www.yes24.com/product/goods/124151936",
-    "cover": ""
+    "url": "https://www.yes24.com/product/goods/124151899",
+    "cover": "https://image.yes24.com/goods/124151899/XL"
   },
   {
     "id": 118,
@@ -1252,8 +1252,8 @@ window.BOOKS = [
     "availability": "추가 확인 필요",
     "metric": "턴키 제작·일정·외주 총괄 PM",
     "note": "시리즈 12종 턴키 제작·일정·외주 총괄 PM 담당. 개별 권의 서점 링크 및 표지 확인 필요.",
-    "url": "https://www.yes24.com/product/goods/124151936",
-    "cover": ""
+    "url": "https://www.yes24.com/product/goods/124151906",
+    "cover": "https://image.yes24.com/goods/124151906/XL"
   },
   {
     "id": 119,
@@ -1265,8 +1265,8 @@ window.BOOKS = [
     "availability": "추가 확인 필요",
     "metric": "턴키 제작·일정·외주 총괄 PM",
     "note": "시리즈 12종 턴키 제작·일정·외주 총괄 PM 담당. 개별 권의 서점 링크 및 표지 확인 필요.",
-    "url": "https://www.yes24.com/product/goods/124151936",
-    "cover": ""
+    "url": "https://www.yes24.com/product/goods/124151914",
+    "cover": "https://image.yes24.com/goods/124151914/XL"
   },
   {
     "id": 120,
@@ -1278,8 +1278,8 @@ window.BOOKS = [
     "availability": "추가 확인 필요",
     "metric": "턴키 제작·일정·외주 총괄 PM",
     "note": "시리즈 12종 턴키 제작·일정·외주 총괄 PM 담당. 개별 권의 서점 링크 및 표지 확인 필요.",
-    "url": "https://www.yes24.com/product/goods/124151936",
-    "cover": ""
+    "url": "https://www.yes24.com/product/goods/124151921",
+    "cover": "https://image.yes24.com/goods/124151921/XL"
   },
   {
     "id": 87,
@@ -1291,8 +1291,8 @@ window.BOOKS = [
     "availability": "추가 확인 필요",
     "metric": "편집 담당",
     "note": "시리즈 6종 편집 담당. 개별 권의 서점 링크 및 표지 확인 필요.",
-    "url": "https://www.yes24.com/product/goods/174087496",
-    "cover": ""
+    "url": "https://www.yes24.com/product/goods/113761446",
+    "cover": "https://image.yes24.com/goods/113761446/XL"
   },
   {
     "id": 122,
@@ -1304,8 +1304,8 @@ window.BOOKS = [
     "availability": "추가 확인 필요",
     "metric": "편집 담당",
     "note": "시리즈 6종 편집 담당. 개별 권의 서점 링크 및 표지 확인 필요.",
-    "url": "https://www.yes24.com/product/goods/174087496",
-    "cover": ""
+    "url": "https://www.yes24.com/product/goods/113761465",
+    "cover": "https://image.yes24.com/goods/113761465/XL"
   },
   {
     "id": 123,
@@ -1317,8 +1317,8 @@ window.BOOKS = [
     "availability": "추가 확인 필요",
     "metric": "편집 담당",
     "note": "시리즈 6종 편집 담당. 개별 권의 서점 링크 및 표지 확인 필요.",
-    "url": "https://www.yes24.com/product/goods/174087496",
-    "cover": ""
+    "url": "https://www.yes24.com/product/goods/123164375",
+    "cover": "https://image.yes24.com/goods/123164375/XL"
   },
   {
     "id": 124,
@@ -1330,8 +1330,8 @@ window.BOOKS = [
     "availability": "추가 확인 필요",
     "metric": "편집 담당",
     "note": "시리즈 6종 편집 담당. 개별 권의 서점 링크 및 표지 확인 필요.",
-    "url": "https://www.yes24.com/product/goods/174087496",
-    "cover": ""
+    "url": "https://www.yes24.com/product/goods/123164379",
+    "cover": "https://image.yes24.com/goods/123164379/XL"
   },
   {
     "id": 125,
@@ -1343,8 +1343,8 @@ window.BOOKS = [
     "availability": "추가 확인 필요",
     "metric": "편집 담당",
     "note": "시리즈 6종 편집 담당. 개별 권의 서점 링크 및 표지 확인 필요.",
-    "url": "https://www.yes24.com/product/goods/174087496",
-    "cover": ""
+    "url": "https://www.yes24.com/product/goods/147066653",
+    "cover": "https://image.yes24.com/goods/147066653/XL"
   },
   {
     "id": 126,
@@ -1356,8 +1356,8 @@ window.BOOKS = [
     "availability": "추가 확인 필요",
     "metric": "편집 담당",
     "note": "시리즈 6종 편집 담당. 개별 권의 서점 링크 및 표지 확인 필요.",
-    "url": "https://www.yes24.com/product/goods/174087496",
-    "cover": ""
+    "url": "https://www.yes24.com/product/goods/147066687",
+    "cover": "https://image.yes24.com/goods/147066687/XL"
   },
   {
     "id": 88,
