@@ -7,8 +7,8 @@ window.BOOKS = [
     "title": "철학자가 들려주는 철학 이야기",
     "count": 24,
     "availability": "장기 유통",
-    "metric": "24종 편집 담당",
-    "note": "YES24에 1~100권 세트 상품 페이지가 남아 있는 장기 시리즈. 100권 완간 프로젝트 중 24종을 담당한 작업.",
+    "metric": "24종 기획 담당",
+    "note": "초등 철학 교양 읽기물 시리즈 편집 경험. 논술 교육이 강조되던 시기의 기획물. 각 권 원고 일정 진행 및 내용 기획, 검수. 100권 완간 후 오프라인 도서관 강연투어 이벤트 기획 진행.",
     "url": "https://www.yes24.com/product/goods/108422242",
     "cover": "https://image.yes24.com/goods/108422242/XL",
     "covers": [
@@ -36,7 +36,7 @@ window.BOOKS = [
     "count": 1,
     "availability": "과거 학습물",
     "metric": "편집 담당",
-    "note": "2010년형 초등 학습물. 현재는 신간 판매성과보다 당시 제작·편집 경험 자체를 보여주는 자료로 보는 편이 적절함.",
+    "note": "2010년 출간된 초등 문제지. 초등 학습교재 편집 경험.",
     "url": "https://www.yes24.com/product/goods/4244877",
     "cover": "https://image.yes24.com/momo/TopCate93/MidCate01/9208773.jpg",
     "bibliography": {
@@ -61,7 +61,7 @@ window.BOOKS = [
     "count": 11,
     "availability": "장기 유통",
     "metric": "11종 편집 담당",
-    "note": "전 40권 구성 전집으로 확인되며 현재 YES24 중고 상품 유통 흔적이 남아 있음. 40권 중 11종 담당.",
+    "note": "출판대행 기획사 재직 당시 수주받은 프로젝트. 전 40권 중 11종 원고, 삽화 등 초등 사회 전집 편집 진행 담당.",
     "url": "https://www.yes24.com/product/goods/113752121",
     "cover": "https://image.yes24.com/goods/113752121/XL",
     "covers": [
@@ -89,7 +89,7 @@ window.BOOKS = [
     "count": 23,
     "availability": "공식 판매 지속",
     "metric": "23종 편집 담당",
-    "note": "80권 구성의 과학지식만화 전집으로 YES24 중고 판매 페이지가 확인됨. 장기 유통된 과학 학습만화 프로젝트.",
+    "note": "출판대행 기획사 재직 당시 수주받은 프로젝트. 전 80권 중 23권 총괄 및 편집 진행 담당. 글콘티, 그림(데생-선화-채색), 학습원고 구성 등 초등 과학 학습만화 편집 경험. 장기 유통 및 해외 수출 성과.",
     "url": "https://www.yes24.com/product/goods/16686175",
     "cover": "https://image.yes24.com/goods/16686175/XL",
     "covers": [
@@ -117,7 +117,7 @@ window.BOOKS = [
     "count": 1,
     "availability": "판매중",
     "metric": "편집 담당",
-    "note": "현재 유통·판매가 확인되는 작업. 유아·그림책 분야 편집 경험을 보여줌.",
+    "note": "유아 문학 그림책 편집 경험.",
     "url": "https://www.yes24.com/product/goods/8957192",
     "cover": "https://image.yes24.com/goods/8957192/XL",
     "bibliography": {
@@ -142,7 +142,7 @@ window.BOOKS = [
     "count": 1,
     "availability": "판매중",
     "metric": "편집 담당",
-    "note": "2014년 출간작으로 현재도 YES24에서 판매 중. 리뷰 17건과 판매지수 700대가 확인되는 장기 판매 그림책.",
+    "note": "유아 문학 그림책 편집 경험. 예스24 리뷰 17건, 판매지수 700대.",
     "url": "https://www.yes24.com/product/goods/12458901",
     "cover": "https://image.yes24.com/goods/12458901/XL",
     "bibliography": {
@@ -167,7 +167,7 @@ window.BOOKS = [
     "count": 1,
     "availability": "판매중",
     "metric": "편집 담당",
-    "note": "현재 유통·판매가 확인되는 작업. 유아·그림책 분야 편집 경험을 보여줌.",
+    "note": "유아 문학 그림책 편집 경험.",
     "url": "https://www.yes24.com/product/goods/12458902",
     "cover": "https://image.yes24.com/goods/12458902/XL",
     "bibliography": {
@@ -192,7 +192,7 @@ window.BOOKS = [
     "count": 1,
     "availability": "판매중",
     "metric": "편집 담당",
-    "note": "2014년 출간 후 현재도 YES24에서 판매 중. 리뷰 5건, 판매지수 12가 확인되는 그림책.",
+    "note": "유아 문학 그림책 편집 경험. 예스24 리뷰 5건, 판매지수 12.",
     "url": "https://www.yes24.com/product/goods/12581370",
     "cover": "https://image.yes24.com/goods/12581370/XL",
     "bibliography": {
@@ -217,7 +217,7 @@ window.BOOKS = [
     "count": 1,
     "availability": "판매중",
     "metric": "편집 담당",
-    "note": "현재 유통·판매가 확인되는 작업. 유아·그림책 분야 편집 경험을 보여줌.",
+    "note": "유아 문학 그림책 편집 경험.",
     "url": "https://www.yes24.com/product/goods/17133092",
     "cover": "https://image.yes24.com/goods/17133092/XL",
     "bibliography": {
@@ -242,7 +242,7 @@ window.BOOKS = [
     "count": 1,
     "availability": "판매중",
     "metric": "편집 담당",
-    "note": "현재 유통·판매가 확인되는 작업. 유아·그림책 분야 편집 경험을 보여줌.",
+    "note": "유아 문학 그림책 편집 경험.",
     "url": "https://www.yes24.com/product/goods/15481904",
     "cover": "https://image.yes24.com/goods/15481904/XL",
     "bibliography": {
@@ -267,7 +267,7 @@ window.BOOKS = [
     "count": 1,
     "availability": "추가 확인 필요",
     "metric": "편집 담당",
-    "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 유아·그림책 분야 편집 경험을 보여줌.",
+    "note": "유아 문학 그림책 편집 경험.",
     "url": "https://www.yes24.com/product/goods/15481906",
     "cover": "https://image.yes24.com/momo/TopCate435/MidCate004/43434555.jpg",
     "bibliography": {
@@ -292,7 +292,7 @@ window.BOOKS = [
     "count": 1,
     "availability": "추가 확인 필요",
     "metric": "편집 담당",
-    "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 유아·그림책 분야 편집 경험을 보여줌.",
+    "note": "유아 문학 그림책 국내개발 및 편집 경험.",
     "url": "https://www.yes24.com/product/goods/13875377",
     "cover": "https://image.yes24.com/momo/TopCate390/MidCate007/38961524.jpg",
     "bibliography": {
@@ -317,7 +317,7 @@ window.BOOKS = [
     "count": 1,
     "availability": "추가 확인 필요",
     "metric": "편집 담당",
-    "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 유아·그림책 분야 편집 경험을 보여줌.",
+    "note": "유아 문학 그림책 국내개발 및 편집 경험.",
     "url": "https://www.yes24.com/product/goods/12270458",
     "cover": "https://image.yes24.com/goods/12270458/XL",
     "bibliography": {
@@ -342,7 +342,7 @@ window.BOOKS = [
     "count": 1,
     "availability": "추가 확인 필요",
     "metric": "편집 담당",
-    "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 유아·그림책 분야 편집 경험을 보여줌.",
+    "note": "유아 교양 그림책 편집 경험.",
     "url": "https://www.yes24.com/Product/goods/13947210",
     "cover": "https://image.yes24.com/goods/13947210/XL",
     "bibliography": {
@@ -367,7 +367,7 @@ window.BOOKS = [
     "count": 1,
     "availability": "추가 확인 필요",
     "metric": "편집 담당",
-    "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 유아·그림책 분야 편집 경험을 보여줌.",
+    "note": "유아 교양 그림책 편집 경험.",
     "url": "https://www.yes24.com/product/goods/189860606",
     "cover": "https://image.yes24.com/goods/189860606/XL",
     "bibliography": {
@@ -392,7 +392,7 @@ window.BOOKS = [
     "count": 1,
     "availability": "판매중",
     "metric": "편집 담당",
-    "note": "현재 유통·판매가 확인되는 작업. 유아·그림책 분야 편집 경험을 보여줌.",
+    "note": "유아 교양 그림책 편집 경험.",
     "url": "https://www.yes24.com/product/goods/15377536",
     "cover": "https://image.yes24.com/goods/15377536/XL",
     "bibliography": {
@@ -417,7 +417,7 @@ window.BOOKS = [
     "count": 1,
     "availability": "판매중",
     "metric": "편집 담당",
-    "note": "현재 유통·판매가 확인되는 작업. 유아·그림책 분야 편집 경험을 보여줌.",
+    "note": "유아 교양 그림책 편집 경험.",
     "url": "https://www.yes24.com/product/goods/16811723",
     "cover": "https://image.yes24.com/goods/16811723/XL",
     "bibliography": {
@@ -442,7 +442,7 @@ window.BOOKS = [
     "count": 1,
     "availability": "판매중",
     "metric": "편집 담당",
-    "note": "현재 유통·판매가 확인되는 작업. 유아·그림책 분야 편집 경험을 보여줌.",
+    "note": "유아 예술 그림책 편집 경험.",
     "url": "https://www.yes24.com/product/goods/11927936",
     "cover": "https://image.yes24.com/goods/11927936/XL",
     "bibliography": {
@@ -467,7 +467,7 @@ window.BOOKS = [
     "count": 4,
     "availability": "판매중 일부 확인",
     "metric": "4종 편집 담당",
-    "note": "2013~2014년 출간된 미술 감상 시리즈. 일부 권의 신품 판매가 이어지고 있어 장기 유통 흔적이 확인됨.",
+    "note": "유아 예술 그림책 시리즈 국내개발. 퍼블릭도메인 명화 이미지 및 작품정보 서치, 스토리 흐름에 맞게 원고 편집 수행. 장기 유통 중.",
     "url": "https://www.yes24.com/product/goods/13775681",
     "cover": "https://image.yes24.com/goods/13775681/XL",
     "covers": [
@@ -498,7 +498,7 @@ window.BOOKS = [
     "count": 1,
     "availability": "추가 확인 필요",
     "metric": "편집 담당",
-    "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 유아·그림책 분야 편집 경험을 보여줌.",
+    "note": "유아 예술 그림책 편집 경험. 워크북 형식으로, 독자가 직접 그림을 그리며 참여할 수 있는 그림책.",
     "url": "https://m.yes24.com/goods/detail/17612530",
     "cover": "https://image.yes24.com/goods/17612530/XL",
     "bibliography": {
@@ -523,7 +523,7 @@ window.BOOKS = [
     "count": 1,
     "availability": "판매중",
     "metric": "편집 담당",
-    "note": "현재 유통·판매가 확인되는 작업. 유아·그림책 분야 편집 경험을 보여줌.",
+    "note": "유아 예술 그림책 편집 경험. 유명 화가 알렉산더 칼더의 작품과 스토리를 소개하는 그림책.",
     "url": "https://www.yes24.com/product/goods/19598509",
     "cover": "https://image.yes24.com/goods/19598509/XL",
     "bibliography": {
@@ -548,7 +548,7 @@ window.BOOKS = [
     "count": 1,
     "availability": "추가 확인 필요",
     "metric": "편집 담당",
-    "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 어린이 교양·학습 분야 편집 경험을 보여줌.",
+    "note": "유아동 과학 그림책 편집 경험.",
     "url": "https://www.yes24.com/product/goods/76205417",
     "cover": "https://image.yes24.com/momo/TopCate282/MidCate005/28149323.jpg",
     "bibliography": {
@@ -573,7 +573,7 @@ window.BOOKS = [
     "count": 1,
     "availability": "추가 확인 필요",
     "metric": "2종 편집 담당",
-    "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 어린이 교양·학습 분야 편집 경험을 보여줌.",
+    "note": "유아동 지식 그림책 편집 경험.",
     "url": "https://www.yes24.com/product/goods/76205417",
     "cover": "https://image.yes24.com/momo/TopCate339/MidCate007/33866135.jpg",
     "bibliography": {
@@ -598,7 +598,7 @@ window.BOOKS = [
     "count": 1,
     "availability": "추가 확인 필요",
     "metric": "편집 담당",
-    "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 어린이 교양·학습 분야 편집 경험을 보여줌.",
+    "note": "유아동 지식 그림책 편집 경험.",
     "url": "https://www.yes24.com/product/goods/15716619",
     "cover": "https://image.yes24.com/momo/TopCate442/MidCate005/44141633.jpg",
     "bibliography": {
@@ -623,7 +623,7 @@ window.BOOKS = [
     "count": 1,
     "availability": "추가 확인 필요",
     "metric": "편집 담당",
-    "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 어린이 교양·학습 분야 편집 경험을 보여줌.",
+    "note": "유아동 지식 그림책 편집 경험.",
     "url": "https://www.yes24.com/product/goods/15716619",
     "cover": "https://image.yes24.com/momo/TopCate442/MidCate005/44141813.jpg",
     "bibliography": {
@@ -648,7 +648,7 @@ window.BOOKS = [
     "count": 1,
     "availability": "추가 확인 필요",
     "metric": "편집 담당",
-    "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 어린이 교양·학습 분야 편집 경험을 보여줌.",
+    "note": "고전 명작을 아동 연령에 맞게 각색한 시리즈.",
     "url": "https://www.yes24.com/product/goods/9358806",
     "cover": "https://image.yes24.com/momo/TopCate276/MidCate005/27545684.jpg",
     "bibliography": {
@@ -673,7 +673,7 @@ window.BOOKS = [
     "count": 1,
     "availability": "추가 확인 필요",
     "metric": "편집 담당",
-    "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 어린이 교양·학습 분야 편집 경험을 보여줌.",
+    "note": "하청호 시인의 동시집. 아동 문학 편집 경험.",
     "url": "https://www.yes24.com/product/goods/11610113",
     "cover": "https://image.yes24.com/momo/TopCate304/MidCate001/30303757.jpg",
     "bibliography": {
@@ -698,7 +698,7 @@ window.BOOKS = [
     "count": 1,
     "availability": "추가 확인 필요",
     "metric": "편집 담당",
-    "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 어린이 교양·학습 분야 편집 경험을 보여줌.",
+    "note": "어린이 문학 편집 경험.",
     "url": "https://www.yes24.com/product/goods/12096924",
     "cover": "https://image.yes24.com/momo/TopCate325/MidCate005/32443787.jpg",
     "bibliography": {
@@ -723,7 +723,7 @@ window.BOOKS = [
     "count": 1,
     "availability": "추가 확인 필요",
     "metric": "편집 담당",
-    "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 어린이 교양·학습 분야 편집 경험을 보여줌.",
+    "note": "어린이 문학 편집 경험.",
     "url": "https://www.yes24.com/product/goods/12648650",
     "cover": "https://image.yes24.com/momo/TopCate345/MidCate008/34472404.jpg",
     "bibliography": {
@@ -748,7 +748,7 @@ window.BOOKS = [
     "count": 1,
     "availability": "추가 확인 필요",
     "metric": "편집 담당",
-    "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 어린이 교양·학습 분야 편집 경험을 보여줌.",
+    "note": "어린이 문학 편집 경험.",
     "url": "https://www.yes24.com/product/goods/13143673",
     "cover": "https://image.yes24.com/momo/TopCate363/MidCate008/36272202.jpg",
     "bibliography": {
@@ -773,7 +773,7 @@ window.BOOKS = [
     "count": 1,
     "availability": "추가 확인 필요",
     "metric": "편집 담당",
-    "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 어린이 교양·학습 분야 편집 경험을 보여줌.",
+    "note": "어린이 문학·교양 편집 경험.",
     "url": "https://www.yes24.com/product/goods/23503148",
     "cover": "https://image.yes24.com/momo/TopCate675/MidCate002/67412335.jpg",
     "bibliography": {
@@ -798,7 +798,7 @@ window.BOOKS = [
     "count": 1,
     "availability": "추가 확인 필요",
     "metric": "편집 담당",
-    "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 어린이 교양·학습 분야 편집 경험을 보여줌.",
+    "note": "어린이 문학·교양 편집 경험",
     "url": "https://www.yes24.com/product/goods/23503111",
     "cover": "https://image.yes24.com/momo/TopCate675/MidCate002/67412214.jpg",
     "bibliography": {
@@ -823,7 +823,7 @@ window.BOOKS = [
     "count": 1,
     "availability": "판매중",
     "metric": "편집 담당",
-    "note": "2013년 출간 어린이 교양서로 현재도 YES24 신품 판매가 확인되며 리뷰가 축적되어 있음.",
+    "note": "어린이 교양 편집 경험. 재기발랄한 주제 구성과 문체가 특징. 장기 판매 중.",
     "url": "https://www.yes24.com/Product/goods/9327615",
     "cover": "https://image.yes24.com/goods/9327615/XL",
     "bibliography": {
@@ -848,7 +848,7 @@ window.BOOKS = [
     "count": 1,
     "availability": "추가 확인 필요",
     "metric": "편집 담당",
-    "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 어린이 교양·학습 분야 편집 경험을 보여줌.",
+    "note": "어린이 교양 편집 경험. 재기발랄한 주제 구성과 문체가 특징.",
     "url": "https://www.yes24.com/product/goods/13491240",
     "cover": "https://image.yes24.com/momo/TopCate380/MidCate008/37971323.jpg",
     "bibliography": {
@@ -873,7 +873,7 @@ window.BOOKS = [
     "count": 1,
     "availability": "추가 확인 필요",
     "metric": "편집 담당",
-    "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 어린이 교양·학습 분야 편집 경험을 보여줌.",
+    "note": "어린이 교양 편집 경험. 재기발랄한 주제 구성과 문체가 특징.",
     "url": "https://www.yes24.com/product/goods/18199704",
     "cover": "https://image.yes24.com/goods/18199704/XL",
     "bibliography": {
@@ -898,7 +898,7 @@ window.BOOKS = [
     "count": 1,
     "availability": "판매중",
     "metric": "편집 담당",
-    "note": "2015년 출간 어린이 교양서로 현재도 신품 판매가 확인되는 장기 유통 사례.",
+    "note": "어린이 교양 편집 경험. 장기 유통 중.",
     "url": "https://www.yes24.com/product/goods/20372133",
     "cover": "https://image.yes24.com/goods/20372133/XL",
     "bibliography": {
@@ -923,7 +923,7 @@ window.BOOKS = [
     "count": 1,
     "availability": "추가 확인 필요",
     "metric": "편집 담당",
-    "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 어린이 교양·학습 분야 편집 경험을 보여줌.",
+    "note": "어린이 교양 편집 경험.",
     "url": "https://www.yes24.com/product/goods/23316402",
     "cover": "https://image.yes24.com/momo/TopCate670/MidCate008/66889890.jpg",
     "bibliography": {
@@ -948,7 +948,7 @@ window.BOOKS = [
     "count": 1,
     "availability": "추가 확인 필요",
     "metric": "편집 담당",
-    "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 어린이 교양·학습 분야 편집 경험을 보여줌.",
+    "note": "어린이 교양·학습 국내개발 편집 경험.",
     "url": "https://www.yes24.com/product/goods/24419544",
     "cover": "https://image.yes24.com/goods/24419544/XL",
     "bibliography": {
@@ -973,7 +973,7 @@ window.BOOKS = [
     "count": 1,
     "availability": "추가 확인 필요",
     "metric": "편집 담당",
-    "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 어린이 교양·학습 분야 편집 경험을 보여줌.",
+    "note": "어린이 교양 국내개발 편집 경험.",
     "url": "https://www.yes24.com/product/goods/14713860",
     "cover": "https://image.yes24.com/goods/14713860/XL",
     "bibliography": {
