@@ -727,16 +727,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/12648650",
     "cover": "https://image.yes24.com/momo/TopCate345/MidCate008/34472404.jpg",
     "bibliography": {
-      "author": "",
-      "illustrator": "",
-      "translator": "",
+      "author": "카를로 콜로디 원저 / 이브 루크 편",
+      "illustrator": "호세 코레아스",
+      "translator": "안온",
       "publisher": "파랑새",
-      "published": "",
-      "binding": "",
-      "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "published": "2014.04.10",
+      "binding": "양장",
+      "dimensions": "166×233×15mm",
+      "pages": "48쪽",
+      "isbn13": "9788961554374",
+      "price": 12000
     }
   },
   {
@@ -927,16 +927,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/23316402",
     "cover": "https://image.yes24.com/momo/TopCate670/MidCate008/66889890.jpg",
     "bibliography": {
-      "author": "",
-      "illustrator": "",
-      "translator": "",
+      "author": "카트린 르뷔펠·소피 보르데-프티용",
+      "illustrator": "로젠 브레카르",
+      "translator": "이희정",
       "publisher": "파랑새",
-      "published": "",
-      "binding": "",
+      "published": "2015.11.18",
+      "binding": "양장",
       "dimensions": "",
       "pages": "",
       "isbn13": "",
-      "price": null
+      "price": 12000
     }
   },
   {
@@ -977,16 +977,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/14713860",
     "cover": "https://image.yes24.com/goods/14713860/XL",
     "bibliography": {
-      "author": "",
-      "illustrator": "",
+      "author": "이희아·전강석",
+      "illustrator": "최양숙",
       "translator": "",
       "publisher": "파랑새",
-      "published": "",
+      "published": "2014.09.30",
       "binding": "",
-      "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "dimensions": "173×230×11mm",
+      "pages": "168쪽",
+      "isbn13": "9788961554510",
+      "price": 10000
     }
   },
   {
@@ -1355,16 +1355,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/84891051",
     "cover": "https://image.yes24.com/goods/84891051/XL",
     "bibliography": {
-      "author": "",
-      "illustrator": "",
+      "author": "사회평론 과학교육연구소·이명화·김형진·설정민·이현진",
+      "illustrator": "김인하·뭉선생·윤효식",
       "translator": "",
       "publisher": "사회평론",
-      "published": "",
-      "binding": "",
-      "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "published": "2019.12.20",
+      "binding": "양장",
+      "dimensions": "190×250mm",
+      "pages": "136쪽",
+      "isbn13": "9791162730676",
+      "price": 13800
     }
   },
   {
@@ -1380,15 +1380,15 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/84891077",
     "cover": "https://image.yes24.com/goods/84891077/XL",
     "bibliography": {
-      "author": "",
-      "illustrator": "",
+      "author": "사회평론 과학교육연구소·김형진·설정민·이명화·이현진",
+      "illustrator": "김인하·뭉선생·윤효식",
       "translator": "",
       "publisher": "사회평론",
       "published": "",
       "binding": "",
       "dimensions": "",
       "pages": "",
-      "isbn13": "",
+      "isbn13": "9791162730683",
       "price": null
     }
   },
@@ -1405,15 +1405,15 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/84891118",
     "cover": "https://image.yes24.com/goods/84891118/XL",
     "bibliography": {
-      "author": "",
-      "illustrator": "",
+      "author": "사회평론 과학교육연구소·천지혜·설정민·김형진·이명화·이현진",
+      "illustrator": "김인하·뭉선생·윤효식",
       "translator": "",
       "publisher": "사회평론",
       "published": "",
       "binding": "",
       "dimensions": "",
       "pages": "",
-      "isbn13": "",
+      "isbn13": "9791162730690",
       "price": null
     }
   },
@@ -1430,15 +1430,15 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/84891131",
     "cover": "https://image.yes24.com/goods/84891131/XL",
     "bibliography": {
-      "author": "",
-      "illustrator": "",
+      "author": "사회평론 과학교육연구소·설정민·김형진·이명화·이현진",
+      "illustrator": "조현상·뭉선생·윤효식",
       "translator": "",
       "publisher": "사회평론",
       "published": "",
       "binding": "",
       "dimensions": "",
       "pages": "",
-      "isbn13": "",
+      "isbn13": "9791162730706",
       "price": null
     }
   },
@@ -1455,15 +1455,15 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/84891146",
     "cover": "https://image.yes24.com/goods/84891146/XL",
     "bibliography": {
-      "author": "",
-      "illustrator": "",
+      "author": "사회평론 과학교육연구소·김지현·이명화·김형진·설정민·이현진",
+      "illustrator": "김인하·뭉선생·윤효식",
       "translator": "",
       "publisher": "사회평론",
       "published": "",
       "binding": "",
       "dimensions": "",
       "pages": "",
-      "isbn13": "",
+      "isbn13": "9791162730713",
       "price": null
     }
   },
@@ -1488,7 +1488,7 @@ window.BOOKS = [
       "binding": "",
       "dimensions": "",
       "pages": "",
-      "isbn13": "",
+      "isbn13": "9791162730720",
       "price": null
     }
   },
@@ -1513,7 +1513,7 @@ window.BOOKS = [
       "binding": "",
       "dimensions": "",
       "pages": "",
-      "isbn13": "",
+      "isbn13": "9791162730737",
       "price": null
     }
   },
@@ -1538,7 +1538,7 @@ window.BOOKS = [
       "binding": "",
       "dimensions": "",
       "pages": "",
-      "isbn13": "",
+      "isbn13": "9791162730744",
       "price": null
     }
   },
@@ -1563,7 +1563,7 @@ window.BOOKS = [
       "binding": "",
       "dimensions": "",
       "pages": "",
-      "isbn13": "",
+      "isbn13": "9791162730751",
       "price": null
     }
   },
@@ -1880,16 +1880,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/193095307",
     "cover": "https://image.yes24.com/goods/193095307/XL",
     "bibliography": {
-      "author": "",
-      "illustrator": "",
+      "author": "백앤아·고고프렌즈 원저 / 한바리 글",
+      "illustrator": "정수영",
       "translator": "",
       "publisher": "백앤아월드",
-      "published": "",
+      "published": "2026.07.08",
       "binding": "",
-      "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "dimensions": "188×257×20mm",
+      "pages": "160쪽",
+      "isbn13": "9791199748118",
+      "price": 16800
     }
   },
   {
@@ -1930,16 +1930,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/23552574",
     "cover": "https://image.yes24.com/momo/TopCate676/MidCate009/67580010.jpg",
     "bibliography": {
-      "author": "",
-      "illustrator": "",
+      "author": "이민 (해설)",
+      "illustrator": "데레사 유치원 어린이들",
       "translator": "",
       "publisher": "이유출판",
-      "published": "",
-      "binding": "",
-      "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "published": "2015.12.15",
+      "binding": "양장",
+      "dimensions": "195×265mm",
+      "pages": "160쪽",
+      "isbn13": "9791195325528",
+      "price": 18000
     }
   },
   {
@@ -1980,16 +1980,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/65049816",
     "cover": "https://image.yes24.com/goods/65049816/XL",
     "bibliography": {
-      "author": "",
-      "illustrator": "",
+      "author": "빠나나박사",
+      "illustrator": "빠나나박사",
       "translator": "",
       "publisher": "이유출판",
-      "published": "",
-      "binding": "",
-      "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "published": "2018.10.10",
+      "binding": "양장",
+      "dimensions": "198×198×20mm",
+      "pages": "108쪽",
+      "isbn13": "9791189534004",
+      "price": 12000
     }
   },
   {
@@ -2005,16 +2005,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/109724674",
     "cover": "https://image.yes24.com/goods/109724674/XL",
     "bibliography": {
-      "author": "",
-      "illustrator": "",
-      "translator": "",
+      "author": "알바 카르바얄",
+      "illustrator": "로렌소 산지오",
+      "translator": "성초림",
       "publisher": "이유출판",
-      "published": "",
-      "binding": "",
-      "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "published": "2022.05.25",
+      "binding": "양장",
+      "dimensions": "225×283×8mm",
+      "pages": "52쪽",
+      "isbn13": "9791189534295",
+      "price": 16000
     }
   },
   {
@@ -2055,16 +2055,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/24943216",
     "cover": "https://image.yes24.com/momo/TopCate725/MidCate009/72489517.jpg",
     "bibliography": {
-      "author": "",
+      "author": "루시 달젤",
       "illustrator": "",
-      "translator": "",
+      "translator": "김광현",
       "publisher": "이유출판",
-      "published": "",
-      "binding": "",
-      "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "published": "2016.03.15",
+      "binding": "양장",
+      "dimensions": "255×350×15mm",
+      "pages": "20쪽",
+      "isbn13": "9791195325535",
+      "price": 18000
     }
   },
   {
@@ -2255,16 +2255,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/118790972",
     "cover": "https://image.yes24.com/goods/118790972/XL",
     "bibliography": {
-      "author": "",
+      "author": "홍소영",
       "illustrator": "",
       "translator": "",
       "publisher": "이유출판",
-      "published": "",
+      "published": "2023.05.10",
       "binding": "",
-      "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "dimensions": "125×195×20mm",
+      "pages": "272쪽",
+      "isbn13": "9791189534417",
+      "price": 15000
     }
   },
   {
@@ -2280,16 +2280,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/122090254",
     "cover": "https://image.yes24.com/goods/122090254/XL",
     "bibliography": {
-      "author": "",
+      "author": "권경인",
       "illustrator": "",
       "translator": "",
       "publisher": "이유출판",
-      "published": "",
+      "published": "2023.08.29",
       "binding": "",
-      "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "dimensions": "140×225×13mm",
+      "pages": "312쪽",
+      "isbn13": "9791189534448",
+      "price": 24000
     }
   },
   {
@@ -2305,16 +2305,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/126458455",
     "cover": "https://image.yes24.com/goods/126458455/XL",
     "bibliography": {
-      "author": "",
+      "author": "김미옥",
       "illustrator": "",
       "translator": "",
       "publisher": "이유출판",
-      "published": "",
-      "binding": "",
-      "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "published": "2024.05.14",
+      "binding": "양장",
+      "dimensions": "128×205×20mm",
+      "pages": "280쪽",
+      "isbn13": "9791189534509",
+      "price": 18000
     }
   },
   {
@@ -2580,16 +2580,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/124038555",
     "cover": "https://image.yes24.com/goods/124038555/XL",
     "bibliography": {
-      "author": "",
+      "author": "이은하",
       "illustrator": "",
       "translator": "",
       "publisher": "이유출판",
-      "published": "",
+      "published": "2023.12.07",
       "binding": "",
-      "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "dimensions": "125×195×14mm",
+      "pages": "168쪽",
+      "isbn13": "9791189534479",
+      "price": 14000
     }
   },
   {
@@ -2630,16 +2630,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/191693300",
     "cover": "https://image.yes24.com/goods/191693300/XL",
     "bibliography": {
-      "author": "",
+      "author": "이나미",
       "illustrator": "",
       "translator": "",
       "publisher": "이유출판",
-      "published": "",
+      "published": "2026.06.16",
       "binding": "",
-      "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "dimensions": "139×211×20mm",
+      "pages": "320쪽",
+      "isbn13": "9791189534882",
+      "price": 21000
     }
   },
   {
@@ -2655,16 +2655,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/150163766",
     "cover": "https://image.yes24.com/goods/150163766/XL",
     "bibliography": {
-      "author": "",
+      "author": "김병수·강민서·권민서·김문선·민다영·홍순상",
       "illustrator": "",
       "translator": "",
       "publisher": "이유출판",
-      "published": "",
-      "binding": "",
-      "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "published": "2025.08.07",
+      "binding": "무선제본",
+      "dimensions": "140×203mm",
+      "pages": "176쪽",
+      "isbn13": "9791189534684",
+      "price": 17000
     }
   },
   {
@@ -2680,16 +2680,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/120184644",
     "cover": "https://image.yes24.com/goods/120184644/XL",
     "bibliography": {
-      "author": "",
-      "illustrator": "",
-      "translator": "",
+      "author": "아오야마 고쇼 원저 / 야마기시 에이이치·사이토 무네오 글",
+      "illustrator": "야마기시 에이이치·사이토 무네오",
+      "translator": "정인영",
       "publisher": "북이십일",
-      "published": "",
-      "binding": "",
-      "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "published": "2023.07.12",
+      "binding": "양장",
+      "dimensions": "157×218×16mm",
+      "pages": "160쪽",
+      "isbn13": "9788950974398",
+      "price": 16800
     }
   },
   {
@@ -2705,16 +2705,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/120185003",
     "cover": "https://image.yes24.com/goods/120185003/XL",
     "bibliography": {
-      "author": "",
-      "illustrator": "",
-      "translator": "",
+      "author": "아오야마 고쇼(원작)",
+      "illustrator": "야마기시 에이이치·야마우라 사토시(만화)",
+      "translator": "정인영",
       "publisher": "북이십일",
-      "published": "",
-      "binding": "",
-      "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "published": "2023.07.12",
+      "binding": "양장",
+      "dimensions": "148×210mm",
+      "pages": "160쪽",
+      "isbn13": "9788950985998",
+      "price": 16800
     }
   },
   {
@@ -2730,16 +2730,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/120185011",
     "cover": "https://image.yes24.com/goods/120185011/XL",
     "bibliography": {
-      "author": "",
-      "illustrator": "",
-      "translator": "",
+      "author": "아오야마 고쇼 원저 / 야나카 츠나·카이도 히로유키 글",
+      "illustrator": "야나카 츠나·카이도 히로유키",
+      "translator": "정인영",
       "publisher": "북이십일",
-      "published": "",
-      "binding": "",
-      "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "published": "2023.07.12",
+      "binding": "양장",
+      "dimensions": "157×218×17mm",
+      "pages": "160쪽",
+      "isbn13": "9788950986124",
+      "price": 16800
     }
   },
   {
@@ -2755,16 +2755,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/120185020",
     "cover": "https://image.yes24.com/goods/120185020/XL",
     "bibliography": {
-      "author": "",
-      "illustrator": "",
-      "translator": "",
+      "author": "아오야마 고쇼 원저 / 야나카 츠나·야부노 텐야 글",
+      "illustrator": "야나카 츠나·야부노 텐야",
+      "translator": "정인영",
       "publisher": "북이십일",
-      "published": "",
-      "binding": "",
-      "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "published": "2023.07.12",
+      "binding": "양장",
+      "dimensions": "157×218×16mm",
+      "pages": "160쪽",
+      "isbn13": "9788950986728",
+      "price": 16800
     }
   },
   {
@@ -2780,16 +2780,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/120185029",
     "cover": "https://image.yes24.com/goods/120185029/XL",
     "bibliography": {
-      "author": "",
-      "illustrator": "",
-      "translator": "",
+      "author": "아오야마 고쇼 원저 / 야마기시 에이이치·카와모토 케몬 글",
+      "illustrator": "야마기시 에이이치·카와모토 케몬",
+      "translator": "정인영",
       "publisher": "북이십일",
-      "published": "",
-      "binding": "",
-      "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "published": "2023.07.12",
+      "binding": "양장",
+      "dimensions": "157×218×16mm",
+      "pages": "160쪽",
+      "isbn13": "9788950987763",
+      "price": 16800
     }
   },
   {
@@ -2805,16 +2805,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/120185034",
     "cover": "https://image.yes24.com/goods/120185034/XL",
     "bibliography": {
-      "author": "",
-      "illustrator": "",
-      "translator": "",
+      "author": "아오야마 고쇼 원저 / 코마에 카즈키 글",
+      "illustrator": "코마에 카즈키",
+      "translator": "정인영",
       "publisher": "북이십일",
-      "published": "",
-      "binding": "",
-      "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "published": "2023.07.12",
+      "binding": "양장",
+      "dimensions": "157×218×16mm",
+      "pages": "160쪽",
+      "isbn13": "9788950989989",
+      "price": 16800
     }
   },
   {
@@ -2830,16 +2830,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/124151888",
     "cover": "https://image.yes24.com/goods/124151888/XL",
     "bibliography": {
-      "author": "",
+      "author": "아오야마 고쇼 원저",
       "illustrator": "",
-      "translator": "",
+      "translator": "정인영",
       "publisher": "북이십일",
-      "published": "",
-      "binding": "",
-      "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "published": "2023.12.15",
+      "binding": "양장",
+      "dimensions": "157×218×16mm",
+      "pages": "160쪽",
+      "isbn13": "9788950989996",
+      "price": 16800
     }
   },
   {
@@ -2855,16 +2855,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/124151893",
     "cover": "https://image.yes24.com/goods/124151893/XL",
     "bibliography": {
-      "author": "",
-      "illustrator": "",
-      "translator": "",
+      "author": "아오야마 고쇼 원저 / 야나카 츠나·야마우라 사토시 글",
+      "illustrator": "야나카 츠나·야마우라 사토시",
+      "translator": "정인영",
       "publisher": "북이십일",
-      "published": "",
-      "binding": "",
-      "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "published": "2023.12.15",
+      "binding": "양장",
+      "dimensions": "157×218×16mm",
+      "pages": "160쪽",
+      "isbn13": "9788950990008",
+      "price": 16800
     }
   },
   {
@@ -2880,16 +2880,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/124151899",
     "cover": "https://image.yes24.com/goods/124151899/XL",
     "bibliography": {
-      "author": "",
-      "illustrator": "",
-      "translator": "",
+      "author": "아오야마 고쇼 원저 / 야나카 츠나·카가 미츠루 글",
+      "illustrator": "야나카 츠나·카가 미츠루",
+      "translator": "정인영",
       "publisher": "북이십일",
-      "published": "",
-      "binding": "",
-      "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "published": "2023.12.15",
+      "binding": "양장",
+      "dimensions": "157×218×16mm",
+      "pages": "160쪽",
+      "isbn13": "9788950991586",
+      "price": 16800
     }
   },
   {
@@ -2905,16 +2905,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/124151906",
     "cover": "https://image.yes24.com/goods/124151906/XL",
     "bibliography": {
-      "author": "",
-      "illustrator": "",
-      "translator": "",
+      "author": "아오야마 고쇼 원저 / 코마에 카즈키·야가미 켄 글",
+      "illustrator": "코마에 카즈키·야가미 켄",
+      "translator": "정인영",
       "publisher": "북이십일",
-      "published": "",
-      "binding": "",
-      "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "published": "2023.12.15",
+      "binding": "양장",
+      "dimensions": "157×218×16mm",
+      "pages": "160쪽",
+      "isbn13": "9788950993146",
+      "price": 16800
     }
   },
   {
@@ -2930,16 +2930,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/124151914",
     "cover": "https://image.yes24.com/goods/124151914/XL",
     "bibliography": {
-      "author": "",
-      "illustrator": "",
-      "translator": "",
+      "author": "아오야마 고쇼 원저 / 야나카 츠나·카이도 히로유키 글",
+      "illustrator": "야나카 츠나·카이도 히로유키",
+      "translator": "정인영",
       "publisher": "북이십일",
-      "published": "",
-      "binding": "",
-      "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "published": "2023.12.15",
+      "binding": "양장",
+      "dimensions": "157×218×16mm",
+      "pages": "160쪽",
+      "isbn13": "9788950993344",
+      "price": 16800
     }
   },
   {
@@ -2955,16 +2955,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/124151921",
     "cover": "https://image.yes24.com/goods/124151921/XL",
     "bibliography": {
-      "author": "",
-      "illustrator": "",
-      "translator": "",
+      "author": "아오야마 고쇼 원저 / 야마기시 에이이치·사이토 무네오 글",
+      "illustrator": "야마기시 에이이치·사이토 무네오",
+      "translator": "정인영",
       "publisher": "북이십일",
-      "published": "",
-      "binding": "",
-      "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "published": "2023.12.15",
+      "binding": "양장",
+      "dimensions": "157×218×16mm",
+      "pages": "160쪽",
+      "isbn13": "9788950993351",
+      "price": 16800
     }
   },
   {
@@ -2980,16 +2980,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/113761446",
     "cover": "https://image.yes24.com/goods/113761446/XL",
     "bibliography": {
-      "author": "",
-      "illustrator": "",
-      "translator": "",
+      "author": "마즈 에반스",
+      "illustrator": "이영림",
+      "translator": "윤영",
       "publisher": "북이십일",
-      "published": "",
+      "published": "2022.09.28",
       "binding": "",
-      "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "dimensions": "140×210×11mm",
+      "pages": "190쪽",
+      "isbn13": "9788950941840",
+      "price": 14800
     }
   },
   {
@@ -3005,16 +3005,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/113761465",
     "cover": "https://image.yes24.com/goods/113761465/XL",
     "bibliography": {
-      "author": "",
-      "illustrator": "",
-      "translator": "",
+      "author": "마즈 에반스",
+      "illustrator": "이영림",
+      "translator": "윤영",
       "publisher": "북이십일",
-      "published": "",
+      "published": "2022.09.28",
       "binding": "",
-      "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "dimensions": "140×210×11mm",
+      "pages": "192쪽",
+      "isbn13": "9788950941857",
+      "price": "14,800원"
     }
   },
   {
@@ -3030,16 +3030,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/123164375",
     "cover": "https://image.yes24.com/goods/123164375/XL",
     "bibliography": {
-      "author": "",
-      "illustrator": "",
-      "translator": "",
+      "author": "마즈 에반스",
+      "illustrator": "이영림",
+      "translator": "윤영",
       "publisher": "북이십일",
-      "published": "",
+      "published": "2023.10.25",
       "binding": "",
       "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "pages": "192쪽",
+      "isbn13": "9791171171408",
+      "price": 14800
     }
   },
   {
@@ -3055,16 +3055,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/123164379",
     "cover": "https://image.yes24.com/goods/123164379/XL",
     "bibliography": {
-      "author": "",
-      "illustrator": "",
-      "translator": "",
+      "author": "마즈 에반스",
+      "illustrator": "이영림",
+      "translator": "윤영",
       "publisher": "북이십일",
-      "published": "",
+      "published": "2023.10.25",
       "binding": "",
       "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "pages": "200쪽",
+      "isbn13": "9791171171415",
+      "price": 14800
     }
   },
   {
@@ -3080,16 +3080,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/147066653",
     "cover": "https://image.yes24.com/goods/147066653/XL",
     "bibliography": {
-      "author": "",
-      "illustrator": "",
-      "translator": "",
+      "author": "마즈 에반스",
+      "illustrator": "이영림",
+      "translator": "윤영",
       "publisher": "북이십일",
-      "published": "",
+      "published": "2025.05.28",
       "binding": "",
       "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "pages": "172쪽",
+      "isbn13": "9791173572821",
+      "price": 16900
     }
   },
   {
@@ -3105,16 +3105,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/147066687",
     "cover": "https://image.yes24.com/goods/147066687/XL",
     "bibliography": {
-      "author": "",
-      "illustrator": "",
-      "translator": "",
+      "author": "마즈 에반스",
+      "illustrator": "이영림",
+      "translator": "윤영",
       "publisher": "북이십일",
-      "published": "",
+      "published": "2025.05.28",
       "binding": "",
       "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "pages": "184쪽",
+      "isbn13": "9791173572838",
+      "price": 16900
     }
   },
   {
@@ -3155,16 +3155,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/67111107",
     "cover": "https://image.yes24.com/goods/67111107/XL",
     "bibliography": {
-      "author": "",
+      "author": "편집부 편저",
       "illustrator": "",
       "translator": "",
-      "publisher": "",
-      "published": "",
+      "publisher": "글상자",
+      "published": "2018.07~2018.11 (개별 권 출간)",
       "binding": "",
       "dimensions": "",
       "pages": "",
       "isbn13": "",
-      "price": null
+      "price": 18000
     }
   },
   {
@@ -3180,16 +3180,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/24843452",
     "cover": "https://image.yes24.com/momo/TopCate722/MidCate004/72137396.jpg",
     "bibliography": {
-      "author": "",
+      "author": "편집부 편저",
       "illustrator": "",
       "translator": "",
       "publisher": "",
-      "published": "",
-      "binding": "",
-      "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "published": "2016.03.15",
+      "binding": "박스퍼즐",
+      "dimensions": "188×257×20mm",
+      "pages": "120쪽",
+      "isbn13": "9791195574773",
+      "price": 9800
     }
   },
   {
@@ -3205,10 +3205,10 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/29126675",
     "cover": "https://image.yes24.com/momo/TopCate851/MidCate006/85059811.jpg",
     "bibliography": {
-      "author": "",
+      "author": "편집부 편저",
       "illustrator": "",
       "translator": "",
-      "publisher": "",
+      "publisher": "글상자",
       "published": "",
       "binding": "",
       "dimensions": "",
@@ -3333,16 +3333,16 @@ window.BOOKS = [
       "https://image.yes24.com/goods/126679446/XL"
     ],
     "bibliography": {
-      "author": "",
+      "author": "소피 클레벌리",
       "illustrator": "",
-      "translator": "",
+      "translator": "김경희",
       "publisher": "한빛에듀",
-      "published": "",
+      "published": "2024.05~2025.03 (1~3권)",
       "binding": "",
       "dimensions": "",
-      "pages": "",
+      "pages": "전 3권 합계 1,092쪽",
       "isbn13": "",
-      "price": null
+      "price": 50400
     }
   },
   {
@@ -3358,16 +3358,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/142764639",
     "cover": "https://image.yes24.com/goods/142764639/XL",
     "bibliography": {
-      "author": "",
-      "illustrator": "",
-      "translator": "",
+      "author": "구로노 신이치",
+      "illustrator": "사타케 미호",
+      "translator": "이미향",
       "publisher": "한빛에듀",
-      "published": "",
+      "published": "2025.02.15",
       "binding": "",
-      "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "dimensions": "145×206×11mm",
+      "pages": "160쪽",
+      "isbn13": "9791169213431",
+      "price": 14000
     }
   },
   {
@@ -3383,16 +3383,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/150109693",
     "cover": "https://image.yes24.com/goods/150109693/XL",
     "bibliography": {
-      "author": "",
-      "illustrator": "",
-      "translator": "",
+      "author": "이시이 무쓰미",
+      "illustrator": "이다 지아키",
+      "translator": "김지영",
       "publisher": "한빛에듀",
-      "published": "",
-      "binding": "",
-      "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "published": "2025.07.25",
+      "binding": "양장",
+      "dimensions": "148×210×12mm",
+      "pages": "120쪽",
+      "isbn13": "9791169214063",
+      "price": 15000
     }
   },
   {
@@ -3408,16 +3408,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/105277264",
     "cover": "https://image.yes24.com/goods/105277264/XL",
     "bibliography": {
-      "author": "",
+      "author": "탁툰엔터프라이즈",
       "illustrator": "",
       "translator": "",
       "publisher": "탁툰",
-      "published": "",
-      "binding": "",
-      "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "published": "2021.11.26",
+      "binding": "양장",
+      "dimensions": "265×230mm",
+      "pages": "52쪽",
+      "isbn13": "9791191686074",
+      "price": 18000
     }
   },
   {
@@ -3433,16 +3433,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/105277264",
     "cover": "https://image.yes24.com/goods/105277281/XL",
     "bibliography": {
-      "author": "",
+      "author": "탁툰엔터프라이즈",
       "illustrator": "",
       "translator": "",
       "publisher": "탁툰",
       "published": "",
-      "binding": "",
-      "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "binding": "양장",
+      "dimensions": "265×230mm",
+      "pages": "52쪽",
+      "isbn13": "9791191686081",
+      "price": 18000
     }
   },
   {
@@ -3533,16 +3533,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/category/series/001?SeriesNumber=258010",
     "cover": "https://image.yes24.com/goods/139702782/XL",
     "bibliography": {
-      "author": "",
-      "illustrator": "",
-      "translator": "",
+      "author": "히로시마 레이코",
+      "illustrator": "쟈쟈",
+      "translator": "김정화",
       "publisher": "길벗스쿨",
-      "published": "",
-      "binding": "",
+      "published": "2024.12.04",
+      "binding": "양장",
       "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "pages": "184쪽",
+      "isbn13": "9791164068692",
+      "price": "14,000원"
     }
   },
   {
@@ -3558,16 +3558,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/category/series/001?SeriesNumber=258010",
     "cover": "https://image.yes24.com/goods/148332391/XL",
     "bibliography": {
-      "author": "",
-      "illustrator": "",
-      "translator": "",
+      "author": "히로시마 레이코",
+      "illustrator": "쟈쟈",
+      "translator": "김정화",
       "publisher": "길벗스쿨",
-      "published": "",
+      "published": "2025.07.21",
       "binding": "",
       "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "pages": "160쪽",
+      "isbn13": "9791199302327",
+      "price": "15,000원"
     }
   },
   {
@@ -3583,16 +3583,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/category/series/001?SeriesNumber=258010",
     "cover": "https://image.yes24.com/goods/167428502/XL",
     "bibliography": {
-      "author": "",
-      "illustrator": "",
-      "translator": "",
+      "author": "히로시마 레이코",
+      "illustrator": "쟈쟈",
+      "translator": "김정화",
       "publisher": "길벗스쿨",
-      "published": "",
+      "published": "2025.12.11",
       "binding": "",
       "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "pages": "160쪽",
+      "isbn13": "9791174670731",
+      "price": "15,000원"
     }
   },
   {
@@ -3608,16 +3608,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/142874035",
     "cover": "https://image.yes24.com/goods/142874035/XL",
     "bibliography": {
-      "author": "",
-      "illustrator": "",
-      "translator": "",
+      "author": "히로시마 레이코",
+      "illustrator": "쟈쟈",
+      "translator": "김정화",
       "publisher": "길벗스쿨",
-      "published": "",
+      "published": "2025.03.06",
       "binding": "",
-      "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "dimensions": "128×188mm",
+      "pages": "164쪽",
+      "isbn13": "9791164068890",
+      "price": "14,000원"
     }
   },
   {
@@ -3633,16 +3633,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/140452734",
     "cover": "https://image.yes24.com/goods/140452734/XL",
     "bibliography": {
-      "author": "",
+      "author": "G.T. 카버",
       "illustrator": "",
-      "translator": "",
+      "translator": "박나림",
       "publisher": "중앙북스",
-      "published": "",
-      "binding": "",
-      "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "published": "2024.12.25",
+      "binding": "박스퍼즐",
+      "dimensions": "165×235×30mm",
+      "pages": "384쪽",
+      "isbn13": "9788927880714",
+      "price": "19,500원"
     }
   }
 ];
