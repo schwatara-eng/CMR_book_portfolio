@@ -121,16 +121,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/8957192",
     "cover": "https://image.yes24.com/goods/8957192/XL",
     "bibliography": {
-      "author": "",
+      "author": "에릭 바튀",
       "illustrator": "",
-      "translator": "",
-      "publisher": "파랑새",
-      "published": "",
-      "binding": "",
-      "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "translator": "한소원",
+      "publisher": "파랑새어린이",
+      "published": "2013.04.15",
+      "binding": "양장",
+      "dimensions": "250×250×15mm",
+      "pages": 40,
+      "isbn13": "9788961553889",
+      "price": 12000
     }
   },
   {
@@ -146,16 +146,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/12458901",
     "cover": "https://image.yes24.com/goods/12458901/XL",
     "bibliography": {
-      "author": "",
-      "illustrator": "",
-      "translator": "",
-      "publisher": "파랑새",
-      "published": "",
-      "binding": "",
-      "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "author": "제인 고드윈",
+      "illustrator": "안나 워커",
+      "translator": "안온",
+      "publisher": "파랑새어린이",
+      "published": "2014.02.28",
+      "binding": "양장",
+      "dimensions": "280×230×15mm",
+      "pages": 40,
+      "isbn13": "9788961554343",
+      "price": 13000
     }
   },
   {
@@ -171,16 +171,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/12458902",
     "cover": "https://image.yes24.com/goods/12458902/XL",
     "bibliography": {
-      "author": "",
-      "illustrator": "",
-      "translator": "",
-      "publisher": "파랑새",
-      "published": "",
-      "binding": "",
-      "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "author": "제인 고드윈",
+      "illustrator": "안나 워커",
+      "translator": "안온",
+      "publisher": "파랑새어린이",
+      "published": "2014.02.28",
+      "binding": "양장",
+      "dimensions": "260×230×15mm",
+      "pages": 40,
+      "isbn13": "9788961554299",
+      "price": 12000
     }
   },
   {
@@ -196,16 +196,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/12581370",
     "cover": "https://image.yes24.com/goods/12581370/XL",
     "bibliography": {
-      "author": "",
-      "illustrator": "",
+      "author": "이치카와 사토미",
+      "illustrator": "이치카와 사토미",
       "translator": "",
-      "publisher": "파랑새",
-      "published": "",
-      "binding": "",
-      "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "publisher": "파랑새어린이",
+      "published": "2014.03.15",
+      "binding": "양장",
+      "dimensions": "221×271×15mm",
+      "pages": 36,
+      "isbn13": "9788961554350",
+      "price": 12000
     }
   },
   {
@@ -221,16 +221,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/17133092",
     "cover": "https://image.yes24.com/goods/17133092/XL",
     "bibliography": {
-      "author": "",
-      "illustrator": "",
+      "author": "이윤희",
+      "illustrator": "김중석",
       "translator": "",
-      "publisher": "파랑새",
-      "published": "",
-      "binding": "",
-      "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "publisher": "파랑새어린이",
+      "published": "2015.01.30",
+      "binding": "양장",
+      "dimensions": "190×225×6mm",
+      "pages": 26,
+      "isbn13": "9788961555159",
+      "price": 12000
     }
   },
   {
@@ -246,16 +246,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/15481904",
     "cover": "https://image.yes24.com/goods/15481904/XL",
     "bibliography": {
-      "author": "",
-      "illustrator": "",
-      "translator": "",
-      "publisher": "파랑새",
-      "published": "",
-      "binding": "",
-      "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "author": "파비엔 무니에",
+      "illustrator": "다니엘 에농",
+      "translator": "김양미",
+      "publisher": "파랑새어린이",
+      "published": "2014-11-28",
+      "binding": "양장",
+      "dimensions": "200×270×6mm",
+      "pages": "26",
+      "isbn13": "9788961554992",
+      "price": 12000
     }
   },
   {
@@ -271,16 +271,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/15481906",
     "cover": "https://image.yes24.com/momo/TopCate435/MidCate004/43434555.jpg",
     "bibliography": {
-      "author": "",
-      "illustrator": "",
-      "translator": "",
-      "publisher": "파랑새",
-      "published": "",
-      "binding": "",
-      "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "author": "파비엔 무니에",
+      "illustrator": "다니엘 에농",
+      "translator": "김양미",
+      "publisher": "파랑새어린이",
+      "published": "2014.11.28",
+      "binding": "양장",
+      "dimensions": "280×280×7mm",
+      "pages": 26,
+      "isbn13": "9788961555074",
+      "price": 12000
     }
   },
   {
@@ -296,16 +296,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/13875377",
     "cover": "https://image.yes24.com/momo/TopCate390/MidCate007/38961524.jpg",
     "bibliography": {
-      "author": "",
-      "illustrator": "",
+      "author": "윤문영",
+      "illustrator": "윤문영",
       "translator": "",
-      "publisher": "파랑새",
-      "published": "",
-      "binding": "",
-      "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "publisher": "파랑새어린이",
+      "published": "2014.06.30",
+      "binding": "양장",
+      "dimensions": "220×240×10mm",
+      "pages": 44,
+      "isbn13": "9788961554466",
+      "price": 12000
     }
   },
   {
@@ -321,16 +321,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/12270458",
     "cover": "https://image.yes24.com/goods/12270458/XL",
     "bibliography": {
-      "author": "",
-      "illustrator": "",
+      "author": "김향이",
+      "illustrator": "윤문영",
       "translator": "",
-      "publisher": "파랑새",
-      "published": "",
-      "binding": "",
-      "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "publisher": "파랑새어린이",
+      "published": "2014.01.29",
+      "binding": "양장",
+      "dimensions": "242×250×15mm",
+      "pages": 44,
+      "isbn13": "9788961554282",
+      "price": 12000
     }
   },
   {
@@ -346,16 +346,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/Product/goods/13947210",
     "cover": "https://image.yes24.com/goods/13947210/XL",
     "bibliography": {
-      "author": "",
-      "illustrator": "",
-      "translator": "",
-      "publisher": "파랑새",
-      "published": "",
-      "binding": "",
-      "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "author": "알랭 시셰",
+      "illustrator": "알랭 시셰",
+      "translator": "김양미",
+      "publisher": "톡",
+      "published": "2014.07.11",
+      "binding": "양장",
+      "dimensions": "240×237×10mm",
+      "pages": 56,
+      "isbn13": "9788961554480",
+      "price": 12000
     }
   },
   {
@@ -371,16 +371,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/189860606",
     "cover": "https://image.yes24.com/goods/189860606/XL",
     "bibliography": {
-      "author": "",
-      "illustrator": "",
-      "translator": "",
-      "publisher": "파랑새",
-      "published": "",
-      "binding": "",
-      "dimensions": "",
-      "pages": "",
+      "author": "알랭 시셰",
+      "illustrator": "알랭 시셰",
+      "translator": "김양미",
+      "publisher": "톡",
+      "published": "2014-09-19",
+      "binding": "양장",
+      "dimensions": "240×237×10mm",
+      "pages": "56",
       "isbn13": "",
-      "price": null
+      "price": 13000
     }
   },
   {
@@ -396,16 +396,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/15377536",
     "cover": "https://image.yes24.com/goods/15377536/XL",
     "bibliography": {
-      "author": "",
-      "illustrator": "",
-      "translator": "",
-      "publisher": "파랑새",
-      "published": "",
-      "binding": "",
-      "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "author": "알랭 시셰",
+      "illustrator": "알랭 시셰",
+      "translator": "김양미",
+      "publisher": "파랑새어린이",
+      "published": "2014-11-03",
+      "binding": "양장",
+      "dimensions": "240×237×11mm",
+      "pages": "56",
+      "isbn13": "9788961555005",
+      "price": 12000
     }
   },
   {
@@ -421,16 +421,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/16811723",
     "cover": "https://image.yes24.com/goods/16811723/XL",
     "bibliography": {
-      "author": "",
-      "illustrator": "",
-      "translator": "",
-      "publisher": "파랑새",
-      "published": "",
-      "binding": "",
-      "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "author": "알랭 시셰",
+      "illustrator": "알랭 시셰",
+      "translator": "김양미",
+      "publisher": "파랑새어린이",
+      "published": "2015-01-26",
+      "binding": "양장",
+      "dimensions": "240×237×9mm",
+      "pages": "56",
+      "isbn13": "9788961555128",
+      "price": 12000
     }
   },
   {
@@ -446,16 +446,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/11927936",
     "cover": "https://image.yes24.com/goods/11927936/XL",
     "bibliography": {
-      "author": "",
-      "illustrator": "",
-      "translator": "",
-      "publisher": "파랑새",
-      "published": "",
-      "binding": "",
-      "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "author": "크리스티나 뷜레 위리베",
+      "illustrator": "미셸 게",
+      "translator": "허보미",
+      "publisher": "파랑새어린이",
+      "published": "2014.01.13",
+      "binding": "양장",
+      "dimensions": "210×297×15mm",
+      "pages": 40,
+      "isbn13": "9788961554121",
+      "price": 13000
     }
   },
   {
@@ -477,10 +477,10 @@ window.BOOKS = [
       "https://image.yes24.com/goods/13775681/XL"
     ],
     "bibliography": {
-      "author": "",
+      "author": "이주헌",
       "illustrator": "",
       "translator": "",
-      "publisher": "파랑새",
+      "publisher": "파랑새어린이",
       "published": "",
       "binding": "",
       "dimensions": "",
@@ -502,16 +502,16 @@ window.BOOKS = [
     "url": "https://m.yes24.com/goods/detail/17612530",
     "cover": "https://image.yes24.com/goods/17612530/XL",
     "bibliography": {
-      "author": "",
-      "illustrator": "",
-      "translator": "",
-      "publisher": "파랑새",
-      "published": "",
+      "author": "로랑 모로",
+      "illustrator": "로랑 모로",
+      "translator": "권순영",
+      "publisher": "파랑새어린이",
+      "published": "2015.04.10",
       "binding": "",
-      "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "dimensions": "260×300×5mm",
+      "pages": 40,
+      "isbn13": "9788961555258",
+      "price": 9800
     }
   },
   {
@@ -527,16 +527,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/19598509",
     "cover": "https://image.yes24.com/goods/19598509/XL",
     "bibliography": {
-      "author": "",
-      "illustrator": "",
-      "translator": "",
-      "publisher": "파랑새",
-      "published": "",
-      "binding": "",
-      "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "author": "콜롱브 슈네크, 에마뉘엘 자발",
+      "illustrator": "이리스 드 모위이",
+      "translator": "이정주",
+      "publisher": "톡",
+      "published": "2015.07.20",
+      "binding": "양장",
+      "dimensions": "255×290×15mm",
+      "pages": 44,
+      "isbn13": "9788961556408",
+      "price": 12000
     }
   },
   {
@@ -652,16 +652,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/9358806",
     "cover": "https://image.yes24.com/momo/TopCate276/MidCate005/27545684.jpg",
     "bibliography": {
-      "author": "",
-      "illustrator": "",
+      "author": "윌리엄 셰익스피어 원작, 노경실 글",
+      "illustrator": "박경화",
       "translator": "",
       "publisher": "파랑새",
-      "published": "",
+      "published": "2013-07-15",
       "binding": "",
-      "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "dimensions": "178×230mm",
+      "pages": "178쪽",
+      "isbn13": "9788961553346",
+      "price": 15000
     }
   },
   {
@@ -677,16 +677,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/11610113",
     "cover": "https://image.yes24.com/momo/TopCate304/MidCate001/30303757.jpg",
     "bibliography": {
-      "author": "",
-      "illustrator": "",
+      "author": "하청호",
+      "illustrator": "강태연",
       "translator": "",
-      "publisher": "파랑새",
-      "published": "",
-      "binding": "",
-      "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "publisher": "파랑새어린이",
+      "published": "2013-11-28",
+      "binding": "양장",
+      "dimensions": "170×216×20mm",
+      "pages": "128",
+      "isbn13": "9788961554091",
+      "price": 10000
     }
   },
   {
@@ -702,16 +702,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/12096924",
     "cover": "https://image.yes24.com/momo/TopCate325/MidCate005/32443787.jpg",
     "bibliography": {
-      "author": "",
+      "author": "카를로 콜로디",
       "illustrator": "",
       "translator": "",
-      "publisher": "파랑새",
-      "published": "",
-      "binding": "",
-      "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "publisher": "파랑새어린이",
+      "published": "2014-01-20",
+      "binding": "양장",
+      "dimensions": "150×223×30mm",
+      "pages": "344",
+      "isbn13": "9788961554268",
+      "price": 13500
     }
   },
   {
@@ -752,16 +752,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/13143673",
     "cover": "https://image.yes24.com/momo/TopCate363/MidCate008/36272202.jpg",
     "bibliography": {
-      "author": "",
-      "illustrator": "",
-      "translator": "",
+      "author": "시슬리 반 스트라텐",
+      "illustrator": "이경아",
+      "translator": "유정화",
       "publisher": "파랑새",
-      "published": "",
+      "published": "2014-04-25",
       "binding": "",
-      "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "dimensions": "180×225×20mm",
+      "pages": "224쪽",
+      "isbn13": "9788961554381",
+      "price": "11,000원"
     }
   },
   {
@@ -827,16 +827,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/Product/goods/9327615",
     "cover": "https://image.yes24.com/goods/9327615/XL",
     "bibliography": {
-      "author": "",
-      "illustrator": "",
-      "translator": "",
+      "author": "타냐 로이드 카이",
+      "illustrator": "로스 키네어드",
+      "translator": "김미진",
       "publisher": "파랑새",
-      "published": "",
-      "binding": "",
-      "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "published": "2013-07-15",
+      "binding": "양장",
+      "dimensions": "188×254×20mm",
+      "pages": "124쪽",
+      "isbn13": "9788961553971",
+      "price": 14000
     }
   },
   {
@@ -852,16 +852,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/13491240",
     "cover": "https://image.yes24.com/momo/TopCate380/MidCate008/37971323.jpg",
     "bibliography": {
-      "author": "",
-      "illustrator": "",
-      "translator": "",
+      "author": "피터 크리스티",
+      "illustrator": "로스 키네어드",
+      "translator": "김미진",
       "publisher": "파랑새",
-      "published": "",
-      "binding": "",
-      "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "published": "2014-05-30",
+      "binding": "양장",
+      "dimensions": "188×260mm",
+      "pages": "128쪽",
+      "isbn13": "9788961553988",
+      "price": 14000
     }
   },
   {
@@ -877,15 +877,15 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/18199704",
     "cover": "https://image.yes24.com/goods/18199704/XL",
     "bibliography": {
-      "author": "",
-      "illustrator": "",
-      "translator": "",
+      "author": "타냐 로이드 카이",
+      "illustrator": "로스 키네어드",
+      "translator": "김미진",
       "publisher": "파랑새",
-      "published": "",
+      "published": "2015년",
       "binding": "",
       "dimensions": "",
       "pages": "",
-      "isbn13": "",
+      "isbn13": "9788961553995",
       "price": null
     }
   },
@@ -902,16 +902,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/20372133",
     "cover": "https://image.yes24.com/goods/20372133/XL",
     "bibliography": {
-      "author": "",
-      "illustrator": "",
-      "translator": "",
+      "author": "미셸 피크말",
+      "illustrator": "자크 아잠",
+      "translator": "양진희",
       "publisher": "파랑새",
-      "published": "",
-      "binding": "",
-      "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "published": "2015-09-10",
+      "binding": "양장",
+      "dimensions": "193×285×15mm",
+      "pages": "68쪽",
+      "isbn13": "9788961556378",
+      "price": "15,000원"
     }
   },
   {
@@ -952,16 +952,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/24419544",
     "cover": "https://image.yes24.com/goods/24419544/XL",
     "bibliography": {
-      "author": "",
+      "author": "정은주",
       "illustrator": "",
       "translator": "",
       "publisher": "파랑새",
-      "published": "",
-      "binding": "",
-      "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "published": "2016-01-28",
+      "binding": "양장",
+      "dimensions": "250×250×15mm",
+      "pages": "84쪽",
+      "isbn13": "9788961556385",
+      "price": "14,000원"
     }
   },
   {
@@ -1280,16 +1280,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/62162466",
     "cover": "https://image.yes24.com/goods/62162466/XL",
     "bibliography": {
-      "author": "",
-      "illustrator": "",
-      "translator": "",
+      "author": "레이철 이그노토프스키",
+      "illustrator": "레이철 이그노토프스키",
+      "translator": "김경희",
       "publisher": "길벗어린이",
-      "published": "",
-      "binding": "",
-      "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "published": "2018-07-25",
+      "binding": "양장",
+      "dimensions": "210×252mm",
+      "pages": "128쪽",
+      "isbn13": "9788955824629",
+      "price": "17,000원"
     }
   },
   {
@@ -1905,16 +1905,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/14108874",
     "cover": "https://image.yes24.com/momo/TopCate396/MidCate001/39504320.jpg",
     "bibliography": {
-      "author": "",
-      "illustrator": "",
-      "translator": "",
+      "author": "쟌니 알바네제",
+      "illustrator": "옴브렛타 베르나르디",
+      "translator": "이기철",
       "publisher": "이유출판",
-      "published": "",
-      "binding": "",
-      "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "published": "2014-08-14",
+      "binding": "양장",
+      "dimensions": "220×230×10mm",
+      "pages": "48쪽",
+      "isbn13": "9791195325511",
+      "price": 13000
     }
   },
   {
@@ -1956,15 +1956,15 @@ window.BOOKS = [
     "cover": "https://image.yes24.com/momo/TopCate1115/MidCate001/111406136.jpg",
     "bibliography": {
       "author": "",
-      "illustrator": "",
+      "illustrator": "닉 론디스",
       "translator": "",
       "publisher": "이유출판",
-      "published": "",
+      "published": "2017년 3월 15일",
       "binding": "",
-      "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "dimensions": "260×250×15mm",
+      "pages": "96쪽",
+      "isbn13": "9791195325559",
+      "price": 10000
     }
   },
   {
@@ -2030,16 +2030,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/115777461",
     "cover": "https://image.yes24.com/goods/115777461/XL",
     "bibliography": {
-      "author": "",
-      "illustrator": "",
-      "translator": "",
+      "author": "안토니오 그람시",
+      "illustrator": "비올라 니콜라이",
+      "translator": "이민",
       "publisher": "이유출판",
-      "published": "",
-      "binding": "",
-      "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "published": "2022년 11월 29일",
+      "binding": "양장",
+      "dimensions": "207×285×9mm",
+      "pages": "42쪽",
+      "isbn13": "9791189534332",
+      "price": 15000
     }
   },
   {
@@ -2080,16 +2080,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/115007188",
     "cover": "https://image.yes24.com/goods/115007188/XL",
     "bibliography": {
-      "author": "",
+      "author": "잔카를로 데 카를로, 프랑코 분추가",
       "illustrator": "",
-      "translator": "",
+      "translator": "윤병언",
       "publisher": "이유출판",
-      "published": "",
+      "published": "2022-10-27",
       "binding": "",
-      "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "dimensions": "125×203×17mm",
+      "pages": "388쪽",
+      "isbn13": "9791189534325",
+      "price": 21000
     }
   },
   {
@@ -2130,16 +2130,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/139872585",
     "cover": "https://image.yes24.com/goods/139872585/XL",
     "bibliography": {
-      "author": "",
+      "author": "이냐키 아발로스",
       "illustrator": "",
-      "translator": "",
+      "translator": "엄지영",
       "publisher": "이유출판",
-      "published": "",
+      "published": "2024년 12월 5일",
       "binding": "",
-      "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "dimensions": "160×235×15mm",
+      "pages": "280쪽",
+      "isbn13": "9791189534578",
+      "price": 24000
     }
   },
   {
@@ -2155,16 +2155,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/142786684",
     "cover": "https://image.yes24.com/goods/142786684/XL",
     "bibliography": {
-      "author": "",
+      "author": "김현섭",
       "illustrator": "",
       "translator": "",
       "publisher": "이유출판",
-      "published": "",
+      "published": "2025년 2월 20일",
       "binding": "",
-      "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "dimensions": "125×203×12mm",
+      "pages": "208쪽",
+      "isbn13": "9791189534608",
+      "price": "21,000원"
     }
   },
   {
@@ -2180,16 +2180,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/105384856",
     "cover": "https://image.yes24.com/goods/105384856/XL",
     "bibliography": {
-      "author": "",
-      "illustrator": "",
+      "author": "엄혜숙",
+      "illustrator": "엄혜숙",
       "translator": "",
       "publisher": "이유출판",
-      "published": "",
+      "published": "2021년 11월 29일",
       "binding": "",
-      "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "dimensions": "125×195×19mm",
+      "pages": "320쪽",
+      "isbn13": "9791189534233",
+      "price": "15,000원"
     }
   },
   {
@@ -2205,16 +2205,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/110241958",
     "cover": "https://image.yes24.com/goods/110241958/XL",
     "bibliography": {
-      "author": "",
+      "author": "안덕상",
       "illustrator": "",
       "translator": "",
       "publisher": "이유출판",
-      "published": "",
+      "published": "2022년 6월 22일",
       "binding": "",
-      "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "dimensions": "158×230×35mm",
+      "pages": "544쪽",
+      "isbn13": "9791189534301",
+      "price": "21,000원"
     }
   },
   {
@@ -2230,16 +2230,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/121119637",
     "cover": "https://image.yes24.com/goods/121119637/XL",
     "bibliography": {
-      "author": "",
+      "author": "정광헌",
       "illustrator": "",
       "translator": "",
       "publisher": "이유출판",
-      "published": "",
-      "binding": "",
-      "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "published": "2023-07-31",
+      "binding": "양장",
+      "dimensions": "200×203×30mm",
+      "pages": "336쪽",
+      "isbn13": "9791189534431",
+      "price": 24000
     }
   },
   {
@@ -2330,16 +2330,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/128945872",
     "cover": "https://image.yes24.com/goods/128945872/XL",
     "bibliography": {
-      "author": "",
+      "author": "김정식",
       "illustrator": "",
       "translator": "",
       "publisher": "이유출판",
-      "published": "",
-      "binding": "",
-      "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "published": "2024-07-16",
+      "binding": "양장",
+      "dimensions": "128×205×21mm",
+      "pages": "272쪽",
+      "isbn13": "9791189534523",
+      "price": 18000
     }
   },
   {
@@ -2355,16 +2355,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/135902538",
     "cover": "https://image.yes24.com/goods/135902538/XL",
     "bibliography": {
-      "author": "",
+      "author": "이재성, 이정윤",
       "illustrator": "",
       "translator": "",
       "publisher": "이유출판",
-      "published": "",
+      "published": "2024년 10월 25일",
       "binding": "",
-      "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "dimensions": "128×205×17mm",
+      "pages": "272쪽",
+      "isbn13": "9791189534561",
+      "price": "18,000원"
     }
   },
   {
@@ -2380,16 +2380,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/145648186",
     "cover": "https://image.yes24.com/goods/145648186/XL",
     "bibliography": {
-      "author": "",
+      "author": "김희연",
       "illustrator": "",
       "translator": "",
       "publisher": "이유출판",
-      "published": "",
+      "published": "2025-04-25",
       "binding": "",
-      "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "dimensions": "125×195×15mm",
+      "pages": "232쪽",
+      "isbn13": "9791189534677",
+      "price": 18000
     }
   },
   {
@@ -2405,16 +2405,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/153711609",
     "cover": "https://image.yes24.com/goods/153711609/XL",
     "bibliography": {
-      "author": "",
+      "author": "홍주현",
       "illustrator": "",
       "translator": "",
       "publisher": "이유출판",
-      "published": "",
-      "binding": "",
-      "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "published": "2025-10-14",
+      "binding": "무선제본",
+      "dimensions": "128×205mm",
+      "pages": "272쪽",
+      "isbn13": "9791189534707",
+      "price": 18000
     }
   },
   {
@@ -2430,15 +2430,15 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/180386804",
     "cover": "https://image.yes24.com/goods/180386804/XL",
     "bibliography": {
-      "author": "",
+      "author": "강후림 외",
       "illustrator": "",
       "translator": "",
       "publisher": "이유출판",
-      "published": "",
+      "published": "2026-03-24",
       "binding": "",
-      "dimensions": "",
-      "pages": "",
-      "isbn13": "",
+      "dimensions": "128×205×19mm",
+      "pages": "304쪽",
+      "isbn13": "9791189534837",
       "price": null
     }
   },
@@ -2455,16 +2455,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/194188362",
     "cover": "https://image.yes24.com/goods/194188362/XL",
     "bibliography": {
-      "author": "",
+      "author": "박찬호",
       "illustrator": "",
       "translator": "",
       "publisher": "이유출판",
-      "published": "",
+      "published": "2026-07-21",
       "binding": "",
-      "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "dimensions": "125×195×23mm",
+      "pages": "360쪽",
+      "isbn13": "9791189534929",
+      "price": 18000
     }
   },
   {
@@ -2480,16 +2480,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/105659918",
     "cover": "https://image.yes24.com/goods/105659918/XL",
     "bibliography": {
-      "author": "",
-      "illustrator": "",
+      "author": "이기진",
+      "illustrator": "이기진",
       "translator": "",
       "publisher": "이유출판",
-      "published": "",
+      "published": "2021년 12월 15일",
       "binding": "",
-      "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "dimensions": "140×203×12mm",
+      "pages": "208쪽",
+      "isbn13": "9791189534240",
+      "price": 15000
     }
   },
   {
@@ -2505,16 +2505,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/111681380",
     "cover": "https://image.yes24.com/goods/111681380/XL",
     "bibliography": {
-      "author": "",
-      "illustrator": "",
-      "translator": "",
+      "author": "야스다 고이치, 가나이 마키",
+      "illustrator": "가나이 마키",
+      "translator": "정영희",
       "publisher": "이유출판",
-      "published": "",
+      "published": "2022-08-15",
       "binding": "",
-      "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "dimensions": "130×195×24mm",
+      "pages": "384쪽",
+      "isbn13": "9791189534318",
+      "price": 18000
     }
   },
   {
@@ -2530,16 +2530,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/117971212",
     "cover": "https://image.yes24.com/goods/117971212/XL",
     "bibliography": {
-      "author": "",
+      "author": "요한 볼프강 폰 괴테",
       "illustrator": "",
-      "translator": "",
+      "translator": "이선",
       "publisher": "이유출판",
-      "published": "",
-      "binding": "",
-      "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "published": "2023-03-16",
+      "binding": "무선제본",
+      "dimensions": "140×225×11mm",
+      "pages": "168쪽",
+      "isbn13": "9791189534387",
+      "price": 24000
     }
   },
   {
@@ -2555,16 +2555,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/Product/Goods/110442500",
     "cover": "https://image.yes24.com/goods/110442500/XL",
     "bibliography": {
-      "author": "",
+      "author": "임다은",
       "illustrator": "",
       "translator": "",
       "publisher": "이유출판",
-      "published": "",
+      "published": "2022년 7월 7일",
       "binding": "",
-      "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "dimensions": "125×195×15mm",
+      "pages": "168쪽",
+      "isbn13": "9791189534288",
+      "price": 13800
     }
   },
   {
@@ -2605,16 +2605,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/151049211",
     "cover": "https://image.yes24.com/goods/151049211/XL",
     "bibliography": {
-      "author": "",
+      "author": "최광빈",
       "illustrator": "",
       "translator": "",
       "publisher": "이유출판",
-      "published": "",
+      "published": "2025-08-14",
       "binding": "",
-      "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "dimensions": "140×225×25mm",
+      "pages": "416쪽",
+      "isbn13": "9791189534691",
+      "price": 24000
     }
   },
   {
