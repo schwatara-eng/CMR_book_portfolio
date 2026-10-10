@@ -1305,16 +1305,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/61943499",
     "cover": "https://image.yes24.com/goods/61943499/XL",
     "bibliography": {
-      "author": "",
-      "illustrator": "",
-      "translator": "",
+      "author": "카르멘 애그라 디디",
+      "illustrator": "유진 옐친",
+      "translator": "김경희",
       "publisher": "길벗어린이",
-      "published": "",
-      "binding": "",
-      "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "published": "2018.06.15",
+      "binding": "양장",
+      "dimensions": "230×280×15mm",
+      "pages": 48,
+      "isbn13": "9788955824452",
+      "price": 13000
     }
   },
   {
@@ -1330,16 +1330,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/84490539",
     "cover": "https://image.yes24.com/goods/84490539/XL",
     "bibliography": {
-      "author": "",
-      "illustrator": "",
+      "author": "사회평론 과학교육연구소 외",
+      "illustrator": "조현상, 뭉선생, 윤효식",
       "translator": "",
       "publisher": "사회평론",
-      "published": "",
-      "binding": "",
-      "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "published": "2019.12.20",
+      "binding": "양장",
+      "dimensions": "190×250×12mm",
+      "pages": 120,
+      "isbn13": "9791162730669",
+      "price": 13800
     }
   },
   {
@@ -2105,16 +2105,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/118196081",
     "cover": "https://image.yes24.com/goods/118196081/XL",
     "bibliography": {
-      "author": "",
+      "author": "백진",
       "illustrator": "",
-      "translator": "",
+      "translator": "김한영",
       "publisher": "이유출판",
-      "published": "",
+      "published": "2023.03.28",
       "binding": "",
-      "dimensions": "",
-      "pages": "",
-      "isbn13": "",
-      "price": null
+      "dimensions": "160×230×11mm",
+      "pages": 280,
+      "isbn13": "9791189534394",
+      "price": 21000
     }
   },
   {
@@ -3305,16 +3305,16 @@ window.BOOKS = [
     "url": "https://www.yes24.com/product/goods/127098745",
     "cover": "https://image.yes24.com/goods/127098745/XL",
     "bibliography": {
-      "author": "",
-      "illustrator": "",
-      "translator": "",
+      "author": "가시와바 사치코",
+      "illustrator": "사타케 미호",
+      "translator": "고향옥",
       "publisher": "한빛에듀",
-      "published": "",
+      "published": "2024.06.25",
       "binding": "",
-      "dimensions": "",
-      "pages": "",
+      "dimensions": "148×203×19mm",
+      "pages": 304,
       "isbn13": "",
-      "price": null
+      "price": 16800
     }
   },
   {
