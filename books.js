@@ -13,7 +13,19 @@ window.BOOKS = [
     "cover": "https://image.yes24.com/goods/108422242/XL",
     "covers": [
       "https://image.yes24.com/goods/108422242/XL"
-    ]
+    ],
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "자음과모음",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 2,
@@ -26,7 +38,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "2010년형 초등 학습물. 현재는 신간 판매성과보다 당시 제작·편집 경험 자체를 보여주는 자료로 보는 편이 적절함.",
     "url": "https://www.yes24.com/product/goods/4244877",
-    "cover": "https://image.yes24.com/momo/TopCate93/MidCate01/9208773.jpg"
+    "cover": "https://image.yes24.com/momo/TopCate93/MidCate01/9208773.jpg",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "나이테북스",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 3,
@@ -42,7 +66,19 @@ window.BOOKS = [
     "cover": "https://image.yes24.com/goods/113752121/XL",
     "covers": [
       "https://image.yes24.com/goods/113752121/XL"
-    ]
+    ],
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "나이테북스",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 4,
@@ -58,7 +94,19 @@ window.BOOKS = [
     "cover": "https://image.yes24.com/goods/16686175/XL",
     "covers": [
       "https://image.yes24.com/goods/9292918/XL"
-    ]
+    ],
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "나이테북스",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 5,
@@ -71,7 +119,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "현재 유통·판매가 확인되는 작업. 유아·그림책 분야 편집 경험을 보여줌.",
     "url": "https://www.yes24.com/product/goods/8957192",
-    "cover": "https://image.yes24.com/goods/8957192/XL"
+    "cover": "https://image.yes24.com/goods/8957192/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "파랑새",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 6,
@@ -84,7 +144,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "2014년 출간작으로 현재도 YES24에서 판매 중. 리뷰 17건과 판매지수 700대가 확인되는 장기 판매 그림책.",
     "url": "https://www.yes24.com/product/goods/12458901",
-    "cover": "https://image.yes24.com/goods/12458901/XL"
+    "cover": "https://image.yes24.com/goods/12458901/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "파랑새",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 7,
@@ -97,7 +169,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "현재 유통·판매가 확인되는 작업. 유아·그림책 분야 편집 경험을 보여줌.",
     "url": "https://www.yes24.com/product/goods/12458902",
-    "cover": "https://image.yes24.com/goods/12458902/XL"
+    "cover": "https://image.yes24.com/goods/12458902/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "파랑새",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 8,
@@ -110,7 +194,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "2014년 출간 후 현재도 YES24에서 판매 중. 리뷰 5건, 판매지수 12가 확인되는 그림책.",
     "url": "https://www.yes24.com/product/goods/12581370",
-    "cover": "https://image.yes24.com/goods/12581370/XL"
+    "cover": "https://image.yes24.com/goods/12581370/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "파랑새",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 9,
@@ -123,7 +219,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "현재 유통·판매가 확인되는 작업. 유아·그림책 분야 편집 경험을 보여줌.",
     "url": "https://www.yes24.com/product/goods/17133092",
-    "cover": "https://image.yes24.com/goods/17133092/XL"
+    "cover": "https://image.yes24.com/goods/17133092/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "파랑새",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 10,
@@ -136,7 +244,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "현재 유통·판매가 확인되는 작업. 유아·그림책 분야 편집 경험을 보여줌.",
     "url": "https://www.yes24.com/product/goods/15481904",
-    "cover": "https://image.yes24.com/goods/15481904/XL"
+    "cover": "https://image.yes24.com/goods/15481904/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "파랑새",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 11,
@@ -149,7 +269,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 유아·그림책 분야 편집 경험을 보여줌.",
     "url": "https://www.yes24.com/product/goods/15481906",
-    "cover": "https://image.yes24.com/momo/TopCate435/MidCate004/43434555.jpg"
+    "cover": "https://image.yes24.com/momo/TopCate435/MidCate004/43434555.jpg",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "파랑새",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 12,
@@ -162,7 +294,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 유아·그림책 분야 편집 경험을 보여줌.",
     "url": "https://www.yes24.com/product/goods/13875377",
-    "cover": "https://image.yes24.com/momo/TopCate390/MidCate007/38961524.jpg"
+    "cover": "https://image.yes24.com/momo/TopCate390/MidCate007/38961524.jpg",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "파랑새",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 13,
@@ -175,7 +319,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 유아·그림책 분야 편집 경험을 보여줌.",
     "url": "https://www.yes24.com/product/goods/12270458",
-    "cover": "https://image.yes24.com/goods/12270458/XL"
+    "cover": "https://image.yes24.com/goods/12270458/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "파랑새",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 14,
@@ -188,7 +344,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 유아·그림책 분야 편집 경험을 보여줌.",
     "url": "https://www.yes24.com/Product/goods/13947210",
-    "cover": "https://image.yes24.com/goods/13947210/XL"
+    "cover": "https://image.yes24.com/goods/13947210/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "파랑새",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 15,
@@ -201,7 +369,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 유아·그림책 분야 편집 경험을 보여줌.",
     "url": "https://www.yes24.com/product/goods/189860606",
-    "cover": "https://image.yes24.com/goods/189860606/XL"
+    "cover": "https://image.yes24.com/goods/189860606/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "파랑새",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 16,
@@ -214,7 +394,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "현재 유통·판매가 확인되는 작업. 유아·그림책 분야 편집 경험을 보여줌.",
     "url": "https://www.yes24.com/product/goods/15377536",
-    "cover": "https://image.yes24.com/goods/15377536/XL"
+    "cover": "https://image.yes24.com/goods/15377536/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "파랑새",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 17,
@@ -227,7 +419,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "현재 유통·판매가 확인되는 작업. 유아·그림책 분야 편집 경험을 보여줌.",
     "url": "https://www.yes24.com/product/goods/16811723",
-    "cover": "https://image.yes24.com/goods/16811723/XL"
+    "cover": "https://image.yes24.com/goods/16811723/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "파랑새",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 18,
@@ -240,7 +444,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "현재 유통·판매가 확인되는 작업. 유아·그림책 분야 편집 경험을 보여줌.",
     "url": "https://www.yes24.com/product/goods/11927936",
-    "cover": "https://image.yes24.com/goods/11927936/XL"
+    "cover": "https://image.yes24.com/goods/11927936/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "파랑새",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 19,
@@ -259,7 +475,19 @@ window.BOOKS = [
       "https://image.yes24.com/goods/11601311/XL",
       "https://image.yes24.com/goods/12990991/XL",
       "https://image.yes24.com/goods/13775681/XL"
-    ]
+    ],
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "파랑새",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 20,
@@ -272,7 +500,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 유아·그림책 분야 편집 경험을 보여줌.",
     "url": "https://m.yes24.com/goods/detail/17612530",
-    "cover": "https://image.yes24.com/goods/17612530/XL"
+    "cover": "https://image.yes24.com/goods/17612530/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "파랑새",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 21,
@@ -285,7 +525,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "현재 유통·판매가 확인되는 작업. 유아·그림책 분야 편집 경험을 보여줌.",
     "url": "https://www.yes24.com/product/goods/19598509",
-    "cover": "https://image.yes24.com/goods/19598509/XL"
+    "cover": "https://image.yes24.com/goods/19598509/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "파랑새",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 22,
@@ -298,7 +550,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 어린이 교양·학습 분야 편집 경험을 보여줌.",
     "url": "https://www.yes24.com/product/goods/76205417",
-    "cover": "https://image.yes24.com/momo/TopCate282/MidCate005/28149323.jpg"
+    "cover": "https://image.yes24.com/momo/TopCate282/MidCate005/28149323.jpg",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "파랑새",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 23,
@@ -311,7 +575,19 @@ window.BOOKS = [
     "metric": "2종 편집 담당",
     "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 어린이 교양·학습 분야 편집 경험을 보여줌.",
     "url": "https://www.yes24.com/product/goods/76205417",
-    "cover": "https://image.yes24.com/momo/TopCate339/MidCate007/33866135.jpg"
+    "cover": "https://image.yes24.com/momo/TopCate339/MidCate007/33866135.jpg",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "파랑새",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 24,
@@ -324,7 +600,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 어린이 교양·학습 분야 편집 경험을 보여줌.",
     "url": "https://www.yes24.com/product/goods/15716619",
-    "cover": "https://image.yes24.com/momo/TopCate442/MidCate005/44141633.jpg"
+    "cover": "https://image.yes24.com/momo/TopCate442/MidCate005/44141633.jpg",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "파랑새",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 25,
@@ -337,7 +625,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 어린이 교양·학습 분야 편집 경험을 보여줌.",
     "url": "https://www.yes24.com/product/goods/15716619",
-    "cover": "https://image.yes24.com/momo/TopCate442/MidCate005/44141813.jpg"
+    "cover": "https://image.yes24.com/momo/TopCate442/MidCate005/44141813.jpg",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "파랑새",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 26,
@@ -350,7 +650,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 어린이 교양·학습 분야 편집 경험을 보여줌.",
     "url": "https://www.yes24.com/product/goods/9358806",
-    "cover": "https://image.yes24.com/momo/TopCate276/MidCate005/27545684.jpg"
+    "cover": "https://image.yes24.com/momo/TopCate276/MidCate005/27545684.jpg",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "파랑새",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 27,
@@ -363,7 +675,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 어린이 교양·학습 분야 편집 경험을 보여줌.",
     "url": "https://www.yes24.com/product/goods/11610113",
-    "cover": "https://image.yes24.com/momo/TopCate304/MidCate001/30303757.jpg"
+    "cover": "https://image.yes24.com/momo/TopCate304/MidCate001/30303757.jpg",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "파랑새",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 28,
@@ -376,7 +700,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 어린이 교양·학습 분야 편집 경험을 보여줌.",
     "url": "https://www.yes24.com/product/goods/12096924",
-    "cover": "https://image.yes24.com/momo/TopCate325/MidCate005/32443787.jpg"
+    "cover": "https://image.yes24.com/momo/TopCate325/MidCate005/32443787.jpg",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "파랑새",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 29,
@@ -389,7 +725,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 어린이 교양·학습 분야 편집 경험을 보여줌.",
     "url": "https://www.yes24.com/product/goods/12648650",
-    "cover": "https://image.yes24.com/momo/TopCate345/MidCate008/34472404.jpg"
+    "cover": "https://image.yes24.com/momo/TopCate345/MidCate008/34472404.jpg",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "파랑새",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 30,
@@ -402,7 +750,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 어린이 교양·학습 분야 편집 경험을 보여줌.",
     "url": "https://www.yes24.com/product/goods/13143673",
-    "cover": "https://image.yes24.com/momo/TopCate363/MidCate008/36272202.jpg"
+    "cover": "https://image.yes24.com/momo/TopCate363/MidCate008/36272202.jpg",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "파랑새",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 31,
@@ -415,7 +775,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 어린이 교양·학습 분야 편집 경험을 보여줌.",
     "url": "https://www.yes24.com/product/goods/23503148",
-    "cover": "https://image.yes24.com/momo/TopCate675/MidCate002/67412335.jpg"
+    "cover": "https://image.yes24.com/momo/TopCate675/MidCate002/67412335.jpg",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "파랑새",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 32,
@@ -428,7 +800,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 어린이 교양·학습 분야 편집 경험을 보여줌.",
     "url": "https://www.yes24.com/product/goods/23503111",
-    "cover": "https://image.yes24.com/momo/TopCate675/MidCate002/67412214.jpg"
+    "cover": "https://image.yes24.com/momo/TopCate675/MidCate002/67412214.jpg",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "파랑새",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 33,
@@ -441,7 +825,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "2013년 출간 어린이 교양서로 현재도 YES24 신품 판매가 확인되며 리뷰가 축적되어 있음.",
     "url": "https://www.yes24.com/Product/goods/9327615",
-    "cover": "https://image.yes24.com/goods/9327615/XL"
+    "cover": "https://image.yes24.com/goods/9327615/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "파랑새",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 34,
@@ -454,7 +850,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 어린이 교양·학습 분야 편집 경험을 보여줌.",
     "url": "https://www.yes24.com/product/goods/13491240",
-    "cover": "https://image.yes24.com/momo/TopCate380/MidCate008/37971323.jpg"
+    "cover": "https://image.yes24.com/momo/TopCate380/MidCate008/37971323.jpg",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "파랑새",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 35,
@@ -467,7 +875,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 어린이 교양·학습 분야 편집 경험을 보여줌.",
     "url": "https://www.yes24.com/product/goods/18199704",
-    "cover": "https://image.yes24.com/goods/18199704/XL"
+    "cover": "https://image.yes24.com/goods/18199704/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "파랑새",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 36,
@@ -480,7 +900,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "2015년 출간 어린이 교양서로 현재도 신품 판매가 확인되는 장기 유통 사례.",
     "url": "https://www.yes24.com/product/goods/20372133",
-    "cover": "https://image.yes24.com/goods/20372133/XL"
+    "cover": "https://image.yes24.com/goods/20372133/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "파랑새",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 37,
@@ -493,7 +925,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 어린이 교양·학습 분야 편집 경험을 보여줌.",
     "url": "https://www.yes24.com/product/goods/23316402",
-    "cover": "https://image.yes24.com/momo/TopCate670/MidCate008/66889890.jpg"
+    "cover": "https://image.yes24.com/momo/TopCate670/MidCate008/66889890.jpg",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "파랑새",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 38,
@@ -506,7 +950,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 어린이 교양·학습 분야 편집 경험을 보여줌.",
     "url": "https://www.yes24.com/product/goods/24419544",
-    "cover": "https://image.yes24.com/goods/24419544/XL"
+    "cover": "https://image.yes24.com/goods/24419544/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "파랑새",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 39,
@@ -519,7 +975,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 어린이 교양·학습 분야 편집 경험을 보여줌.",
     "url": "https://www.yes24.com/product/goods/14713860",
-    "cover": "https://image.yes24.com/goods/14713860/XL"
+    "cover": "https://image.yes24.com/goods/14713860/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "파랑새",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 40,
@@ -532,7 +1000,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "온라인 서점 직접 링크가 없어 현재 판매 여부와 세부 유통 현황은 추가 확인이 필요한 작업. 어린이 교양·학습 분야 편집 경험을 보여줌.",
     "url": "",
-    "cover": "https://image.yes24.com/momo/TopCate287/MidCate008/28672588.jpg"
+    "cover": "https://image.yes24.com/momo/TopCate287/MidCate008/28672588.jpg",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "파랑새",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 41,
@@ -545,7 +1025,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "온라인 서점 직접 링크가 없어 현재 판매 여부와 세부 유통 현황은 추가 확인이 필요한 작업. 어린이 교양·학습 분야 편집 경험을 보여줌.",
     "url": "",
-    "cover": "https://image.yes24.com/momo/TopCate333/MidCate007/33262612.jpg"
+    "cover": "https://image.yes24.com/momo/TopCate333/MidCate007/33262612.jpg",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "파랑새",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 42,
@@ -558,7 +1050,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "온라인 서점 직접 링크가 없어 현재 판매 여부와 세부 유통 현황은 추가 확인이 필요한 작업. 어린이 교양·학습 분야 편집 경험을 보여줌.",
     "url": "",
-    "cover": "https://image.yes24.com/goods/13356544/XL"
+    "cover": "https://image.yes24.com/goods/13356544/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "파랑새",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 43,
@@ -571,7 +1075,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "온라인 서점 직접 링크가 없어 현재 판매 여부와 세부 유통 현황은 추가 확인이 필요한 작업. 어린이 교양·학습 분야 편집 경험을 보여줌.",
     "url": "",
-    "cover": "https://image.yes24.com/momo/TopCate499/MidCate001/49802977.jpg"
+    "cover": "https://image.yes24.com/momo/TopCate499/MidCate001/49802977.jpg",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "파랑새",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 44,
@@ -584,7 +1100,19 @@ window.BOOKS = [
     "metric": "개정 편집 담당",
     "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 어린이 교양·학습 분야 편집 경험을 보여줌.",
     "url": "https://www.yes24.com/product/goods/22465441",
-    "cover": "https://image.yes24.com/momo/TopCate644/MidCate010/64333998.jpg"
+    "cover": "https://image.yes24.com/momo/TopCate644/MidCate010/64333998.jpg",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "파랑새",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 45,
@@ -597,7 +1125,19 @@ window.BOOKS = [
     "metric": "개정 편집 담당",
     "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 어린이 교양·학습 분야 편집 경험을 보여줌.",
     "url": "https://www.yes24.com/product/goods/22465441",
-    "cover": "https://image.yes24.com/momo/TopCate644/MidCate010/64334006.jpg"
+    "cover": "https://image.yes24.com/momo/TopCate644/MidCate010/64334006.jpg",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "파랑새",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 46,
@@ -610,7 +1150,19 @@ window.BOOKS = [
     "metric": "3종 개정 편집 담당",
     "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 어린이 교양·학습 분야 편집 경험을 보여줌.",
     "url": "https://www.yes24.com/product/goods/35384504",
-    "cover": "https://image.yes24.com/momo/TopCate1051/MidCate3/105020565.jpg"
+    "cover": "https://image.yes24.com/momo/TopCate1051/MidCate3/105020565.jpg",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "파랑새",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 47,
@@ -623,7 +1175,19 @@ window.BOOKS = [
     "metric": "5종 편집 담당",
     "note": "일부 권의 절판·품절이 확인되지만 시리즈 유통 흔적이 남아 있는 작업. 어린이 교양·학습 분야 편집 경험을 보여줌.",
     "url": "https://www.yes24.com/product/goods/76205401",
-    "cover": "https://image.yes24.com/goods/76205401/XL"
+    "cover": "https://image.yes24.com/goods/76205401/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "파랑새",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 48,
@@ -636,7 +1200,19 @@ window.BOOKS = [
     "metric": "4종 편집 담당",
     "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 어린이 교양·학습 분야 편집 경험을 보여줌.",
     "url": "https://www.yes24.com/product/goods/12800238",
-    "cover": "https://image.yes24.com/momo/TopCate712/MidCate04/71130699.jpg"
+    "cover": "https://image.yes24.com/momo/TopCate712/MidCate04/71130699.jpg",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "파랑새",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 49,
@@ -649,7 +1225,19 @@ window.BOOKS = [
     "metric": "시리즈 기획·프로토타입",
     "note": "미출간 기획 프로젝트. 판매성과가 아니라 신규 대형 시리즈 기획과 프로토타입 설계 경험을 보여주는 항목.",
     "url": "",
-    "cover": ""
+    "cover": "",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "북이십일",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 50,
@@ -665,7 +1253,19 @@ window.BOOKS = [
     "cover": "https://image.yes24.com/goods/60209231/XL",
     "covers": [
       "https://image.yes24.com/goods/60209231/XL"
-    ]
+    ],
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "길벗어린이",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 51,
@@ -678,7 +1278,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "현재 온라인 유통 흔적이 확인되는 작업. 어린이 교양·학습 분야 편집 경험을 보여줌.",
     "url": "https://www.yes24.com/product/goods/62162466",
-    "cover": "https://image.yes24.com/goods/62162466/XL"
+    "cover": "https://image.yes24.com/goods/62162466/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "길벗어린이",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 52,
@@ -691,7 +1303,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "현재 유통·판매가 확인되는 작업. 어린이 교양·학습 분야 편집 경험을 보여줌.",
     "url": "https://www.yes24.com/product/goods/61943499",
-    "cover": "https://image.yes24.com/goods/61943499/XL"
+    "cover": "https://image.yes24.com/goods/61943499/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "길벗어린이",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 53,
@@ -704,7 +1328,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "용선생의 시끌벅적 과학교실 론칭 초기 1~22권 편집 담당.",
     "url": "https://www.yes24.com/product/goods/84490539",
-    "cover": "https://image.yes24.com/goods/84490539/XL"
+    "cover": "https://image.yes24.com/goods/84490539/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "사회평론",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 129,
@@ -717,7 +1353,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "용선생의 시끌벅적 과학교실 론칭 초기 1~22권 편집 담당.",
     "url": "https://www.yes24.com/product/goods/84891051",
-    "cover": "https://image.yes24.com/goods/84891051/XL"
+    "cover": "https://image.yes24.com/goods/84891051/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "사회평론",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 130,
@@ -730,7 +1378,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "용선생의 시끌벅적 과학교실 론칭 초기 1~22권 편집 담당.",
     "url": "https://www.yes24.com/product/goods/84891077",
-    "cover": "https://image.yes24.com/goods/84891077/XL"
+    "cover": "https://image.yes24.com/goods/84891077/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "사회평론",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 131,
@@ -743,7 +1403,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "용선생의 시끌벅적 과학교실 론칭 초기 1~22권 편집 담당.",
     "url": "https://www.yes24.com/product/goods/84891118",
-    "cover": "https://image.yes24.com/goods/84891118/XL"
+    "cover": "https://image.yes24.com/goods/84891118/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "사회평론",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 132,
@@ -756,7 +1428,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "용선생의 시끌벅적 과학교실 론칭 초기 1~22권 편집 담당.",
     "url": "https://www.yes24.com/product/goods/84891131",
-    "cover": "https://image.yes24.com/goods/84891131/XL"
+    "cover": "https://image.yes24.com/goods/84891131/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "사회평론",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 133,
@@ -769,7 +1453,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "용선생의 시끌벅적 과학교실 론칭 초기 1~22권 편집 담당.",
     "url": "https://www.yes24.com/product/goods/84891146",
-    "cover": "https://image.yes24.com/goods/84891146/XL"
+    "cover": "https://image.yes24.com/goods/84891146/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "사회평론",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 134,
@@ -782,7 +1478,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "용선생의 시끌벅적 과학교실 론칭 초기 1~22권 편집 담당.",
     "url": "https://www.yes24.com/product/goods/84891161",
-    "cover": "https://image.yes24.com/goods/84891161/XL"
+    "cover": "https://image.yes24.com/goods/84891161/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "사회평론",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 135,
@@ -795,7 +1503,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "용선생의 시끌벅적 과학교실 론칭 초기 1~22권 편집 담당.",
     "url": "https://www.yes24.com/product/goods/84891179",
-    "cover": "https://image.yes24.com/goods/84891179/XL"
+    "cover": "https://image.yes24.com/goods/84891179/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "사회평론",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 136,
@@ -808,7 +1528,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "용선생의 시끌벅적 과학교실 론칭 초기 1~22권 편집 담당.",
     "url": "https://www.yes24.com/product/goods/84891188",
-    "cover": "https://image.yes24.com/goods/84891188/XL"
+    "cover": "https://image.yes24.com/goods/84891188/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "사회평론",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 137,
@@ -821,7 +1553,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "용선생의 시끌벅적 과학교실 론칭 초기 1~22권 편집 담당.",
     "url": "https://www.yes24.com/product/goods/84891216",
-    "cover": "https://image.yes24.com/goods/84891216/XL"
+    "cover": "https://image.yes24.com/goods/84891216/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "사회평론",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 138,
@@ -834,7 +1578,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "용선생의 시끌벅적 과학교실 론칭 초기 1~22권 편집 담당.",
     "url": "https://www.yes24.com/product/goods/90002606",
-    "cover": "https://image.yes24.com/goods/90002606/XL"
+    "cover": "https://image.yes24.com/goods/90002606/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "사회평론",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 139,
@@ -847,7 +1603,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "용선생의 시끌벅적 과학교실 론칭 초기 1~22권 편집 담당.",
     "url": "https://www.yes24.com/product/goods/90002622",
-    "cover": "https://image.yes24.com/goods/90002622/XL"
+    "cover": "https://image.yes24.com/goods/90002622/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "사회평론",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 140,
@@ -860,7 +1628,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "용선생의 시끌벅적 과학교실 론칭 초기 1~22권 편집 담당.",
     "url": "https://www.yes24.com/product/goods/90860768",
-    "cover": "https://image.yes24.com/goods/90860768/XL"
+    "cover": "https://image.yes24.com/goods/90860768/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "사회평론",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 141,
@@ -873,7 +1653,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "용선생의 시끌벅적 과학교실 론칭 초기 1~22권 편집 담당.",
     "url": "https://www.yes24.com/product/goods/90861002",
-    "cover": "https://image.yes24.com/goods/90861002/XL"
+    "cover": "https://image.yes24.com/goods/90861002/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "사회평론",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 142,
@@ -886,7 +1678,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "용선생의 시끌벅적 과학교실 론칭 초기 1~22권 편집 담당.",
     "url": "https://www.yes24.com/product/goods/91471144",
-    "cover": "https://image.yes24.com/goods/91471144/XL"
+    "cover": "https://image.yes24.com/goods/91471144/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "사회평론",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 143,
@@ -899,7 +1703,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "용선생의 시끌벅적 과학교실 론칭 초기 1~22권 편집 담당.",
     "url": "https://www.yes24.com/product/goods/91471196",
-    "cover": "https://image.yes24.com/goods/91471196/XL"
+    "cover": "https://image.yes24.com/goods/91471196/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "사회평론",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 144,
@@ -912,7 +1728,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "용선생의 시끌벅적 과학교실 론칭 초기 1~22권 편집 담당.",
     "url": "https://www.yes24.com/product/goods/93964611",
-    "cover": "https://image.yes24.com/goods/93964611/XL"
+    "cover": "https://image.yes24.com/goods/93964611/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "사회평론",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 145,
@@ -925,7 +1753,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "용선생의 시끌벅적 과학교실 론칭 초기 1~22권 편집 담당.",
     "url": "https://www.yes24.com/product/goods/93964619",
-    "cover": "https://image.yes24.com/goods/93964619/XL"
+    "cover": "https://image.yes24.com/goods/93964619/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "사회평론",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 146,
@@ -938,7 +1778,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "용선생의 시끌벅적 과학교실 론칭 초기 1~22권 편집 담당.",
     "url": "https://www.yes24.com/product/goods/96375007",
-    "cover": "https://image.yes24.com/goods/96375007/XL"
+    "cover": "https://image.yes24.com/goods/96375007/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "사회평론",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 147,
@@ -951,7 +1803,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "용선생의 시끌벅적 과학교실 론칭 초기 1~22권 편집 담당.",
     "url": "https://www.yes24.com/product/goods/96375163",
-    "cover": "https://image.yes24.com/goods/96375163/XL"
+    "cover": "https://image.yes24.com/goods/96375163/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "사회평론",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 148,
@@ -964,7 +1828,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "용선생의 시끌벅적 과학교실 론칭 초기 1~22권 편집 담당.",
     "url": "https://www.yes24.com/product/goods/97783660",
-    "cover": "https://image.yes24.com/goods/97783660/XL"
+    "cover": "https://image.yes24.com/goods/97783660/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "사회평론",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 149,
@@ -977,7 +1853,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "용선생의 시끌벅적 과학교실 론칭 초기 1~22권 편집 담당.",
     "url": "https://www.yes24.com/product/goods/97783682",
-    "cover": "https://image.yes24.com/goods/97783682/XL"
+    "cover": "https://image.yes24.com/goods/97783682/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "사회평론",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 54,
@@ -990,7 +1878,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "2026년 출간된 최신 작업. 판매 누적기간이 짧아 장기 성과보다는 최근 편집 경력과 현재성을 보여주는 항목.",
     "url": "https://www.yes24.com/product/goods/193095307",
-    "cover": "https://image.yes24.com/goods/193095307/XL"
+    "cover": "https://image.yes24.com/goods/193095307/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "백앤아월드",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 55,
@@ -1003,7 +1903,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 유아·그림책 분야 편집 경험을 보여줌.",
     "url": "https://www.yes24.com/product/goods/14108874",
-    "cover": "https://image.yes24.com/momo/TopCate396/MidCate001/39504320.jpg"
+    "cover": "https://image.yes24.com/momo/TopCate396/MidCate001/39504320.jpg",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "이유출판",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 56,
@@ -1016,7 +1928,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 유아·그림책 분야 편집 경험을 보여줌.",
     "url": "https://www.yes24.com/product/goods/23552574",
-    "cover": "https://image.yes24.com/momo/TopCate676/MidCate009/67580010.jpg"
+    "cover": "https://image.yes24.com/momo/TopCate676/MidCate009/67580010.jpg",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "이유출판",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 57,
@@ -1029,7 +1953,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 유아·그림책 분야 편집 경험을 보여줌.",
     "url": "https://www.yes24.com/product/goods/37277497",
-    "cover": "https://image.yes24.com/momo/TopCate1115/MidCate001/111406136.jpg"
+    "cover": "https://image.yes24.com/momo/TopCate1115/MidCate001/111406136.jpg",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "이유출판",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 58,
@@ -1042,7 +1978,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "현재 판매량 수치보다 저자·출판사 대표작으로서의 유통 흔적이 확인되는 그림책.",
     "url": "https://www.yes24.com/product/goods/65049816",
-    "cover": "https://image.yes24.com/goods/65049816/XL"
+    "cover": "https://image.yes24.com/goods/65049816/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "이유출판",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 59,
@@ -1055,7 +2003,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 유아·그림책 분야 편집 경험을 보여줌.",
     "url": "https://www.yes24.com/product/goods/109724674",
-    "cover": "https://image.yes24.com/goods/109724674/XL"
+    "cover": "https://image.yes24.com/goods/109724674/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "이유출판",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 60,
@@ -1068,7 +2028,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 유아·그림책 분야 편집 경험을 보여줌.",
     "url": "https://www.yes24.com/product/goods/115777461",
-    "cover": "https://image.yes24.com/goods/115777461/XL"
+    "cover": "https://image.yes24.com/goods/115777461/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "이유출판",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 61,
@@ -1081,7 +2053,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 건축·예술 전문 분야 편집 경험을 보여줌.",
     "url": "https://www.yes24.com/product/goods/24943216",
-    "cover": "https://image.yes24.com/momo/TopCate725/MidCate009/72489517.jpg"
+    "cover": "https://image.yes24.com/momo/TopCate725/MidCate009/72489517.jpg",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "이유출판",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 62,
@@ -1094,7 +2078,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 건축·예술 전문 분야 편집 경험을 보여줌.",
     "url": "https://www.yes24.com/product/goods/115007188",
-    "cover": "https://image.yes24.com/goods/115007188/XL"
+    "cover": "https://image.yes24.com/goods/115007188/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "이유출판",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 63,
@@ -1107,7 +2103,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "전문 건축서로 현재 신품 판매가 이어지는 장기 유통 항목. 대중서보다 전문 분야 지속 판매 여부가 중요한 작업.",
     "url": "https://www.yes24.com/product/goods/118196081",
-    "cover": "https://image.yes24.com/goods/118196081/XL"
+    "cover": "https://image.yes24.com/goods/118196081/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "이유출판",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 64,
@@ -1120,7 +2128,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "2024년 출간 건축 전문서로 현재 신품 판매가 확인되며 YES24 판매지수도 확인되는 작업.",
     "url": "https://www.yes24.com/product/goods/139872585",
-    "cover": "https://image.yes24.com/goods/139872585/XL"
+    "cover": "https://image.yes24.com/goods/139872585/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "이유출판",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 65,
@@ -1133,7 +2153,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "2025년 출간된 비교적 최근 건축 전문서. 최신 포트폴리오 흐름을 보여주는 전문 분야 작업.",
     "url": "https://www.yes24.com/product/goods/142786684",
-    "cover": "https://image.yes24.com/goods/142786684/XL"
+    "cover": "https://image.yes24.com/goods/142786684/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "이유출판",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 66,
@@ -1146,7 +2178,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 성인 에세이 분야 외주 편집 경험을 보여줌.",
     "url": "https://www.yes24.com/product/goods/105384856",
-    "cover": "https://image.yes24.com/goods/105384856/XL"
+    "cover": "https://image.yes24.com/goods/105384856/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "이유출판",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 67,
@@ -1159,7 +2203,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 성인 에세이 분야 외주 편집 경험을 보여줌.",
     "url": "https://www.yes24.com/product/goods/110241958",
-    "cover": "https://image.yes24.com/goods/110241958/XL"
+    "cover": "https://image.yes24.com/goods/110241958/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "이유출판",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 68,
@@ -1172,7 +2228,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 성인 에세이 분야 외주 편집 경험을 보여줌.",
     "url": "https://www.yes24.com/product/goods/121119637",
-    "cover": "https://image.yes24.com/goods/121119637/XL"
+    "cover": "https://image.yes24.com/goods/121119637/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "이유출판",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 69,
@@ -1185,7 +2253,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 성인 에세이 분야 외주 편집 경험을 보여줌.",
     "url": "https://www.yes24.com/product/goods/118790972",
-    "cover": "https://image.yes24.com/goods/118790972/XL"
+    "cover": "https://image.yes24.com/goods/118790972/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "이유출판",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 70,
@@ -1198,7 +2278,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "제10회 브런치북 특별상 수상작. 판매성과와 별개로 수상 이력이 명확한 성과 근거가 있는 작업.",
     "url": "https://www.yes24.com/product/goods/122090254",
-    "cover": "https://image.yes24.com/goods/122090254/XL"
+    "cover": "https://image.yes24.com/goods/122090254/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "이유출판",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 71,
@@ -1211,7 +2303,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 성인 에세이 분야 외주 편집 경험을 보여줌.",
     "url": "https://www.yes24.com/product/goods/126458455",
-    "cover": "https://image.yes24.com/goods/126458455/XL"
+    "cover": "https://image.yes24.com/goods/126458455/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "이유출판",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 72,
@@ -1224,7 +2328,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 성인 에세이 분야 외주 편집 경험을 보여줌.",
     "url": "https://www.yes24.com/product/goods/128945872",
-    "cover": "https://image.yes24.com/goods/128945872/XL"
+    "cover": "https://image.yes24.com/goods/128945872/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "이유출판",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 73,
@@ -1237,7 +2353,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 성인 에세이 분야 외주 편집 경험을 보여줌.",
     "url": "https://www.yes24.com/product/goods/135902538",
-    "cover": "https://image.yes24.com/goods/135902538/XL"
+    "cover": "https://image.yes24.com/goods/135902538/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "이유출판",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 74,
@@ -1250,7 +2378,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 성인 에세이 분야 외주 편집 경험을 보여줌.",
     "url": "https://www.yes24.com/product/goods/145648186",
-    "cover": "https://image.yes24.com/goods/145648186/XL"
+    "cover": "https://image.yes24.com/goods/145648186/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "이유출판",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 75,
@@ -1263,7 +2403,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 성인 에세이 분야 외주 편집 경험을 보여줌.",
     "url": "https://www.yes24.com/product/goods/153711609",
-    "cover": "https://image.yes24.com/goods/153711609/XL"
+    "cover": "https://image.yes24.com/goods/153711609/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "이유출판",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 76,
@@ -1276,7 +2428,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "2026년 출간작. 판매 누적기간이 짧아 현재 수치보다 최근 출간·편집 경력 자체를 중심으로 보는 것이 적절함.",
     "url": "https://www.yes24.com/product/goods/180386804",
-    "cover": "https://image.yes24.com/goods/180386804/XL"
+    "cover": "https://image.yes24.com/goods/180386804/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "이유출판",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 77,
@@ -1289,7 +2453,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "2026년 출간작. 판매 누적기간이 짧아 현재 수치보다 최근 출간·편집 경력 자체를 중심으로 보는 것이 적절함.",
     "url": "https://www.yes24.com/product/goods/194188362",
-    "cover": "https://image.yes24.com/goods/194188362/XL"
+    "cover": "https://image.yes24.com/goods/194188362/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "이유출판",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 78,
@@ -1302,7 +2478,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "2021년 종이책 이후 큰글자책·eBook으로 판형이 확장된 장기 활용 사례.",
     "url": "https://www.yes24.com/product/goods/105659918",
-    "cover": "https://image.yes24.com/goods/105659918/XL"
+    "cover": "https://image.yes24.com/goods/105659918/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "이유출판",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 79,
@@ -1315,7 +2503,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 사회·정치 교양 분야 편집 경험을 보여줌.",
     "url": "https://www.yes24.com/product/goods/111681380",
-    "cover": "https://image.yes24.com/goods/111681380/XL"
+    "cover": "https://image.yes24.com/goods/111681380/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "이유출판",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 80,
@@ -1328,7 +2528,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "2023년 종이책 출간 뒤 현재도 판매가 이어지고 eBook으로도 확장된 자연과학 분야 작업.",
     "url": "https://www.yes24.com/product/goods/117971212",
-    "cover": "https://image.yes24.com/goods/117971212/XL"
+    "cover": "https://image.yes24.com/goods/117971212/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "이유출판",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 81,
@@ -1341,7 +2553,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 인문 교양 분야 편집 경험을 보여줌.",
     "url": "https://www.yes24.com/Product/Goods/110442500",
-    "cover": "https://image.yes24.com/goods/110442500/XL"
+    "cover": "https://image.yes24.com/goods/110442500/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "이유출판",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 82,
@@ -1354,7 +2578,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 인문 교양 분야 편집 경험을 보여줌.",
     "url": "https://www.yes24.com/product/goods/124038555",
-    "cover": "https://image.yes24.com/goods/124038555/XL"
+    "cover": "https://image.yes24.com/goods/124038555/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "이유출판",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 83,
@@ -1367,7 +2603,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 인문 교양 분야 편집 경험을 보여줌.",
     "url": "https://www.yes24.com/product/goods/151049211",
-    "cover": "https://image.yes24.com/goods/151049211/XL"
+    "cover": "https://image.yes24.com/goods/151049211/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "이유출판",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 84,
@@ -1380,7 +2628,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "2026년 출간된 최근 인문서. 판매 누적기간보다 최신 외주 편집 경력을 보여주는 항목.",
     "url": "https://www.yes24.com/product/goods/191693300",
-    "cover": "https://image.yes24.com/goods/191693300/XL"
+    "cover": "https://image.yes24.com/goods/191693300/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "이유출판",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 85,
@@ -1393,7 +2653,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 자기계발 분야 편집 경험을 보여줌.",
     "url": "https://www.yes24.com/product/goods/150163766",
-    "cover": "https://image.yes24.com/goods/150163766/XL"
+    "cover": "https://image.yes24.com/goods/150163766/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "이유출판",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 86,
@@ -1406,7 +2678,19 @@ window.BOOKS = [
     "metric": "턴키 제작·일정·외주 총괄 PM",
     "note": "시리즈 12종 턴키 제작·일정·외주 총괄 PM 담당. 개별 권의 서점 링크 및 표지 확인 필요.",
     "url": "https://www.yes24.com/product/goods/120184644",
-    "cover": "https://image.yes24.com/goods/120184644/XL"
+    "cover": "https://image.yes24.com/goods/120184644/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "북이십일",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 110,
@@ -1419,7 +2703,19 @@ window.BOOKS = [
     "metric": "턴키 제작·일정·외주 총괄 PM",
     "note": "시리즈 12종 턴키 제작·일정·외주 총괄 PM 담당. 개별 권의 서점 링크 및 표지 확인 필요.",
     "url": "https://www.yes24.com/product/goods/120185003",
-    "cover": "https://image.yes24.com/goods/120185003/XL"
+    "cover": "https://image.yes24.com/goods/120185003/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "북이십일",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 111,
@@ -1432,7 +2728,19 @@ window.BOOKS = [
     "metric": "턴키 제작·일정·외주 총괄 PM",
     "note": "시리즈 12종 턴키 제작·일정·외주 총괄 PM 담당. 개별 권의 서점 링크 및 표지 확인 필요.",
     "url": "https://www.yes24.com/product/goods/120185011",
-    "cover": "https://image.yes24.com/goods/120185011/XL"
+    "cover": "https://image.yes24.com/goods/120185011/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "북이십일",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 112,
@@ -1445,7 +2753,19 @@ window.BOOKS = [
     "metric": "턴키 제작·일정·외주 총괄 PM",
     "note": "시리즈 12종 턴키 제작·일정·외주 총괄 PM 담당. 개별 권의 서점 링크 및 표지 확인 필요.",
     "url": "https://www.yes24.com/product/goods/120185020",
-    "cover": "https://image.yes24.com/goods/120185020/XL"
+    "cover": "https://image.yes24.com/goods/120185020/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "북이십일",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 113,
@@ -1458,7 +2778,19 @@ window.BOOKS = [
     "metric": "턴키 제작·일정·외주 총괄 PM",
     "note": "시리즈 12종 턴키 제작·일정·외주 총괄 PM 담당. 개별 권의 서점 링크 및 표지 확인 필요.",
     "url": "https://www.yes24.com/product/goods/120185029",
-    "cover": "https://image.yes24.com/goods/120185029/XL"
+    "cover": "https://image.yes24.com/goods/120185029/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "북이십일",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 114,
@@ -1471,7 +2803,19 @@ window.BOOKS = [
     "metric": "턴키 제작·일정·외주 총괄 PM",
     "note": "시리즈 12종 턴키 제작·일정·외주 총괄 PM 담당. 개별 권의 서점 링크 및 표지 확인 필요.",
     "url": "https://www.yes24.com/product/goods/120185034",
-    "cover": "https://image.yes24.com/goods/120185034/XL"
+    "cover": "https://image.yes24.com/goods/120185034/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "북이십일",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 115,
@@ -1484,7 +2828,19 @@ window.BOOKS = [
     "metric": "턴키 제작·일정·외주 총괄 PM",
     "note": "시리즈 12종 턴키 제작·일정·외주 총괄 PM 담당. 개별 권의 서점 링크 및 표지 확인 필요.",
     "url": "https://www.yes24.com/product/goods/124151888",
-    "cover": "https://image.yes24.com/goods/124151888/XL"
+    "cover": "https://image.yes24.com/goods/124151888/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "북이십일",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 116,
@@ -1497,7 +2853,19 @@ window.BOOKS = [
     "metric": "턴키 제작·일정·외주 총괄 PM",
     "note": "시리즈 12종 턴키 제작·일정·외주 총괄 PM 담당. 개별 권의 서점 링크 및 표지 확인 필요.",
     "url": "https://www.yes24.com/product/goods/124151893",
-    "cover": "https://image.yes24.com/goods/124151893/XL"
+    "cover": "https://image.yes24.com/goods/124151893/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "북이십일",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 117,
@@ -1510,7 +2878,19 @@ window.BOOKS = [
     "metric": "턴키 제작·일정·외주 총괄 PM",
     "note": "시리즈 12종 턴키 제작·일정·외주 총괄 PM 담당. 개별 권의 서점 링크 및 표지 확인 필요.",
     "url": "https://www.yes24.com/product/goods/124151899",
-    "cover": "https://image.yes24.com/goods/124151899/XL"
+    "cover": "https://image.yes24.com/goods/124151899/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "북이십일",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 118,
@@ -1523,7 +2903,19 @@ window.BOOKS = [
     "metric": "턴키 제작·일정·외주 총괄 PM",
     "note": "시리즈 12종 턴키 제작·일정·외주 총괄 PM 담당. 개별 권의 서점 링크 및 표지 확인 필요.",
     "url": "https://www.yes24.com/product/goods/124151906",
-    "cover": "https://image.yes24.com/goods/124151906/XL"
+    "cover": "https://image.yes24.com/goods/124151906/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "북이십일",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 119,
@@ -1536,7 +2928,19 @@ window.BOOKS = [
     "metric": "턴키 제작·일정·외주 총괄 PM",
     "note": "시리즈 12종 턴키 제작·일정·외주 총괄 PM 담당. 개별 권의 서점 링크 및 표지 확인 필요.",
     "url": "https://www.yes24.com/product/goods/124151914",
-    "cover": "https://image.yes24.com/goods/124151914/XL"
+    "cover": "https://image.yes24.com/goods/124151914/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "북이십일",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 120,
@@ -1549,7 +2953,19 @@ window.BOOKS = [
     "metric": "턴키 제작·일정·외주 총괄 PM",
     "note": "시리즈 12종 턴키 제작·일정·외주 총괄 PM 담당. 개별 권의 서점 링크 및 표지 확인 필요.",
     "url": "https://www.yes24.com/product/goods/124151921",
-    "cover": "https://image.yes24.com/goods/124151921/XL"
+    "cover": "https://image.yes24.com/goods/124151921/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "북이십일",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 87,
@@ -1562,7 +2978,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "시리즈 6종 편집 담당. 개별 권의 서점 링크 및 표지 확인 필요.",
     "url": "https://www.yes24.com/product/goods/113761446",
-    "cover": "https://image.yes24.com/goods/113761446/XL"
+    "cover": "https://image.yes24.com/goods/113761446/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "북이십일",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 122,
@@ -1575,7 +3003,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "시리즈 6종 편집 담당. 개별 권의 서점 링크 및 표지 확인 필요.",
     "url": "https://www.yes24.com/product/goods/113761465",
-    "cover": "https://image.yes24.com/goods/113761465/XL"
+    "cover": "https://image.yes24.com/goods/113761465/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "북이십일",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 123,
@@ -1588,7 +3028,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "시리즈 6종 편집 담당. 개별 권의 서점 링크 및 표지 확인 필요.",
     "url": "https://www.yes24.com/product/goods/123164375",
-    "cover": "https://image.yes24.com/goods/123164375/XL"
+    "cover": "https://image.yes24.com/goods/123164375/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "북이십일",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 124,
@@ -1601,7 +3053,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "시리즈 6종 편집 담당. 개별 권의 서점 링크 및 표지 확인 필요.",
     "url": "https://www.yes24.com/product/goods/123164379",
-    "cover": "https://image.yes24.com/goods/123164379/XL"
+    "cover": "https://image.yes24.com/goods/123164379/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "북이십일",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 125,
@@ -1614,7 +3078,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "시리즈 6종 편집 담당. 개별 권의 서점 링크 및 표지 확인 필요.",
     "url": "https://www.yes24.com/product/goods/147066653",
-    "cover": "https://image.yes24.com/goods/147066653/XL"
+    "cover": "https://image.yes24.com/goods/147066653/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "북이십일",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 126,
@@ -1627,7 +3103,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "시리즈 6종 편집 담당. 개별 권의 서점 링크 및 표지 확인 필요.",
     "url": "https://www.yes24.com/product/goods/147066687",
-    "cover": "https://image.yes24.com/goods/147066687/XL"
+    "cover": "https://image.yes24.com/goods/147066687/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "북이십일",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 88,
@@ -1640,7 +3128,19 @@ window.BOOKS = [
     "metric": "3종 집필·편집 담당",
     "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 가정·육아 분야 편집 경험을 보여줌.",
     "url": "https://www.yes24.com/product/goods/30122882",
-    "cover": "https://image.yes24.com/momo/TopCate877/MidCate009/87689643.jpg"
+    "cover": "https://image.yes24.com/momo/TopCate877/MidCate009/87689643.jpg",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 89,
@@ -1653,7 +3153,19 @@ window.BOOKS = [
     "metric": "3종 편집 담당",
     "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 어린이 교양·학습 분야 편집 경험을 보여줌.",
     "url": "https://www.yes24.com/product/goods/67111107",
-    "cover": "https://image.yes24.com/goods/67111107/XL"
+    "cover": "https://image.yes24.com/goods/67111107/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 90,
@@ -1666,7 +3178,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 취미·실용 분야 편집 경험을 보여줌.",
     "url": "https://www.yes24.com/product/goods/24843452",
-    "cover": "https://image.yes24.com/momo/TopCate722/MidCate004/72137396.jpg"
+    "cover": "https://image.yes24.com/momo/TopCate722/MidCate004/72137396.jpg",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 91,
@@ -1679,7 +3203,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 취미·실용 분야 편집 경험을 보여줌.",
     "url": "https://www.yes24.com/product/goods/29126675",
-    "cover": "https://image.yes24.com/momo/TopCate851/MidCate006/85059811.jpg"
+    "cover": "https://image.yes24.com/momo/TopCate851/MidCate006/85059811.jpg",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 92,
@@ -1692,7 +3228,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 인문 교양 분야 편집 경험을 보여줌.",
     "url": "https://www.yes24.com/product/goods/20477793",
-    "cover": "https://image.yes24.com/momo/TopCate582/MidCate007/58165247.jpg"
+    "cover": "https://image.yes24.com/momo/TopCate582/MidCate007/58165247.jpg",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 93,
@@ -1705,7 +3253,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 가정·육아 분야 편집 경험을 보여줌.",
     "url": "https://www.yes24.com/product/goods/37138772",
-    "cover": "https://image.yes24.com/momo/TopCate1109/MidCate006/110852383.jpg"
+    "cover": "https://image.yes24.com/momo/TopCate1109/MidCate006/110852383.jpg",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 94,
@@ -1718,7 +3278,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 취미·실용 분야 편집 경험을 보여줌.",
     "url": "https://www.yes24.com/product/goods/23163214",
-    "cover": "https://image.yes24.com/momo/TopCate665/MidCate006/66456575.jpg"
+    "cover": "https://image.yes24.com/momo/TopCate665/MidCate006/66456575.jpg",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 95,
@@ -1731,7 +3303,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "2024년 출간 후 현재도 판매 중이며 YES24 판매지수 1,000대와 리뷰 60건 이상이 확인되는 청소년 문학 작업.",
     "url": "https://www.yes24.com/product/goods/127098745",
-    "cover": "https://image.yes24.com/goods/127098745/XL"
+    "cover": "https://image.yes24.com/goods/127098745/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "한빛에듀",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 96,
@@ -1747,7 +3331,19 @@ window.BOOKS = [
     "cover": "https://image.yes24.com/goods/126679446/XL",
     "covers": [
       "https://image.yes24.com/goods/126679446/XL"
-    ]
+    ],
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "한빛에듀",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 97,
@@ -1760,7 +3356,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 청소년 문학·교양 분야 편집 경험을 보여줌.",
     "url": "https://www.yes24.com/product/goods/142764639",
-    "cover": "https://image.yes24.com/goods/142764639/XL"
+    "cover": "https://image.yes24.com/goods/142764639/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "한빛에듀",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 98,
@@ -1773,7 +3381,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 청소년 문학·교양 분야 편집 경험을 보여줌.",
     "url": "https://www.yes24.com/product/goods/150109693",
-    "cover": "https://image.yes24.com/goods/150109693/XL"
+    "cover": "https://image.yes24.com/goods/150109693/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "한빛에듀",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 99,
@@ -1786,7 +3406,19 @@ window.BOOKS = [
     "metric": "턴키 제작",
     "note": "5종 턴키 제작 경험을 보여주는 시리즈. 일부 권은 품절 상태지만 시리즈 관련 상품 유통 흔적은 남아 있음.",
     "url": "https://www.yes24.com/product/goods/105277264",
-    "cover": "https://image.yes24.com/goods/105277264/XL"
+    "cover": "https://image.yes24.com/goods/105277264/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "탁툰",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 100,
@@ -1799,7 +3431,19 @@ window.BOOKS = [
     "metric": "턴키 제작",
     "note": "5종 턴키 제작 경험을 보여주는 시리즈. 일부 권은 품절 상태지만 시리즈 관련 상품 유통 흔적은 남아 있음.",
     "url": "https://www.yes24.com/product/goods/105277264",
-    "cover": "https://image.yes24.com/goods/105277281/XL"
+    "cover": "https://image.yes24.com/goods/105277281/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "탁툰",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 101,
@@ -1812,7 +3456,19 @@ window.BOOKS = [
     "metric": "턴키 제작",
     "note": "5종 턴키 제작 경험을 보여주는 시리즈. 일부 권은 품절 상태지만 시리즈 관련 상품 유통 흔적은 남아 있음.",
     "url": "https://www.yes24.com/product/goods/105277264",
-    "cover": "https://image.yes24.com/goods/105277380/XL"
+    "cover": "https://image.yes24.com/goods/105277380/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "탁툰",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 102,
@@ -1825,7 +3481,19 @@ window.BOOKS = [
     "metric": "턴키 제작",
     "note": "5종 턴키 제작 경험을 보여주는 시리즈. 일부 권은 품절 상태지만 시리즈 관련 상품 유통 흔적은 남아 있음.",
     "url": "https://www.yes24.com/product/goods/105277264",
-    "cover": "https://image.yes24.com/goods/105277403/XL"
+    "cover": "https://image.yes24.com/goods/105277403/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "탁툰",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 103,
@@ -1838,7 +3506,19 @@ window.BOOKS = [
     "metric": "턴키 제작",
     "note": "5종 턴키 제작 경험을 보여주는 시리즈. 일부 권은 품절 상태지만 시리즈 관련 상품 유통 흔적은 남아 있음.",
     "url": "https://www.yes24.com/product/goods/105277264",
-    "cover": "https://image.yes24.com/goods/105277419/XL"
+    "cover": "https://image.yes24.com/goods/105277419/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "탁툰",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 104,
@@ -1851,7 +3531,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "현재 ‘행운의 갈림길’ 1~4권 세트까지 확장되어 YES24에서 판매 중이며 세트 리뷰가 200건 이상 누적된 대형 IP 작업.",
     "url": "https://www.yes24.com/product/category/series/001?SeriesNumber=258010",
-    "cover": "https://image.yes24.com/goods/139702782/XL"
+    "cover": "https://image.yes24.com/goods/139702782/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "길벗스쿨",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 105,
@@ -1864,7 +3556,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "현재 ‘행운의 갈림길’ 1~4권 세트까지 확장되어 YES24에서 판매 중이며 세트 리뷰가 200건 이상 누적된 대형 IP 작업.",
     "url": "https://www.yes24.com/product/category/series/001?SeriesNumber=258010",
-    "cover": "https://image.yes24.com/goods/148332391/XL"
+    "cover": "https://image.yes24.com/goods/148332391/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "길벗스쿨",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 106,
@@ -1877,7 +3581,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "현재 ‘행운의 갈림길’ 1~4권 세트까지 확장되어 YES24에서 판매 중이며 세트 리뷰가 200건 이상 누적된 대형 IP 작업.",
     "url": "https://www.yes24.com/product/category/series/001?SeriesNumber=258010",
-    "cover": "https://image.yes24.com/goods/167428502/XL"
+    "cover": "https://image.yes24.com/goods/167428502/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "길벗스쿨",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 107,
@@ -1890,7 +3606,19 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "2025년 출간된 전천당 스핀오프. 현재 YES24 판매 중이며 판매지수 2,928, 리뷰 32건이 확인됨.",
     "url": "https://www.yes24.com/product/goods/142874035",
-    "cover": "https://image.yes24.com/goods/142874035/XL"
+    "cover": "https://image.yes24.com/goods/142874035/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "길벗스쿨",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   },
   {
     "id": 108,
@@ -1903,6 +3631,18 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "현재 YES24 판매 중인 퍼즐·추리 분야 도서. 판매지수와 리뷰가 확인되는 비교적 최근 실용·취미 작업.",
     "url": "https://www.yes24.com/product/goods/140452734",
-    "cover": "https://image.yes24.com/goods/140452734/XL"
+    "cover": "https://image.yes24.com/goods/140452734/XL",
+    "bibliography": {
+      "author": "",
+      "illustrator": "",
+      "translator": "",
+      "publisher": "중앙북스",
+      "published": "",
+      "binding": "",
+      "dimensions": "",
+      "pages": "",
+      "isbn13": "",
+      "price": null
+    }
   }
 ];
