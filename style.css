@@ -465,4 +465,4 @@ header .logo small{font-family:'Pretendard',Arial,'Malgun Gothic',sans-serif;-we
 @media(min-width:761px){.feature-image .feature-fan-rows .fan-eleven{aspect-ratio:auto;height:100%;min-height:0}}
 
 /* 섹션 제목(책으로 완성한 일들 · 콘텐츠의 다음 형식 · 전체 도서 아카이브): 산돌 삼립호빵체 Basic */
-.section-head h2{font-family:'SandollSamlipHobbangBasic','KbizHanmaumMyungjo','Batang',serif;font-weight:400;-webkit-text-stroke:0}
+.section-head h2{font-family:'SandollSamlipHobbangBasic','KbizHanmaumMyungjo','Batang',serif;font-weight:400;-webkit-text-stroke:0;font-size:32px}
