@@ -22,6 +22,14 @@
   const table = Object.fromEntries(years.map(y => [y, Object.fromEntries(GROUPS.map(g => [g.key, 0]))]));
   let undated = 0;
   const undatedBy = Object.fromEntries(GROUPS.map(g => [g.key, 0]));
+  const titles = {}; // titles['2014|kids'] = Map(시리즈명 → 종수)
+  const esc = v => String(v).replace(/[&<>'"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[c]));
+  // "용선생… 3권", "바이 스파이 1권", "WHAT? 초등과학 17권 — 유전" 같은 낱권은 시리즈 이름으로 묶는다
+  const seriesName = t => String(t).replace(/\s*\d+\s*(~\s*\d+\s*)?권.*$/, '').replace(/\s+\d+$/, '').trim() || t;
+  const addTitle = (y, g, title, n) => {
+    const m = titles[y + '|' + g] ??= new Map();
+    m.set(title, (m.get(title) || 0) + n);
+  };
 
   books.forEach(book => {
     const count = Number(book.count) || 0;
@@ -36,7 +44,7 @@
     }
     if(!spread){ undated += count; undatedBy[g] += count; return; }
     Object.entries(spread).forEach(([y, n]) => {
-      if(table[y]) table[y][g] += Number(n) || 0;
+      if(table[y]){ table[y][g] += Number(n) || 0; addTitle(y, g, seriesName(book.title), Number(n) || 0); }
       else { undated += Number(n) || 0; undatedBy[g] += Number(n) || 0; }
     });
   });
@@ -65,7 +73,7 @@
     const parts = GROUPS.map(g => ({g, v: table[y][g.key]})).filter(p => p.v);
     parts.forEach((p, j) => {
       const y0 = yPos(acc + p.v), h = yPos(acc) - y0;
-      svg += `<rect x="${x}" y="${y0}" width="${barW}" height="${Math.max(h-0.8,0.6)}" fill="${p.g.color}"${j===parts.length-1?' rx="1.5"':''}><title>${y}년 ${p.g.label} ${p.v}종</title></rect>`;
+      svg += `<rect x="${x}" y="${y0}" width="${barW}" height="${Math.max(h-0.8,0.6)}" fill="${p.g.color}"${j===parts.length-1?' rx="1.5"':''} data-key="${y}|${p.g.key}"></rect>`;
       acc += p.v;
     });
     if(totals[i]) svg += `<text x="${x+barW/2}" y="${yPos(totals[i])-4}" class="cc-val" text-anchor="middle">${totals[i]}</text>`;
@@ -81,9 +89,42 @@
       <div><div class="cc-label">CAREER ${FROM}—${TO}</div><div class="cc-title">연도별 출간 종수와 분야</div></div>
       <div class="cc-total"><b>${dated + undated}</b>종</div>
     </div>
-    <div class="cc-plot">${svg}</div>
+    <div class="cc-plot">${svg}<div class="cc-tip" hidden></div></div>
     <ul class="cc-legend">${legend}</ul>
     ${undated ? `<p class="cc-note">세트·시리즈는 포함 종수로 계산 · 출간연도 미확인 ${undated}종은 그래프에서 제외</p>` : `<p class="cc-note">세트·시리즈는 포함 종수로 계산</p>`}`;
   box.setAttribute('aria-label', `${FROM}년부터 ${TO}년까지 연도별 출간 종수 그래프. ` +
     years.map((y, i) => totals[i] ? `${y}년 ${totals[i]}종` : '').filter(Boolean).join(', '));
+
+  // 막대에 커서를 올리면 그 해·분야의 도서명을 보여 준다
+  const plot = box.querySelector('.cc-plot');
+  const tip = plot.querySelector('.cc-tip');
+  const LIMIT = 8;
+  function show(rect, evt){
+    const [y, g] = rect.dataset.key.split('|');
+    const group = GROUPS.find(x => x.key === g);
+    const list = [...(titles[y + '|' + g] || new Map())].sort((a, b) => b[1] - a[1]);
+    const rows = list.slice(0, LIMIT).map(([t, n]) => `<li>${esc(t)}${n > 1 ? `<em>${n}종</em>` : ''}</li>`).join('');
+    const more = list.length > LIMIT ? `<li class="more">외 ${list.length - LIMIT}건</li>` : '';
+    tip.innerHTML = `<div class="cc-tip-head"><i style="background:${group.color}"></i>${y} · ${group.label}<b>${table[y][g]}종</b></div><ul>${rows}${more}</ul>`;
+    tip.hidden = false;
+    plot.querySelectorAll('rect.on').forEach(r => r.classList.remove('on'));
+    rect.classList.add('on');
+    move(evt, rect);
+  }
+  function move(evt, rect){
+    const pr = plot.getBoundingClientRect();
+    let x, y;
+    if(evt && evt.clientX != null){ x = evt.clientX - pr.left; y = evt.clientY - pr.top; }
+    else { const rr = rect.getBoundingClientRect(); x = rr.left + rr.width/2 - pr.left; y = rr.top - pr.top; }
+    const tw = tip.offsetWidth, th = tip.offsetHeight;
+    // 커서 옆에 띄우고, 오른쪽 공간이 부족하면 왼쪽으로 넘긴다. 세로는 그래프 영역 안에 맞춘다
+    let left = x + 16; if(left + tw > pr.width) left = x - tw - 16; if(left < 0) left = Math.max(0, pr.width - tw);
+    const top = Math.min(Math.max(y - th/2, 0), Math.max(pr.height - th, 0));
+    tip.style.left = left + 'px'; tip.style.top = top + 'px';
+  }
+  function hide(){ tip.hidden = true; plot.querySelectorAll('rect.on').forEach(r => r.classList.remove('on')); }
+  plot.addEventListener('pointerover', e => { const r = e.target.closest('rect[data-key]'); if(r) show(r, e); });
+  plot.addEventListener('pointermove', e => { if(!tip.hidden && e.target.closest('rect[data-key]')) move(e); });
+  plot.addEventListener('pointerout', e => { if(e.target.closest('rect[data-key]') && !e.relatedTarget?.closest?.('rect[data-key]')) hide(); });
+  document.addEventListener('pointerdown', e => { if(!e.target.closest('#careerChart rect[data-key]')) hide(); });
 })();
