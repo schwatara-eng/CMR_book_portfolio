@@ -687,3 +687,4 @@ header .logo,.about h2{font-family:'Pretendard',Arial,'Malgun Gothic',sans-serif
 .bibliography-row dt{flex:none}
 .bibliography-row dd{min-width:0}
 .bibliography-list{row-gap:8px}
+.bibliography-row{font-size:11px}
