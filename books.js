@@ -2542,7 +2542,7 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "온라인 서점 상품 정보는 확인되지만 현재 판매 여부와 세부 판매지표는 추가 확인이 필요한 작업. 성인 에세이 분야 외주 편집 경험을 보여줌.",
     "url": "https://www.yes24.com/product/goods/126458455",
-    "cover": "https://image.yes24.com/goods/126458455/XL",
+    "cover": "images/renewal/miogi.jpg",
     "bibliography": {
       "author": "김미옥",
       "illustrator": "",
@@ -2667,7 +2667,7 @@ window.BOOKS = [
     "metric": "편집 담당",
     "note": "2026년 출간작. 판매 누적기간이 짧아 현재 수치보다 최근 출간·편집 경력 자체를 중심으로 보는 것이 적절함.",
     "url": "https://www.yes24.com/product/goods/180386804",
-    "cover": "https://image.yes24.com/goods/180386804/XL",
+    "cover": "images/renewal/study.jpg",
     "bibliography": {
       "author": "강후림 외",
       "illustrator": "",
