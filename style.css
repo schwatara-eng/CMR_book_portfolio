@@ -682,3 +682,8 @@ header .logo,.about h2{font-family:'Pretendard',Arial,'Malgun Gothic',sans-serif
 @media print{.hero-art.career-chart{padding:12px 16px 10px;gap:4px}.hero-art.career-chart .cc-plot svg{height:172px;width:100%}}
 /* 상세창 표지: 상자 폭을 표지 비율에 맞춰 양옆 빈 띠가 생기지 않게 */
 .modal-cover img,.modal-cover .modal-cover-img{width:auto;max-width:100%;height:auto;object-fit:contain}
+/* 상세창 도서 정보: 항목명과 내용을 한 줄로 */
+.bibliography-row{flex-direction:row;align-items:baseline;gap:8px}
+.bibliography-row dt{flex:none}
+.bibliography-row dd{min-width:0}
+.bibliography-list{row-gap:8px}
