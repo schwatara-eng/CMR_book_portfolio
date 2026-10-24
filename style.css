@@ -598,7 +598,7 @@ header .logo,.about h2{font-family:'Pretendard',Arial,'Malgun Gothic',sans-serif
 /* ===== 박스 바탕 반투명 (딥 포레스트 화면 전용) =====
    표지 이미지 프레임: 어두운 바탕이 비치는 유리 느낌 / 글자가 있는 밝은 패널: 살짝 비치는 종이 느낌 */
 @media screen{
- .feature-image,.project .image,.project:nth-child(n) .image{background:rgba(241,238,230,.09);border:1px solid rgba(241,238,230,.14)}
+ .feature-image,.project .image,.project:nth-child(n) .image{background:rgba(255,255,255,.15);border:1px solid rgba(241,238,230,.14)}
  .hero-art{background:rgba(230,230,218,.9)}
  .meta-bar div{background:rgba(233,236,223,.88);border-color:rgba(241,238,230,.25)}
  .meta-bar div:nth-child(2){background:rgba(238,231,222,.88);border-color:rgba(241,238,230,.25)}
