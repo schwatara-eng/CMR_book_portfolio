@@ -56,7 +56,7 @@
   const axisMax = max; // 가장 높은 실제 막대를 세로축 상한으로 사용
 
   // SVG 레이아웃 (viewBox 기준, 컨테이너 폭에 맞춰 늘어남)
-  const W = 400, H = 162, L = 26, R = 12, T = 20, B = 26;
+  const W = 400, H = 190, L = 26, R = 12, T = 20, B = 26;
   const plotW = W - L - R, plotH = H - T - B;
   const step = plotW / years.length, barW = step * 0.62;
   const yPos = v => T + plotH - (v / axisMax) * plotH;
