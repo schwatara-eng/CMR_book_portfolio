@@ -6,13 +6,13 @@
   const box = document.querySelector('#careerChart');
   if(!box) return;
   const books = window.BOOKS || [];
-  const FROM = 2007, TO = 2026; // 경력 시작 2007년 (2007~2008년은 도서 데이터가 없어 막대가 비어 있다)
+  const FROM = 2007, TO = 2026; // 아카이브 출간연도 기준
 
   const GROUPS = [
-    {key:'kids',  label:'어린이·청소년', color:'#c64f30', cats:['어린이','전집','초등참고서','청소년']},
+    {key:'kids',  label:'어린이·청소년', color:'#e19378', cats:['어린이','전집','초등참고서','청소년']},
     {key:'baby',  label:'유아',          color:'#e6a585', cats:['유아']},
-    {key:'liber', label:'인문·예술·과학', color:'#4f6147', cats:['인문','예술','자연과학','사회 정치','자기계발']},
-    {key:'essay', label:'에세이',        color:'#98a479', cats:['에세이']},
+    {key:'liber', label:'인문·예술·과학', color:'#6d8563', cats:['인문','예술','자연과학','사회 정치','자기계발']},
+    {key:'essay', label:'에세이',        color:'#a5b48d', cats:['에세이']},
     {key:'life',  label:'실용·취미',     color:'#c7bfa8', cats:['가정 살림','건강 취미']}
   ];
   const groupOf = cat => GROUPS.find(g => g.cats.includes(cat)) || GROUPS[GROUPS.length-1];
@@ -56,7 +56,7 @@
   const niceMax = Math.ceil(max / 10) * 10;
 
   // SVG 레이아웃 (viewBox 기준, 컨테이너 폭에 맞춰 늘어남)
-  const W = 520, H = 250, L = 26, R = 6, T = 14, B = 26;
+  const W = 400, H = 250, L = 26, R = 12, T = 20, B = 26;
   const plotW = W - L - R, plotH = H - T - B;
   const step = plotW / years.length, barW = step * 0.62;
   const yPos = v => T + plotH - (v / niceMax) * plotH;
@@ -67,6 +67,7 @@
     svg += `<line x1="${L}" x2="${W-R}" y1="${y}" y2="${y}" class="cc-grid${v===0?' base':''}"/>`;
     svg += `<text x="${L-6}" y="${y+3}" class="cc-tick" text-anchor="end">${v}</text>`;
   }
+  svg += `<text x="${L-6}" y="10" class="cc-tick" text-anchor="end">(종)</text>`;
   years.forEach((y, i) => {
     const x = L + i*step + (step-barW)/2;
     let acc = 0;
@@ -76,8 +77,7 @@
       svg += `<rect x="${x}" y="${y0}" width="${barW}" height="${Math.max(h-0.8,0.6)}" fill="${p.g.color}"${j===parts.length-1?' rx="1.5"':''} data-key="${y}|${p.g.key}"></rect>`;
       acc += p.v;
     });
-    if(totals[i]) svg += `<text x="${x+barW/2}" y="${yPos(totals[i])-4}" class="cc-val" text-anchor="middle">${totals[i]}</text>`;
-    if(i % 2 === 0 || i === years.length-1) svg += `<text x="${x+barW/2}" y="${H-B+15}" class="cc-tick" text-anchor="middle">'${String(y).slice(2)}</text>`;
+    if(i % 4 === 0 || i === years.length-1) svg += `<text x="${x+barW/2}" y="${H-B+15}" class="cc-tick" text-anchor="middle">${y}</text>`;
   });
   svg += `</svg>`;
 
@@ -87,10 +87,10 @@
   box.innerHTML = `
     <div class="cc-head">
       <div><div class="cc-label">CAREER ${FROM}—${TO}</div><div class="cc-title">연도별 출간 종수와 분야</div></div>
-      <div class="cc-total"><b>${dated + undated}</b>종</div>
+      <div class="cc-total"><span>누적 출간 종수</span><div><b>${dated + undated}</b>종</div></div>
     </div>
-    <div class="cc-plot">${svg}<div class="cc-tip" hidden></div></div>
-    <ul class="cc-legend">${legend}</ul>
+    <div class="cc-body"><div class="cc-plot">${svg}<div class="cc-tip" hidden></div></div>
+    <ul class="cc-legend">${legend}</ul></div>
     ${undated ? `<p class="cc-note">세트·시리즈는 포함 종수로 계산 · 출간연도 미확인 ${undated}종은 그래프에서 제외</p>` : `<p class="cc-note">세트·시리즈는 포함 종수로 계산</p>`}`;
   box.setAttribute('aria-label', `${FROM}년부터 ${TO}년까지 연도별 출간 종수 그래프. ` +
     years.map((y, i) => totals[i] ? `${y}년 ${totals[i]}종` : '').filter(Boolean).join(', '));
