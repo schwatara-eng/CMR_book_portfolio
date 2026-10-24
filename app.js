@@ -134,3 +134,15 @@ document.querySelector('#aboutBtn').addEventListener('click',()=>aboutDialog.sho
 document.querySelectorAll('[data-close]').forEach(btn=>btn.addEventListener('click',()=>btn.closest('dialog').close()));
 [dialog,aboutDialog].forEach(d=>d.addEventListener('click',e=>{if(e.target===d)d.close();}));
 render();
+
+// Representative projects reuse the archive detail dialog and its source data.
+document.querySelectorAll('[data-feature-book]').forEach(button => {
+  button.addEventListener('click', () => {
+    const book = books.find(item => item.id === Number(button.dataset.featureBook));
+    if (book) openBook(book);
+  });
+});
+const pdfDialog = document.querySelector('#pdfDialog');
+pdfDialog.addEventListener('click', event => {
+  if (event.target === pdfDialog) pdfDialog.close();
+});
