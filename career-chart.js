@@ -9,11 +9,11 @@
   const FROM = 2007, TO = 2026; // 아카이브 출간연도 기준
 
   const GROUPS = [
-    {key:'kids',  label:'어린이·청소년', color:'#e19378', cats:['어린이','전집','초등참고서','청소년']},
-    {key:'baby',  label:'유아',          color:'#e6a585', cats:['유아']},
-    {key:'liber', label:'인문·예술·과학', color:'#6d8563', cats:['인문','예술','자연과학','사회 정치','자기계발']},
-    {key:'essay', label:'에세이',        color:'#a5b48d', cats:['에세이']},
-    {key:'life',  label:'실용·취미',     color:'#c7bfa8', cats:['가정 살림','건강 취미']}
+    {key:'kids',  label:'어린이·청소년', color:'#F08A65', cats:['어린이','전집','초등참고서','청소년']},
+    {key:'baby',  label:'유아',          color:'#E9C65B', cats:['유아']},
+    {key:'liber', label:'인문·예술·과학', color:'#69A9DC', cats:['인문','예술','자연과학','사회 정치','자기계발']},
+    {key:'essay', label:'에세이',        color:'#B69ADB', cats:['에세이']},
+    {key:'life',  label:'실용·취미',     color:'#61C4B2', cats:['가정 살림','건강 취미']}
   ];
   const groupOf = cat => GROUPS.find(g => g.cats.includes(cat)) || GROUPS[GROUPS.length-1];
 
