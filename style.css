@@ -316,3 +316,8 @@ footer {
 
 /* Preserve the existing portfolio headline and its italic emphasis. */
 .hero h1 em{font-style:italic}
+
+/* Use original book covers instead of enlarged PDF thumbnails. */
+.feature-covers{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:20px;width:min(100%,390px);padding:25px 0 5px;align-items:center;justify-items:center}
+.feature-image .feature-covers img{display:block;width:100%;max-height:245px;object-fit:contain;mix-blend-mode:normal;filter:drop-shadow(3px 5px 5px #24262120)}
+@media(max-width:760px){.feature-covers{gap:14px;width:min(100%,330px)}.feature-image .feature-covers img{max-height:210px}}
