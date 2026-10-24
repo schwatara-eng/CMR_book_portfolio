@@ -25,6 +25,10 @@ window.BOOKS = [
       "pages": "17,000쪽 (100권 세트)",
       "isbn13": "",
       "price": null
+    },
+    "yearCounts": {
+      "2007": 3,
+      "2008": 21
     }
   },
   {
