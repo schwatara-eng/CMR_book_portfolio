@@ -54,6 +54,7 @@ window.BOOKS = [
   },
   {
     "id": 3,
+    "year": 2011,
     "category": "전집",
     "type": "재직",
     "company": "나이테북스",
@@ -82,6 +83,7 @@ window.BOOKS = [
   },
   {
     "id": 4,
+    "year": 2012,
     "category": "전집",
     "type": "재직",
     "company": "나이테북스",
@@ -460,6 +462,7 @@ window.BOOKS = [
   },
   {
     "id": 19,
+    "year": 2013,
     "category": "유아",
     "type": "재직",
     "company": "파랑새",
@@ -616,6 +619,7 @@ window.BOOKS = [
   },
   {
     "id": 25,
+    "year": 2014,
     "category": "어린이",
     "type": "재직",
     "company": "파랑새",
@@ -1166,6 +1170,7 @@ window.BOOKS = [
   },
   {
     "id": 47,
+    "year": 2014,
     "category": "어린이",
     "type": "재직",
     "company": "파랑새",
@@ -1316,6 +1321,7 @@ window.BOOKS = [
   },
   {
     "id": 53,
+    "yearCounts": {"2018": 2, "2020": 1},
     "category": "어린이",
     "type": "재직",
     "company": "길벗어린이",
@@ -1444,6 +1450,7 @@ window.BOOKS = [
   },
   {
     "id": 133,
+    "year": 2019,
     "category": "어린이",
     "type": "재직",
     "company": "사회평론",
@@ -1469,6 +1476,7 @@ window.BOOKS = [
   },
   {
     "id": 134,
+    "year": 2019,
     "category": "어린이",
     "type": "재직",
     "company": "사회평론",
@@ -1494,6 +1502,7 @@ window.BOOKS = [
   },
   {
     "id": 135,
+    "year": 2019,
     "category": "어린이",
     "type": "재직",
     "company": "사회평론",
@@ -1519,6 +1528,7 @@ window.BOOKS = [
   },
   {
     "id": 136,
+    "year": 2019,
     "category": "어린이",
     "type": "재직",
     "company": "사회평론",
@@ -1544,6 +1554,7 @@ window.BOOKS = [
   },
   {
     "id": 137,
+    "year": 2019,
     "category": "어린이",
     "type": "재직",
     "company": "사회평론",
@@ -1569,6 +1580,7 @@ window.BOOKS = [
   },
   {
     "id": 138,
+    "year": 2019,
     "category": "어린이",
     "type": "재직",
     "company": "사회평론",
@@ -1594,6 +1606,7 @@ window.BOOKS = [
   },
   {
     "id": 139,
+    "year": 2019,
     "category": "어린이",
     "type": "재직",
     "company": "사회평론",
@@ -1619,6 +1632,7 @@ window.BOOKS = [
   },
   {
     "id": 140,
+    "year": 2019,
     "category": "어린이",
     "type": "재직",
     "company": "사회평론",
@@ -3269,6 +3283,7 @@ window.BOOKS = [
   },
   {
     "id": 94,
+    "year": 2016,
     "category": "건강 취미",
     "type": "외주",
     "company": "글상자/지식상자",
