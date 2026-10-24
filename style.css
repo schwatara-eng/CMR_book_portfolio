@@ -581,6 +581,8 @@ header .logo,.about h2{font-family:'Pretendard',Arial,'Malgun Gothic',sans-serif
 
 /* 명조 획 두께 조정: 폰트 파일은 보통 굵기(400) 하나뿐이라 700을 주면 브라우저가 억지로 두껍게 그린다.
    400으로 두고 얇은 외곽선만 더해 '조금 굵은 명조' 정도로 맞춘다. */
-.hero h1,.approach h2{font-weight:400;font-synthesis:none}
+.hero h1,.approach h2{font-weight:400;font-synthesis:style}
 .hero h1{-webkit-text-stroke:.9px currentColor}
 .approach h2{-webkit-text-stroke:.45px currentColor}
+/* '구조를 설계합니다.' 이탤릭: 명조 폰트에 이탤릭 파일이 없어 기울임으로 표현 */
+.hero h1 em{font-style:italic;font-synthesis:style}
