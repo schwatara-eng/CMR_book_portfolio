@@ -455,3 +455,10 @@ header .logo small{font-family:'Pretendard',Arial,'Malgun Gothic',sans-serif;-we
 .project .image .fan-rows .cover-fan{height:100%;min-height:0}
 .project .image .fan-rows .fan-six img{height:88%}
 .project .image .fan-rows .cover-fan:last-child{z-index:1}
+
+/* 대표 작업 2행 부채꼴 (용선생 1~22권, 줄마다 11권) */
+.feature-fan-rows .fan-eleven{aspect-ratio:2.35;height:auto}
+.feature-image .fan-eleven img{width:auto;height:76%;max-height:none}
+.feature-fan-rows .fan-eleven:last-child{z-index:1}
+@media(max-width:760px){.feature-fan-rows .fan-eleven{aspect-ratio:2.2}}
+@media(min-width:761px){.feature-image .feature-fan-rows .fan-eleven{aspect-ratio:auto;height:100%;min-height:0}}
