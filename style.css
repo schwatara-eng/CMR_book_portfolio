@@ -590,3 +590,18 @@ header .logo,.about h2{font-family:'Pretendard',Arial,'Malgun Gothic',sans-serif
 /* 펼치기/접기 버튼을 섹션 제목 '작업도서 전체목록' 옆에 */
 .archive-title-row{grid-column:1;grid-row:2;display:flex;align-items:baseline;flex-wrap:wrap;column-gap:16px;row-gap:4px;min-width:0}
 .archive-title-row .archive-toggle{margin-left:0;font-family:'Pretendard',Arial,'Malgun Gothic',sans-serif;font-size:13px;letter-spacing:0;white-space:nowrap}
+
+/* ===== 박스: 모서리 둥글게(화면·PDF 공통) ===== */
+.hero-art,.feature-image,.project .image,.about,.meta-bar div,.ai-card .ai-thumbnail{border-radius:14px}
+.feature-image,.project .image,.hero-art{overflow:hidden}
+
+/* ===== 박스 바탕 반투명 (딥 포레스트 화면 전용) =====
+   표지 이미지 프레임: 어두운 바탕이 비치는 유리 느낌 / 글자가 있는 밝은 패널: 살짝 비치는 종이 느낌 */
+@media screen{
+ .feature-image,.project .image,.project:nth-child(n) .image{background:rgba(241,238,230,.09);border:1px solid rgba(241,238,230,.14)}
+ .hero-art{background:rgba(230,230,218,.9)}
+ .meta-bar div{background:rgba(233,236,223,.88);border-color:rgba(241,238,230,.25)}
+ .meta-bar div:nth-child(2){background:rgba(238,231,222,.88);border-color:rgba(241,238,230,.25)}
+ .meta-bar div:nth-child(3){background:rgba(230,235,232,.88);border-color:rgba(241,238,230,.25)}
+ .about{background:rgba(231,232,223,.9)}
+}
