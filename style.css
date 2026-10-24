@@ -418,3 +418,22 @@ header .logo small{font-family:'Pretendard',Arial,'Malgun Gothic',sans-serif;-we
 /* Korean names accompany the original project logos. */
 .ai-card h3{display:flex;align-items:baseline;flex-wrap:wrap;column-gap:8px;row-gap:0}
 .ai-card h3 .ai-title-ko{font-family:'Pretendard','Malgun Gothic',sans-serif;font-size:12px;font-weight:400;line-height:1.5;letter-spacing:normal;color:var(--muted);white-space:nowrap}
+
+/* Hero career chart */
+.hero-art.career-chart{height:auto;min-height:350px;display:flex;flex-direction:column;align-items:stretch;justify-content:space-between;gap:10px;padding:22px 22px 16px;overflow:visible}
+.hero-art.career-chart:before{content:none}
+.cc-head{display:flex;justify-content:space-between;align-items:flex-end;gap:16px}
+.cc-label{font-family:Arial,'Malgun Gothic',sans-serif;font-size:9px;letter-spacing:2px;font-weight:700}
+.cc-title{font-size:15px;font-weight:700;letter-spacing:-.3px;margin-top:8px}
+.cc-total{font-size:12px;color:var(--muted);white-space:nowrap}
+.cc-total b{font-family:'KbizHanmaumMyungjo','Batang',serif;font-size:38px;line-height:1;color:var(--accent);margin-right:3px;letter-spacing:-1px}
+.cc-plot svg{display:block;width:100%;height:auto}
+.cc-grid{stroke:#cfd0c3;stroke-width:.6;stroke-dasharray:2 3}.cc-grid.base{stroke:#9fa194;stroke-dasharray:none}
+.cc-tick{font-size:9px;fill:#85887c;font-family:Arial,sans-serif}
+.cc-val{font-size:8.5px;fill:#4b4e45;font-family:Arial,sans-serif;font-weight:700}
+.cc-plot rect{transition:opacity .15s}.cc-plot svg:hover rect{opacity:.55}.cc-plot svg rect:hover{opacity:1}
+.cc-legend{list-style:none;margin:0;padding:0;display:flex;flex-wrap:wrap;gap:6px 14px;font-size:11px;color:#55594e}
+.cc-legend li{display:flex;align-items:center;gap:5px}.cc-legend i{width:9px;height:9px;border-radius:2px;display:inline-block}.cc-legend b{font-weight:700;color:var(--ink);margin-left:2px}
+.cc-note{margin:0;font-size:10px;color:#85887c}
+@media(max-width:760px){.hero-art.career-chart{min-height:0;padding:18px 16px 14px}.cc-total b{font-size:32px}}
+@media print{.hero-art.career-chart{height:auto;min-height:0}}
