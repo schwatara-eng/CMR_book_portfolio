@@ -191,11 +191,12 @@
 }
 
 .modal h2 {
-    font-family:Georgia,"Noto Serif KR",serif;
-    font-size:36px;
-    line-height:1.28;
+    font-family:'KbizHanmaumMyungjo','Batang',serif;
+    font-size:24px;
+    line-height:1.4;
+    letter-spacing:-.7px;
     margin:0 0 10px;
-    font-weight:400;
+    font-weight:700;
     word-break:keep-all;
     overflow-wrap:break-word
 }
@@ -312,7 +313,7 @@ footer {
 .contact-links{display:flex;gap:18px;align-items:center;flex-wrap:wrap;margin-top:20px}.contact-links a{font-size:12px;text-decoration:underline;text-underline-offset:4px}.pdf-note{font-size:11px!important;color:var(--muted)}
 .about-modal{padding:40px}.about-modal h2{font-family:inherit;font-size:25px}.ai-card a{text-decoration:underline;font-size:11px;text-underline-offset:4px;display:inline-block;margin-bottom:18px}
 @media(max-width:1050px){.book-grid{grid-template-columns:repeat(3,minmax(0,1fr))}.toolbar{grid-template-columns:1fr 1fr}.search-wrap{grid-column:1/-1}}
-@media(max-width:760px){.book-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:28px 14px}.toolbar{grid-template-columns:1fr}.search-wrap{grid-column:auto}.modal-grid{grid-template-columns:1fr}.modal-cover{padding:30px;max-height:320px}.modal-cover img{max-height:260px}.modal-copy{padding:32px 24px}.modal h2{font-size:27px}.detail-row{grid-template-columns:75px 1fr;gap:12px}.about-modal{padding:30px 24px}.section-head{gap:12px}nav .pdf{padding:10px;font-size:11px}.hero h1{font-size:clamp(32px,7.6vw,44px);letter-spacing:-2px}.principles{grid-column:auto;grid-template-columns:1fr}.principles b{margin-bottom:8px}.principles h3{margin-top:0}}
+@media(max-width:760px){.book-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:28px 14px}.toolbar{grid-template-columns:1fr}.search-wrap{grid-column:auto}.modal-grid{grid-template-columns:1fr}.modal-cover{padding:30px;max-height:320px}.modal-cover img{max-height:260px}.modal-copy{padding:32px 24px}.modal h2{font-size:22px}.detail-row{grid-template-columns:75px 1fr;gap:12px}.about-modal{padding:30px 24px}.section-head{gap:12px}nav .pdf{padding:10px;font-size:11px}.hero h1{font-size:clamp(32px,7.6vw,44px);letter-spacing:-2px}.principles{grid-column:auto;grid-template-columns:1fr}.principles b{margin-bottom:8px}.principles h3{margin-top:0}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{transition:none!important}}
 
 /* Preserve the existing portfolio headline and its italic emphasis. */
