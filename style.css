@@ -552,3 +552,29 @@ header .logo,.about h2{font-family:'Pretendard',Arial,'Malgun Gothic',sans-serif
 @media screen{.archive .book-card h3{font-size:14px}}
 /* 아카이브 카드: 출판사명과 책 제목 사이 간격 좁힘 */
 @media screen{.archive .book-card h3{margin-top:2px;line-height:1.4}}
+
+/* ===== 배경색: 딥 포레스트 (화면 전용 — PDF 인쇄는 기존 밝은 종이색 그대로) ===== */
+@media screen{
+ :root{--paper:#24332b;--ink:#f1eee6;--muted:#b7bcae;--line:rgba(241,238,230,.18);--accent:#f0a487}
+ html,body{background:#24332b}
+ body{color:#f1eee6}
+ /* 바탕 위 보조 글자 */
+ .intro,.feature-copy p,.roles,.principles p,.ai-card p,.ai-card .key,.project p,.section-head p,.result-count,
+ .archive .card-meta,.archive .card-note,.fact b,.bottom,.about small{color:#c4c8bb}
+ .hero h1 em{color:#f08a68}
+ .pdf{border-color:#f1eee6;color:#f1eee6}
+ nav a:hover,.textlink:hover,.project button:hover,.ai-card a:hover{color:var(--accent)}
+ .project button,.feature-button{color:#f1eee6}
+ /* 밝은 패널 안은 원래 색 체계 유지: 경력 그래프, 박스 3개, 소개 박스, 도서 상세창 */
+ .hero-art,.meta-bar div,.about,.modal{--ink:#242621;--muted:#77796f;--line:#d6d6ca;--accent:#c64f30;--paper:#f5f3ed;color:#242621}
+ .about p{color:#60665a}.about small{color:#757b70}
+ .about .pdf{border-color:#242621;color:#242621}
+ .modal{background:#f5f3ed}
+ .modal .store-link{background:#242621;color:#fff}
+ /* 아카이브 검색·필터 */
+ .toolbar input,.toolbar select{background:rgba(241,238,230,.07);border-color:rgba(241,238,230,.24);color:#f1eee6}
+ .toolbar input::placeholder{color:#a9ae9f}
+ .toolbar select option{color:#242621;background:#fff}
+ .archive .placeholder{color:#242621}
+ dialog::backdrop{background:rgba(10,16,12,.72)}
+}
