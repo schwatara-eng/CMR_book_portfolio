@@ -53,16 +53,16 @@
   const dated = totals.reduce((a, b) => a + b, 0);
   const groupTotals = GROUPS.map(g => years.reduce((s, y) => s + table[y][g.key], undatedBy[g.key]));
   const max = Math.max(...totals, 1);
-  const niceMax = Math.ceil(max / 10) * 10;
+  const axisMax = max; // 가장 높은 실제 막대를 세로축 상한으로 사용
 
   // SVG 레이아웃 (viewBox 기준, 컨테이너 폭에 맞춰 늘어남)
-  const W = 400, H = 190, L = 26, R = 12, T = 20, B = 26;
+  const W = 400, H = 162, L = 26, R = 12, T = 20, B = 26;
   const plotW = W - L - R, plotH = H - T - B;
   const step = plotW / years.length, barW = step * 0.62;
-  const yPos = v => T + plotH - (v / niceMax) * plotH;
+  const yPos = v => T + plotH - (v / axisMax) * plotH;
 
   let svg = `<svg viewBox="0 0 ${W} ${H}" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">`;
-  for(let v = 0; v <= niceMax; v += 10){
+  for(let v = 0; v <= axisMax; v += 10){
     const y = yPos(v);
     svg += `<line x1="${L}" x2="${W-R}" y1="${y}" y2="${y}" class="cc-grid${v===0?' base':''}"/>`;
     svg += `<text x="${L-6}" y="${y+3}" class="cc-tick" text-anchor="end">${v}</text>`;
