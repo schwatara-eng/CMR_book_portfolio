@@ -414,3 +414,7 @@ header .logo small{font-family:'Pretendard',Arial,'Malgun Gothic',sans-serif;-we
 .ai-card .title-rock{font-family:'Black Han Sans',sans-serif;font-weight:400;letter-spacing:.02em}
 .ai-card .title-flow{font-family:'YleeMemoriesNeverSleep',sans-serif;font-weight:700;letter-spacing:normal}
 .ai-card .title-prompt{font-family:Arial,'Noto Sans KR',sans-serif;font-weight:700;letter-spacing:-.06em}
+
+/* Korean names accompany the original project logos. */
+.ai-card h3{display:flex;align-items:baseline;flex-wrap:wrap;column-gap:8px;row-gap:0}
+.ai-card h3 .ai-title-ko{font-family:'Pretendard','Malgun Gothic',sans-serif;font-size:12px;font-weight:400;line-height:1.5;letter-spacing:normal;color:var(--muted);white-space:nowrap}
