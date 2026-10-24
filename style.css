@@ -586,3 +586,7 @@ header .logo,.about h2{font-family:'Pretendard',Arial,'Malgun Gothic',sans-serif
 .approach h2{-webkit-text-stroke:.45px currentColor}
 /* '구조를 설계합니다.' 이탤릭: 명조 폰트에 이탤릭 파일이 없어 기울임으로 표현 */
 .hero h1 em{font-style:italic;font-synthesis:style}
+
+/* 펼치기/접기 버튼을 섹션 제목 '작업도서 전체목록' 옆에 */
+.archive-title-row{grid-column:1;grid-row:2;display:flex;align-items:baseline;flex-wrap:wrap;column-gap:16px;row-gap:4px;min-width:0}
+.archive-title-row .archive-toggle{margin-left:0;font-family:'Pretendard',Arial,'Malgun Gothic',sans-serif;font-size:13px;letter-spacing:0;white-space:nowrap}
