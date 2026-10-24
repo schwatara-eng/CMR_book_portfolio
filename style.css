@@ -535,3 +535,7 @@ header .logo small{font-family:'Pretendard',Arial,'Malgun Gothic',sans-serif;-we
  .project h3{font-size:15.5px;line-height:1.25}
  .archive .book-card h3{font-size:9.5px;line-height:1.2;max-height:2.4em}
 }
+
+/* 섹션 제목 아래 본문까지 간격 통일 (화면 20px, 인쇄 16px) — 대표 작업은 이미지·설명의 위쪽 추가 여백을 없앤다 */
+@media print,(min-width:761px){#books .feature-image{margin-top:0}#books .feature-copy{padding-top:0}}
+@media print{#archive .section-head{margin-bottom:20px}}
