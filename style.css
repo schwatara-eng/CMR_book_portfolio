@@ -600,9 +600,9 @@ header .logo,.about h2{font-family:'Pretendard',Arial,'Malgun Gothic',sans-serif
 @media screen{
  .feature-image,.project .image,.project:nth-child(n) .image{background:rgba(255,255,255,.15);border:1px solid rgba(241,238,230,.14)}
  .hero-art{background:rgba(230,230,218,.9)}
- .meta-bar div{background:rgba(233,236,223,.88);border-color:rgba(241,238,230,.25)}
- .meta-bar div:nth-child(2){background:rgba(238,231,222,.88);border-color:rgba(241,238,230,.25)}
- .meta-bar div:nth-child(3){background:rgba(230,235,232,.88);border-color:rgba(241,238,230,.25)}
+ .meta-bar div{background:rgba(233,215,154,.92);border-color:rgba(241,238,230,.25)}
+ .meta-bar div:nth-child(2){background:rgba(237,176,154,.92);border-color:rgba(241,238,230,.25)}
+ .meta-bar div:nth-child(3){background:rgba(159,209,196,.92);border-color:rgba(241,238,230,.25)}
  .about{background:rgba(231,232,223,.9)}
 }
 
