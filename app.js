@@ -169,7 +169,7 @@ function preparePrintLayout(){
   if (!about) return;
   const mm = 96 / 25.4;
   const PAGE = 186 * mm;            // A4 가로 297×210mm, 여백 12mm → 내용 높이 186mm
-  const HEAD = 20 + 64 + 20;        // 아카이브 위 여백 + 제목 영역 + 아래 여백
+  const HEAD = 20 + 60 + 20;        // 아카이브 위 여백 + 제목 영역 + 아래 여백
   const CARD = 128, GAP = 10, COLS = 10;
   const ABOUT = 200, FOOTER = 30, SAFE = 6;
   const rows = Math.ceil(grid.querySelectorAll('.book-card').length / COLS);

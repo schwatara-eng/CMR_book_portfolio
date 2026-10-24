@@ -473,7 +473,7 @@ header .logo small{font-family:'Pretendard',Arial,'Malgun Gothic',sans-serif;-we
  .meta-bar div{padding:10px 14px;font-size:13px}
 
  #archive{padding-top:16px;padding-bottom:0}
- #archive .section-head{height:64px;margin:0 0 12px;overflow:hidden}
+ #archive .section-head{height:60px;margin:0 0 12px;overflow:hidden}
  .book-grid{display:grid;column-count:auto;grid-template-columns:repeat(10,minmax(0,1fr));gap:var(--print-row-gap) 10px}
  .book-card{display:flex;flex-direction:column;width:auto;height:var(--print-card-h);margin:0;overflow:hidden;break-inside:avoid}
  .archive .cover{height:76px;flex:none;aspect-ratio:auto;margin:0}
@@ -522,7 +522,7 @@ header .logo small{font-family:'Pretendard',Arial,'Malgun Gothic',sans-serif;-we
 @media print{.archive-toggle{display:none!important}.archive-body[hidden]{display:block!important}}
 
 /* 섹션 제목: 페이퍼로지(Paperlogy Bold) / 책 제목: 프리텐다드(Pretendard) */
-.section-head h2{font-family:'Paperlogy','Pretendard',Arial,'Malgun Gothic',sans-serif;font-weight:700;-webkit-text-stroke:0}
+.section-head h2{font-family:'Paperlogy','Pretendard',Arial,'Malgun Gothic',sans-serif;font-weight:700;-webkit-text-stroke:0;font-size:28.8px}
 .feature-copy h3,.project h3,.archive .book-card h3{font-family:'Pretendard',Arial,'Malgun Gothic',sans-serif;-webkit-text-stroke:0}
 
 /* 섹션 제목 아래 본문까지 간격 통일 (화면 20px, 인쇄 16px) — 대표 작업은 이미지·설명의 위쪽 추가 여백을 없앤다 */
