@@ -598,11 +598,11 @@ header .logo,.about h2{font-family:'Pretendard',Arial,'Malgun Gothic',sans-serif
 /* ===== 박스 바탕 반투명 (딥 포레스트 화면 전용) =====
    표지 이미지 프레임: 어두운 바탕이 비치는 유리 느낌 / 글자가 있는 밝은 패널: 살짝 비치는 종이 느낌 */
 @media screen{
- .feature-image,.project .image,.project:nth-child(n) .image{background:rgba(244,230,182,.3);border:1px solid rgba(244,230,182,.28)}
+ .feature-image,.project .image,.project:nth-child(n) .image{background:rgba(214,198,238,.3);border:1px solid rgba(214,198,238,.28)}
  .project:nth-child(1) .image{background:rgba(190,228,217,.3);border-color:rgba(190,228,217,.28)}
  .project:nth-child(2) .image{background:rgba(244,230,182,.3);border-color:rgba(244,230,182,.28)}
  .project:nth-child(3) .image{background:rgba(246,201,182,.3);border-color:rgba(246,201,182,.28)}
- .project:nth-child(4) .image{background:rgba(190,228,217,.3);border-color:rgba(190,228,217,.28)}
+ .project:nth-child(4) .image{background:rgba(183,215,242,.3);border-color:rgba(183,215,242,.28)}
  .hero-art{background:rgba(230,230,218,.9)}
  .meta-bar div{background:rgba(233,215,154,.92);border-color:rgba(241,238,230,.25)}
  .meta-bar div:nth-child(2){background:rgba(237,176,154,.92);border-color:rgba(241,238,230,.25)}
