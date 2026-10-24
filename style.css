@@ -632,6 +632,7 @@ header .logo,.about h2{font-family:'Pretendard',Arial,'Malgun Gothic',sans-serif
  .career-chart .cc-grid{stroke:rgba(241,238,230,.26)}
  .career-chart .cc-grid.base{stroke:rgba(241,238,230,.48)}
  .career-chart .cc-tick{fill:#c4c8bb}
+ .career-chart .cc-val{fill:#fff8ed}
  .career-chart .cc-legend,.career-chart .cc-note{color:#c4c8bb}
 }
 @media screen and (max-width:480px){
