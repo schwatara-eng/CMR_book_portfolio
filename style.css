@@ -544,3 +544,6 @@ header .logo small{font-family:'Pretendard',Arial,'Malgun Gothic',sans-serif;-we
 
 /* 헤더 로고와 소개 박스의 이름 '최미라': 프리텐다드 */
 header .logo,.about h2{font-family:'Pretendard',Arial,'Malgun Gothic',sans-serif;font-weight:700;-webkit-text-stroke:0}
+
+/* 대표 작업: 분야 표시와 제목 사이 간격 좁힘 */
+.feature-copy .tag+h3{margin-top:6px}
