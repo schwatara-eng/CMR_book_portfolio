@@ -156,8 +156,36 @@ document.querySelectorAll('[data-print-pdf]').forEach(button => {
     const label = button.textContent;
     button.disabled = true; button.textContent = 'PDF 준비 중…';
     await loadAllImages();
+    preparePrintLayout();
     button.disabled = false; button.textContent = label;
     window.print();
   });
 });
-window.addEventListener('beforeprint', () => { document.querySelectorAll('img[loading="lazy"]').forEach(img => { img.loading = 'eager'; }); });
+// 인쇄 시 소개 박스와 푸터를 마지막 쪽 하단에 붙인다.
+// 아카이브는 새 쪽에서 시작하고 카드 높이가 고정이라(style.css 인쇄 레이아웃) 쪽 나눔을 계산할 수 있다.
+function preparePrintLayout(){
+  document.querySelectorAll('img[loading="lazy"]').forEach(img => { img.loading = 'eager'; });
+  const about = document.querySelector('#about');
+  if (!about) return;
+  const mm = 96 / 25.4;
+  const PAGE = 186 * mm;            // A4 가로 297×210mm, 여백 12mm → 내용 높이 186mm
+  const HEAD = 16 + 64 + 12;        // 아카이브 위 여백 + 제목 영역 + 아래 여백
+  const CARD = 128, GAP = 10, COLS = 10;
+  const ABOUT = 220, FOOTER = 30, SAFE = 6;
+  const rows = Math.ceil(grid.querySelectorAll('.book-card').length / COLS);
+  const firstFit = Math.floor((PAGE - HEAD + GAP) / (CARD + GAP));
+  const nextFit = Math.floor((PAGE + GAP) / (CARD + GAP));
+  let used;
+  if (rows <= firstFit) used = HEAD + rows * (CARD + GAP);
+  else {
+    const rest = rows - firstFit;
+    const lastRows = rest % nextFit || nextFit;
+    used = lastRows * (CARD + GAP);
+  }
+  let gap = PAGE - used - ABOUT - FOOTER - SAFE;
+  const spacer = document.querySelector('.print-spacer');
+  if (spacer) spacer.classList.toggle('print-new-page', gap < 16);
+  if (gap < 16) gap = PAGE - ABOUT - FOOTER - SAFE;
+  document.documentElement.style.setProperty('--print-about-gap', Math.max(0, Math.floor(gap)) + 'px');
+}
+window.addEventListener('beforeprint', preparePrintLayout);

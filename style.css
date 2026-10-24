@@ -452,3 +452,43 @@ header .logo small{font-family:'Pretendard',Arial,'Malgun Gothic',sans-serif;-we
 
 /* 섹션 제목(책으로 완성한 일들 · 콘텐츠의 다음 형식 · 전체 도서 아카이브): 산돌 삼립호빵체 Basic */
 .section-head h2{font-family:'SandollSamlipHobbangBasic','KbizHanmaumMyungjo','Batang',serif;font-weight:400;-webkit-text-stroke:0;font-size:32px}
+
+/* ===== 인쇄(PDF) 레이아웃 =====
+   A4 가로, 여백 12mm → 한 쪽 내용 높이 186mm(약 703px).
+   1쪽: 히어로 + Editorial Approach + 박스 3개
+   아카이브: 한 줄 10권, 카드 높이 고정(줄마다 높이가 같아야 마지막 쪽 위치를 계산할 수 있다)
+   소개 박스 + 푸터: app.js의 preparePrintLayout()이 마지막 쪽 하단에 오도록 위 여백을 계산 */
+@media print{
+ :root{--print-page-h:186mm;--print-card-h:128px;--print-row-gap:10px}
+ header{height:40px}
+ .hero{padding:10px 0 4px;gap:24px}
+ .hero h1{font-size:38px;margin:10px 0}
+ .hero-art.career-chart{padding:12px 16px 10px;gap:4px}
+ .cc-head .cc-title{font-size:13px;margin-top:4px}.cc-total b{font-size:30px}
+ .cc-plot svg{height:190px}
+ .cc-legend{font-size:10px}.cc-note{font-size:9px}
+ .approach{padding:12px 0 8px}
+ .approach h2{font-size:20px;margin:8px 0}
+ .meta-bar{margin-top:6px;padding-bottom:0}
+ .meta-bar div{padding:10px 14px;font-size:13px}
+
+ #archive{padding-top:16px;padding-bottom:0}
+ #archive .section-head{height:64px;margin:0 0 12px;overflow:hidden}
+ .book-grid{display:grid;column-count:auto;grid-template-columns:repeat(10,minmax(0,1fr));gap:var(--print-row-gap) 10px}
+ .book-card{display:flex;flex-direction:column;width:auto;height:var(--print-card-h);margin:0;overflow:hidden;break-inside:avoid}
+ .archive .cover{height:76px;flex:none;aspect-ratio:auto;margin:0}
+ .archive .series-badge{padding:2px 4px;font-size:7px;right:2px;bottom:2px}
+ .archive .card-meta{font-size:7.5px;margin:4px 0 1px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+ .archive .book-card h3{font-size:8.5px;line-height:1.3;margin:0;max-height:2.6em;overflow:hidden}
+ .archive .card-note{font-size:7.5px;margin-top:2px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+
+ .about{margin-top:0;margin-bottom:0;height:220px;overflow:hidden;break-inside:avoid;break-before:avoid}
+ #about::before{content:none}
+ .print-spacer{display:block!important;height:var(--print-about-gap,24px)}
+ .print-spacer.print-new-page{break-before:page}
+ .archive .placeholder{font-size:7px;padding:4px}.archive .placeholder b{font-size:9px}
+ .about .contact-links .pdf{display:none!important}
+ footer.bottom{height:30px;padding:12px 0 0;break-inside:avoid;break-before:avoid}
+}
+
+.print-spacer{display:none}
