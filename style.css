@@ -550,3 +550,5 @@ header .logo,.about h2{font-family:'Pretendard',Arial,'Malgun Gothic',sans-serif
 
 /* 아카이브 카드 책 제목: 화면에서 1px 작게 (15px → 14px) */
 @media screen{.archive .book-card h3{font-size:14px}}
+/* 아카이브 카드: 출판사명과 책 제목 사이 간격 좁힘 */
+@media screen{.archive .book-card h3{margin-top:2px;line-height:1.4}}
