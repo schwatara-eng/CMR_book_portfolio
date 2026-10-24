@@ -194,3 +194,17 @@ window.addEventListener('beforeprint', () => {
 });
 // 인쇄 창을 어떤 방법으로 열어도 값이 준비돼 있도록, 처음 열 때와 아카이브가 다시 그려질 때마다 미리 계산해 둔다.
 preparePrintLayout();
+
+// 전체 도서 아카이브 펼치기/접기 (기본: 접힘). 인쇄할 때는 style.css에서 항상 펼쳐 보인다.
+const archiveToggle = document.querySelector('.archive-toggle');
+const archiveBody = document.querySelector('#archiveBody');
+function setArchiveOpen(open){
+  if (!archiveToggle || !archiveBody) return;
+  archiveBody.hidden = !open;
+  archiveToggle.setAttribute('aria-expanded', String(open));
+  archiveToggle.textContent = open ? '▼ 접기' : '▶ 펼치기';
+}
+archiveToggle?.addEventListener('click', () => setArchiveOpen(archiveBody.hidden));
+// 메뉴의 '도서 아카이브'로 이동하면 펼쳐서 보여 준다
+document.querySelectorAll('a[href="#archive"]').forEach(link => link.addEventListener('click', () => setArchiveOpen(true)));
+if (location.hash === '#archive') setArchiveOpen(true);

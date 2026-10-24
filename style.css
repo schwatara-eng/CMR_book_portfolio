@@ -513,3 +513,10 @@ header .logo small{font-family:'Pretendard',Arial,'Malgun Gothic',sans-serif;-we
 
 /* 인쇄: 소개 박스 2단 배치를 명시하고 안쪽 위아래 여백을 같게 */
 @media print{ .about{grid-template-columns:1fr 1.7fr;gap:32px;padding:0 26px;height:200px;overflow:visible} }
+
+/* 전체 도서 아카이브 펼치기/접기 버튼 */
+.archive-toggle{margin-left:14px;padding:2px 0;border:0;background:none;color:var(--accent);font:inherit;letter-spacing:.5px;text-transform:none;cursor:pointer;vertical-align:baseline}
+.archive-toggle:hover{text-decoration:underline;text-underline-offset:3px}
+.archive-toggle:focus-visible{outline:2px solid var(--accent);outline-offset:3px}
+.archive-body[hidden]{display:none}
+@media print{.archive-toggle{display:none!important}.archive-body[hidden]{display:block!important}}
