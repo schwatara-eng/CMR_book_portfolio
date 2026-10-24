@@ -398,3 +398,6 @@ footer {
 .ai-card .ai-thumbnail{display:block;align-self:stretch;width:100%;line-height:0;margin:0;border:1px solid var(--line);border-radius:10px;overflow:hidden;background:#e7e8df;text-decoration:none}
 .ai-thumbnail img{display:block;width:100%;height:auto;aspect-ratio:16 / 10;object-fit:cover;object-position:top}
 @media print{.ai-card .ai-thumbnail{break-inside:avoid}.ai-thumbnail img{aspect-ratio:16 / 10}}
+
+/* Section dividers match the archive section. */
+#books,#ai{border-top:1px solid var(--line)}
