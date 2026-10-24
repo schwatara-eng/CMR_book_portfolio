@@ -555,8 +555,8 @@ header .logo,.about h2{font-family:'Pretendard',Arial,'Malgun Gothic',sans-serif
 
 /* ===== 배경색: 딥 포레스트 (화면 전용 — PDF 인쇄는 기존 밝은 종이색 그대로) ===== */
 @media screen{
- :root{--paper:#24332b;--ink:#f1eee6;--muted:#b7bcae;--line:rgba(241,238,230,.18);--accent:#f0a487}
- html,body{background:#24332b}
+ :root{--paper:#1c2922;--ink:#f1eee6;--muted:#b7bcae;--line:rgba(241,238,230,.18);--accent:#f0a487}
+ html,body{background:#1c2922}
  body{color:#f1eee6}
  /* 바탕 위 보조 글자 */
  .intro,.feature-copy p,.roles,.principles p,.ai-card p,.ai-card .key,.project p,.section-head p,.result-count,
