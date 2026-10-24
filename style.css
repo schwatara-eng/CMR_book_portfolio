@@ -411,7 +411,7 @@ header .logo small{font-family:'Pretendard',Arial,'Malgun Gothic',sans-serif;-we
 .hero-art.career-chart{height:auto;min-height:350px;display:flex;flex-direction:column;align-items:stretch;justify-content:space-between;gap:10px;padding:22px 22px 16px;overflow:visible}
 .hero-art.career-chart:before{content:none}
 .cc-head{display:flex;justify-content:space-between;align-items:flex-end;gap:16px}
-.cc-label{font-family:Arial,'Malgun Gothic',sans-serif;font-size:9px;letter-spacing:2px;font-weight:700}
+.cc-label{font-family:'Pretendard',Arial,'Malgun Gothic',sans-serif;font-size:11px;letter-spacing:2px;font-weight:400;text-transform:uppercase}
 .cc-title{font-size:15px;font-weight:700;letter-spacing:-.3px;margin-top:8px}
 .cc-total{font-size:12px;color:var(--muted);white-space:nowrap}
 .cc-total b{font-family:'KbizHanmaumMyungjo','Batang',serif;font-size:38px;line-height:1;color:var(--accent);margin-right:3px;letter-spacing:-1px}
