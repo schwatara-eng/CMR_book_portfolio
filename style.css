@@ -498,12 +498,15 @@ header .logo small{font-family:'Pretendard',Arial,'Malgun Gothic',sans-serif;-we
 
 /* 인쇄: 머리글 구분선 위아래 간격 통일, 용선생 부채꼴을 고정 크기로(프레임 밖으로 넘치지 않게), 아카이브 위 간격을 다른 섹션과 통일 */
 @media print{
- header{height:auto;padding:0 0 14px;align-items:flex-end}
+ header{height:auto;padding:0 0 20px;align-items:flex-end}
  header .logo{line-height:1}
- .hero{padding-top:15px}
+ .hero{padding-top:21px}
  #books .feature-image{contain:none;overflow:hidden}
  #books .feature-image .feature-fan-rows{inset:18px 16px 14px;gap:8px;grid-template-rows:repeat(2,minmax(0,1fr))}
  #books .feature-image .fan-eleven{height:100%;min-height:0;aspect-ratio:auto}
  #books .feature-image .fan-eleven img{height:96px;width:auto;max-height:none}
  #archive{padding-top:20px}
 }
+
+/* 인쇄: 소개 박스 내용을 상하 가운데에 두어 안쪽 위아래 여백을 같게 */
+@media print{ .about{display:grid;align-content:center;align-items:center;padding-top:0;padding-bottom:0} }
