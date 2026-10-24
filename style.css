@@ -537,3 +537,7 @@ header .logo small{font-family:'Pretendard',Arial,'Malgun Gothic',sans-serif;-we
 /* 2단일 때 세로 방향으로 번호가 이어지게: 왼쪽 열을 위→아래로 채운 뒤 오른쪽 열 */
 .volume-list{grid-auto-flow:column;grid-template-rows:repeat(var(--vol-rows,1),auto)}
 @media screen and (max-width:760px){.volume-list{grid-template-columns:1fr;grid-auto-flow:row;grid-template-rows:none}}
+
+/* Editorial Approach: 01~03 텍스트 영역의 윗선을 '원고의 중심을…' 글자 윗선에 맞춤 */
+@media screen and (min-width:761px){.approach .principles{margin-top:28px}}
+@media print{.approach .principles{margin-top:23px}}
