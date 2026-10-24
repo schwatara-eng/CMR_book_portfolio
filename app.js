@@ -50,7 +50,7 @@ function bindCoverImages(root=document){
 }
 
 function card(book){
-  const metric = book.metric || book.availability || '시장지표 조사 중';
+  const metric = book.metric || book.availability || '';
   return `<article class="book-card" tabindex="0" data-id="${book.id}" aria-label="${escapeHtml(book.title)} 상세보기">
     <div class="cover">${cover(book)}</div>
     <div class="card-meta"><span>${escapeHtml(book.company)}</span></div>
@@ -108,7 +108,7 @@ function openBook(book){
     <h2>${escapeHtml(book.title)}</h2><div class="modal-company">${escapeHtml(book.company)}</div>
     <dl class="detail-list">
       <div class="detail-row"><dt>분야</dt><dd>${escapeHtml(book.category||'—')}</dd></div>
-      <div class="detail-row"><dt>상태</dt><dd>${escapeHtml(book.availability||'—')}</dd></div>
+      ${book.availability?`<div class="detail-row"><dt>상태</dt><dd>${escapeHtml(book.availability)}</dd></div>`:''}
       <div class="detail-row"><dt>작업 내용</dt><dd>${escapeHtml(book.metric||'추가 조사 중')}</dd></div>
       <div class="detail-row"><dt>코멘트</dt><dd>${escapeHtml(book.note||'—')}</dd></div>
     </dl>
