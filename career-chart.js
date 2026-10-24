@@ -56,7 +56,7 @@
   const niceMax = Math.ceil(max / 10) * 10;
 
   // SVG 레이아웃 (viewBox 기준, 컨테이너 폭에 맞춰 늘어남)
-  const W = 400, H = 250, L = 26, R = 12, T = 20, B = 26;
+  const W = 400, H = 190, L = 26, R = 12, T = 20, B = 26;
   const plotW = W - L - R, plotH = H - T - B;
   const step = plotW / years.length, barW = step * 0.62;
   const yPos = v => T + plotH - (v / niceMax) * plotH;
