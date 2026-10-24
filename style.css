@@ -404,3 +404,7 @@ footer {
 
 /* Section dividers match the archive section. */
 #books,#ai{border-top:1px solid var(--line)}
+
+/* Names and section titles share the Editorial Approach type treatment. */
+header .logo,.section-head h2,.about h2{font-family:'KbizHanmaumMyungjo','Batang',serif;font-weight:700;-webkit-text-stroke:.15px currentColor}
+header .logo small{font-family:'Pretendard',Arial,'Malgun Gothic',sans-serif;-webkit-text-stroke:0}
