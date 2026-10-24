@@ -1,3 +1,4 @@
+@font-face{font-family:'YleeMemoriesNeverSleep';src:url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2205@1.0/yleeMortalHeartImmortalMemory.woff2') format('woff2');font-weight:700;font-style:normal;font-display:swap}
 @font-face{font-family:'Pretendard';src:url('https://cdn.jsdelivr.net/gh/projectnoonnu/pretendard@1.0/Pretendard-Regular.woff2') format('woff2');font-weight:400;font-style:normal;font-display:swap}
 @font-face{font-family:'Paperlogy';src:url('https://cdn.jsdelivr.net/gh/projectnoonnu/2408-3@1.0/Paperlogy-7Bold.woff2') format('woff2');font-weight:700;font-style:normal;font-display:swap}
 @font-face{font-family:'KbizHanmaumMyungjo';src:url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/KBIZHanmaumMyungjo.woff') format('woff');font-weight:400;font-style:normal;font-display:swap}
@@ -408,3 +409,8 @@ footer {
 /* Names and section titles share the Editorial Approach type treatment. */
 header .logo,.section-head h2,.about h2{font-family:'KbizHanmaumMyungjo','Batang',serif;font-weight:700;-webkit-text-stroke:.15px currentColor}
 header .logo small{font-family:'Pretendard',Arial,'Malgun Gothic',sans-serif;-webkit-text-stroke:0}
+
+/* Project titles retain each service's logo typography. */
+.ai-card .title-rock{font-family:'Black Han Sans',sans-serif;font-weight:400;letter-spacing:.02em}
+.ai-card .title-flow{font-family:'YleeMemoriesNeverSleep',sans-serif;font-weight:700;letter-spacing:normal}
+.ai-card .title-prompt{font-family:Arial,'Noto Sans KR',sans-serif;font-weight:700;letter-spacing:-.06em}
