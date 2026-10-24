@@ -130,7 +130,7 @@ function openBook(book){
 grid.addEventListener('click',e=>{const card=e.target.closest('.book-card');if(card)openBook(books.find(b=>b.id===Number(card.dataset.id)));});
 grid.addEventListener('keydown',e=>{if((e.key==='Enter'||e.key===' ')&&e.target.matches('.book-card')){e.preventDefault();openBook(books.find(b=>b.id===Number(e.target.dataset.id)));}});
 [search,companyFilter,categoryFilter,typeFilter].forEach(el=>el.addEventListener(el===search?'input':'change',render));
-document.querySelector('#aboutBtn').addEventListener('click',()=>aboutDialog.showModal());
+document.querySelector('#aboutBtn')?.addEventListener('click',()=>aboutDialog.showModal());
 document.querySelectorAll('[data-close]').forEach(btn=>btn.addEventListener('click',()=>btn.closest('dialog').close()));
 [dialog,aboutDialog].forEach(d=>d.addEventListener('click',e=>{if(e.target===d)d.close();}));
 render();
