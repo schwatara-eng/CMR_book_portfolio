@@ -78,7 +78,7 @@
       acc += p.v;
     });
     if(totals[i]) svg += `<text x="${x+barW/2}" y="${yPos(totals[i])-4}" class="cc-val" text-anchor="middle">${totals[i]}</text>`;
-    if(y % 2 === 1) svg += `<text x="${x+barW/2}" y="${H-B+15}" class="cc-tick" text-anchor="middle">${y}</text>`;
+    if(y % 2 === 1) svg += `<text x="${x+barW/2}" y="${H-B+15}" class="cc-tick" text-anchor="middle">${String(y).slice(-2)}</text>`;
   });
   svg += `</svg>`;
 
