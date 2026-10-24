@@ -547,3 +547,6 @@ header .logo,.about h2{font-family:'Pretendard',Arial,'Malgun Gothic',sans-serif
 
 /* 대표 작업: 분야 표시와 제목 사이 간격 좁힘 */
 .feature-copy .tag+h3{margin-top:6px}
+
+/* 아카이브 카드 책 제목: 화면에서 1px 작게 (15px → 14px) */
+@media screen{.archive .book-card h3{font-size:14px}}
