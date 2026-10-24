@@ -466,3 +466,7 @@ header .logo small{font-family:'Pretendard',Arial,'Malgun Gothic',sans-serif;-we
 
 /* 섹션 제목(책으로 완성한 일들 · 콘텐츠의 다음 형식 · 전체 도서 아카이브): 산돌 삼립호빵체 Basic */
 .section-head h2{font-family:'SandollSamlipHobbangBasic','KbizHanmaumMyungjo','Batang',serif;font-weight:400;-webkit-text-stroke:0;font-size:32px}
+/* main 브랜치 배경 이미지 적용 (시험) — 되돌리려면 이 블록만 지우면 된다 */
+body{background-color:#d6d9d8;background-image:linear-gradient(rgba(255,255,255,.50),rgba(255,255,255,.42)),url("images/background.jpg");background-size:cover;background-position:center;background-repeat:no-repeat;background-attachment:fixed}
+@media(max-width:760px){body{background-attachment:scroll}}
+@media print{body{background:#fff}}
