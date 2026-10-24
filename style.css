@@ -541,3 +541,6 @@ header .logo small{font-family:'Pretendard',Arial,'Malgun Gothic',sans-serif;-we
 /* Editorial Approach: 01~03 텍스트 영역의 윗선을 '원고의 중심을…' 글자 윗선에 맞춤 */
 @media screen and (min-width:761px){.approach .principles{margin-top:28px}}
 @media print{.approach .principles{margin-top:23px}}
+
+/* 헤더 로고와 소개 박스의 이름 '최미라': 프리텐다드 */
+header .logo,.about h2{font-family:'Pretendard',Arial,'Malgun Gothic',sans-serif;font-weight:700;-webkit-text-stroke:0}
