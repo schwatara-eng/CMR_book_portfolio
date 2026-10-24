@@ -68,14 +68,11 @@ function render(){
   preparePrintLayout();
 }
 
-// 담당한 권 목록 (books.js의 volumes: [{no, title}])
+// 담당한 권 목록 (books.js의 volumes: [{no, title}]) — 상세창 '작업 내용' 칸 안에 표시
 function volumesMarkup(book){
   const list = Array.isArray(book.volumes) ? book.volumes : [];
   if (!list.length) return '';
-  return `<section class="volumes" aria-label="담당 도서 목록">
-    <h3>담당 도서 <span>${list.length}종</span></h3>
-    <ol class="volume-list">${list.map(v => `<li><b>${escapeHtml(v.no)}</b><span>${escapeHtml(v.title)}</span></li>`).join('')}</ol>
-  </section>`;
+  return `<ol class="volume-list" aria-label="담당 도서 목록">${list.map(v => `<li><b>${escapeHtml(v.no)}</b><span>${escapeHtml(v.title)}</span></li>`).join('')}</ol>`;
 }
 
 function bibliographyMarkup(book){
@@ -119,10 +116,9 @@ function openBook(book){
     <dl class="detail-list">
       <div class="detail-row"><dt>분야</dt><dd>${escapeHtml(book.category||'—')}</dd></div>
       ${book.availability?`<div class="detail-row"><dt>상태</dt><dd>${escapeHtml(book.availability)}</dd></div>`:''}
-      <div class="detail-row"><dt>작업 내용</dt><dd>${escapeHtml(book.metric||'추가 조사 중')}</dd></div>
+      <div class="detail-row"><dt>작업 내용</dt><dd>${escapeHtml(book.metric||'추가 조사 중')}${volumesMarkup(book)}</dd></div>
       <div class="detail-row"><dt>코멘트</dt><dd>${escapeHtml(book.note||'—')}</dd></div>
     </dl>
-    ${volumesMarkup(book)}
     ${bibliographyMarkup(book)}
     ${book.url?`<a class="store-link" href="${escapeHtml(book.url)}" target="_blank" rel="noopener noreferrer">서점 / 출처 페이지 보기 ↗</a>`:''}
   </div></div>`;
