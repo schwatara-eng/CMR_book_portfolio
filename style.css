@@ -650,3 +650,9 @@ header .logo,.about h2{font-family:'Pretendard',Arial,'Malgun Gothic',sans-serif
  .cc-body .cc-plot svg{height:auto}
  .cc-total b{font-size:32px}
 }
+
+/* PDF: 철학자 시리즈와 세계사 코난 프레임 배경색 교환 */
+@media print{
+ #books .project:nth-child(1) .image{background:#e2e7e6}
+ #books .project:nth-child(2) .image{background:#eae7de}
+}
