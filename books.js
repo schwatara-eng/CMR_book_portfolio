@@ -166,9 +166,9 @@ window.BOOKS = [
     "metric": "11종 편집 담당",
     "note": "출판대행 기획사 재직 당시 수주받은 프로젝트. 전 40권 중 11종 원고, 삽화 등 초등 사회 전집 편집 진행 담당.",
     "url": "https://www.yes24.com/product/goods/113752121",
-    "cover": "https://image.yes24.com/goods/113752121/XL",
+    "cover": "https://image.yes24.com/goods/71926620/XL",
     "covers": [
-      "https://image.yes24.com/goods/113752121/XL"
+      "https://image.yes24.com/goods/71926620/XL"
     ],
     "bibliography": {
       "author": "대교",
