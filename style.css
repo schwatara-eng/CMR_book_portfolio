@@ -614,19 +614,19 @@ header .logo,.about h2{font-family:'Pretendard',Arial,'Malgun Gothic',sans-serif
 }
 @media print{.principles>div+div::before{left:-10px}}
 
-/* 경력 그래프: 제목·누적 종수 상단, 막대와 분야 범례 좌우 배치 */
+/* 경력 그래프: 상단 제목·누적 종수, 전체 폭 막대그래프와 하단 범례 */
 .hero-art.career-chart{padding:26px 26px 18px;gap:22px;border:1px solid var(--line)}
 .cc-head{align-items:flex-start}
 .cc-title{font-size:22px;line-height:1.35;margin-top:10px}
 .cc-total{text-align:right}
 .cc-total>span{display:block;font-size:10px;margin-bottom:8px}
 .cc-total b{font-size:40px;color:var(--ink)}
-.cc-body{display:grid;grid-template-columns:minmax(0,1fr) 122px;gap:16px;align-items:center}
+.cc-body{display:grid;grid-template-columns:minmax(0,1fr);gap:16px;align-items:center}
 .cc-body .cc-plot{min-width:0}
-.cc-body .cc-legend{display:flex;flex-direction:column;align-items:stretch;gap:14px;font-size:10px}
+.cc-body .cc-legend{display:flex;flex-direction:row;flex-wrap:wrap;align-items:center;gap:8px 16px;font-size:10px}
 .cc-body .cc-legend li{gap:6px;flex-wrap:wrap}
 .cc-body .cc-legend i{border-radius:50%;flex:none}
-.cc-body .cc-legend b{font-size:9px;font-weight:400;margin-left:auto}
+.cc-body .cc-legend b{font-size:9px;font-weight:400;margin-left:2px}
 @media screen{
  .hero-art.career-chart{--ink:#f1eee6;--muted:#c4c8bb;--line:rgba(241,238,230,.18);color:var(--ink);background:rgba(255,255,255,.1)}
  .career-chart .cc-grid{stroke:rgba(241,238,230,.26)}
@@ -645,7 +645,7 @@ header .logo,.about h2{font-family:'Pretendard',Arial,'Malgun Gothic',sans-serif
 @media print{
  .hero-art.career-chart{padding:16px;gap:12px}
  .cc-title{font-size:18px}
- .cc-body{grid-template-columns:minmax(0,1fr) 112px;gap:10px}
+ .cc-body{grid-template-columns:minmax(0,1fr);gap:10px}
  .cc-body .cc-legend{gap:10px;font-size:9px}
  .cc-body .cc-plot svg{height:auto}
  .cc-total b{font-size:32px}
