@@ -72,7 +72,7 @@ function render(){
 function volumesMarkup(book){
   const list = Array.isArray(book.volumes) ? book.volumes : [];
   if (!list.length) return '';
-  return `<ol class="volume-list" aria-label="담당 도서 목록">${list.map(v => `<li><b>${escapeHtml(v.no)}</b><span>${escapeHtml(v.title)}</span></li>`).join('')}</ol>`;
+  return `<ol class="volume-list" aria-label="담당 도서 목록" style="--vol-rows:${Math.ceil(list.length / 2)}">${list.map(v => `<li><b>${escapeHtml(v.no)}</b><span>${escapeHtml(v.title)}</span></li>`).join('')}</ol>`;
 }
 
 function bibliographyMarkup(book){
