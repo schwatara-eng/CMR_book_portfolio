@@ -77,6 +77,7 @@
       svg += `<rect x="${x}" y="${y0}" width="${barW}" height="${Math.max(h-0.8,0.6)}" fill="${p.g.color}"${j===parts.length-1?' rx="1.5"':''} data-key="${y}|${p.g.key}"></rect>`;
       acc += p.v;
     });
+    if(totals[i]) svg += `<text x="${x+barW/2}" y="${yPos(totals[i])-4}" class="cc-val" text-anchor="middle">${totals[i]}</text>`;
     if(i % 4 === 0 || i === years.length-1) svg += `<text x="${x+barW/2}" y="${H-B+15}" class="cc-tick" text-anchor="middle">${y}</text>`;
   });
   svg += `</svg>`;
