@@ -65,6 +65,7 @@ function render(){
   bindCoverImages(grid);
   resultCount.textContent=`${list.length} / ${books.length}`;
   emptyState.hidden=list.length!==0;
+  preparePrintLayout();
 }
 
 function bibliographyMarkup(book){
@@ -164,14 +165,13 @@ document.querySelectorAll('[data-print-pdf]').forEach(button => {
 // 인쇄 시 소개 박스와 푸터를 마지막 쪽 하단에 붙인다.
 // 아카이브는 새 쪽에서 시작하고 카드 높이가 고정이라(style.css 인쇄 레이아웃) 쪽 나눔을 계산할 수 있다.
 function preparePrintLayout(){
-  document.querySelectorAll('img[loading="lazy"]').forEach(img => { img.loading = 'eager'; });
   const about = document.querySelector('#about');
   if (!about) return;
   const mm = 96 / 25.4;
   const PAGE = 186 * mm;            // A4 가로 297×210mm, 여백 12mm → 내용 높이 186mm
   const HEAD = 16 + 64 + 12;        // 아카이브 위 여백 + 제목 영역 + 아래 여백
   const CARD = 128, GAP = 10, COLS = 10;
-  const ABOUT = 220, FOOTER = 30, SAFE = 6;
+  const ABOUT = 200, FOOTER = 30, SAFE = 6;
   const rows = Math.ceil(grid.querySelectorAll('.book-card').length / COLS);
   const firstFit = Math.floor((PAGE - HEAD + GAP) / (CARD + GAP));
   const nextFit = Math.floor((PAGE + GAP) / (CARD + GAP));
@@ -188,4 +188,9 @@ function preparePrintLayout(){
   if (gap < 16) gap = PAGE - ABOUT - FOOTER - SAFE;
   document.documentElement.style.setProperty('--print-about-gap', Math.max(0, Math.floor(gap)) + 'px');
 }
-window.addEventListener('beforeprint', preparePrintLayout);
+window.addEventListener('beforeprint', () => {
+  document.querySelectorAll('img[loading="lazy"]').forEach(img => { img.loading = 'eager'; });
+  preparePrintLayout();
+});
+// 인쇄 창을 어떤 방법으로 열어도 값이 준비돼 있도록, 처음 열 때와 아카이브가 다시 그려질 때마다 미리 계산해 둔다.
+preparePrintLayout();
