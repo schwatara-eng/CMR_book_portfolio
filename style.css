@@ -520,3 +520,9 @@ header .logo small{font-family:'Pretendard',Arial,'Malgun Gothic',sans-serif;-we
 .archive-toggle:focus-visible{outline:2px solid var(--accent);outline-offset:3px}
 .archive-body[hidden]{display:none}
 @media print{.archive-toggle{display:none!important}.archive-body[hidden]{display:block!important}}
+
+/* 서체 맞바꾸기 (시험): 섹션 제목 ↔ 책 제목
+   섹션 제목 → Pretendard Bold, 책 제목(대표 작업·작업 카드·아카이브) → 산돌 삼립호빵체 Basic
+   되돌리려면 이 블록만 지우면 된다 */
+.section-head h2{font-family:'Pretendard',Arial,'Malgun Gothic',sans-serif;font-weight:700}
+.feature-copy h3,.project h3,.archive .book-card h3{font-family:'SandollSamlipHobbangBasic','Pretendard',Arial,'Malgun Gothic',sans-serif;font-weight:400;-webkit-text-stroke:0}
