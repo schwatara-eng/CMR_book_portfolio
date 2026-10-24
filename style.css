@@ -565,6 +565,7 @@ header .logo,.about h2{font-family:'Pretendard',Arial,'Malgun Gothic',sans-serif
  .pdf{border-color:#f1eee6;color:#f1eee6}
  nav a:hover,.textlink:hover,.project button:hover,.ai-card a:hover{color:var(--accent)}
  .project button,.feature-button{color:#f1eee6}
+ .ai-card .ai-thumbnail{border-color:rgba(241,238,230,.18);background:transparent}
  /* 밝은 패널 안은 원래 색 체계 유지: 경력 그래프, 박스 3개, 소개 박스, 도서 상세창 */
  .hero-art,.meta-bar div,.about,.modal{--ink:#242621;--muted:#77796f;--line:#d6d6ca;--accent:#c64f30;--paper:#f5f3ed;color:#242621}
  .about p{color:#60665a}.about small{color:#757b70}
