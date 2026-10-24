@@ -445,3 +445,6 @@ header .logo small{font-family:'Pretendard',Arial,'Malgun Gothic',sans-serif;-we
 .hero:has(.career-chart){grid-template-columns:minmax(0,1fr) minmax(0,1.1fr);gap:32px}
 @media(max-width:760px){.hero:has(.career-chart){grid-template-columns:1fr;gap:28px}}
 @media print{.hero:has(.career-chart){grid-template-columns:minmax(0,1fr) minmax(0,1.1fr)}}
+/* 구분선 위아래 간격을 다른 섹션 구분선과 같게 맞춘다 (박스 3개 ↔ 출판 작업 구분선 포함) */
+.meta-bar{padding-bottom:44px}
+@media(max-width:760px){.meta-bar{padding-bottom:32px}.archive{padding-top:32px}}
