@@ -441,3 +441,7 @@ header .logo small{font-family:'Pretendard',Arial,'Malgun Gothic',sans-serif;-we
 .cc-tip{position:absolute;z-index:5;width:max-content;max-width:240px;background:#242621;color:#f5f3ed;border-radius:8px;padding:10px 12px;font-size:11.5px;line-height:1.5;box-shadow:0 6px 18px #24262140;pointer-events:none}
 .cc-tip-head{display:flex;align-items:center;gap:6px;font-weight:700;padding-bottom:6px;margin-bottom:6px;border-bottom:1px solid #ffffff26}.cc-tip-head i{width:8px;height:8px;border-radius:2px;flex:none}.cc-tip-head b{margin-left:auto;padding-left:12px;color:#f0b49c}
 .cc-tip ul{list-style:none;margin:0;padding:0}.cc-tip li{display:flex;justify-content:space-between;gap:10px}.cc-tip li em{font-style:normal;color:#b9bbaf;flex:none}.cc-tip li.more{color:#b9bbaf}
+/* 경력 그래프가 들어간 히어로: 오른쪽 그래프 박스를 넓게 */
+.hero:has(.career-chart){grid-template-columns:minmax(0,1fr) minmax(0,1.1fr);gap:32px}
+@media(max-width:760px){.hero:has(.career-chart){grid-template-columns:1fr;gap:28px}}
+@media print{.hero:has(.career-chart){grid-template-columns:minmax(0,1fr) minmax(0,1.1fr)}}
