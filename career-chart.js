@@ -6,7 +6,7 @@
   const box = document.querySelector('#careerChart');
   if(!box) return;
   const books = window.BOOKS || [];
-  const FROM = 2009, TO = 2026;
+  const FROM = 2007, TO = 2026; // 경력 시작 2007년 (2007~2008년은 도서 데이터가 없어 막대가 비어 있다)
 
   const GROUPS = [
     {key:'kids',  label:'어린이·청소년', color:'#c64f30', cats:['어린이','전집','초등참고서','청소년']},
