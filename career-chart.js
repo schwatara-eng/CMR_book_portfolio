@@ -67,7 +67,7 @@
     svg += `<line x1="${L}" x2="${W-R}" y1="${y}" y2="${y}" class="cc-grid${v===0?' base':''}"/>`;
     svg += `<text x="${L-6}" y="${y+3}" class="cc-tick" text-anchor="end">${v}</text>`;
   }
-  svg += `<text x="${L-6}" y="10" class="cc-tick" text-anchor="end">(종)</text>`;
+  svg += `<text x="${L-6}" y="${yPos(Math.floor(axisMax / 10) * 10)-9}" class="cc-tick" text-anchor="end">(종)</text>`;
   years.forEach((y, i) => {
     const x = L + i*step + (step-barW)/2;
     let acc = 0;
