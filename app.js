@@ -140,7 +140,24 @@ document.querySelectorAll('[data-feature-book]').forEach(button => {
     if (book) openBook(book);
   });
 });
-const pdfDialog = document.querySelector('#pdfDialog');
-pdfDialog.addEventListener('click', event => {
-  if (event.target === pdfDialog) pdfDialog.close();
+// 포트폴리오 PDF: 브라우저 인쇄 창을 열어 'PDF로 저장'으로 내려받게 한다 (인쇄용 스타일은 style.css의 @media print).
+// 지연 로딩 중인 표지 이미지가 PDF에서 빠지지 않도록, 인쇄 전에 모든 이미지를 불러온다.
+function loadAllImages(timeout = 4000){
+  const imgs = [...document.images];
+  imgs.forEach(img => { img.loading = 'eager'; });
+  const pending = imgs.filter(img => !img.complete).map(img => new Promise(done => {
+    img.addEventListener('load', done, {once:true});
+    img.addEventListener('error', done, {once:true});
+  }));
+  return Promise.race([Promise.all(pending), new Promise(done => setTimeout(done, timeout))]);
+}
+document.querySelectorAll('[data-print-pdf]').forEach(button => {
+  button.addEventListener('click', async () => {
+    const label = button.textContent;
+    button.disabled = true; button.textContent = 'PDF 준비 중…';
+    await loadAllImages();
+    button.disabled = false; button.textContent = label;
+    window.print();
+  });
 });
+window.addEventListener('beforeprint', () => { document.querySelectorAll('img[loading="lazy"]').forEach(img => { img.loading = 'eager'; }); });
