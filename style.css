@@ -670,7 +670,7 @@ header .logo,.about h2{font-family:'Pretendard',Arial,'Malgun Gothic',sans-serif
  .about{background:rgba(231,232,223,.9)}
 }
 
-/* 확장 역량: 프로젝트 4개 (한 줄 4개, 태블릿 2×2, 모바일 1줄) */
+/* AI 확장 역량: 프로젝트 4개 (한 줄 4개, 태블릿 2×2, 모바일 1줄) */
 .ai-grid{grid-template-columns:repeat(4,minmax(0,1fr));gap:20px}
 .ai-card .title-tarot{font-family:'Cinzel',Georgia,serif;font-weight:600;letter-spacing:.02em}
 @media screen and (max-width:1050px){.ai-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
