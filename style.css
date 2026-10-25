@@ -615,9 +615,8 @@ header .logo,.about h2{font-family:'Pretendard',Arial,'Malgun Gothic',sans-serif
 @media print,(min-width:761px){
  .principles>div{position:relative}
  .principles>div::before{content:'';position:absolute;top:0;bottom:0;left:-14px;border-left:1px solid var(--line)}
- .principles>div:first-child::before{left:-8px}
 }
-@media print{.principles>div+div::before{left:-10px}}
+@media print{.principles>div::before{left:-10px}}
 
 /* 경력 그래프: 상단 제목·누적 종수, 전체 폭 막대그래프와 하단 범례 */
 .hero-art.career-chart{padding:22px 26px 16px;gap:14px;border:1px solid var(--line)}
