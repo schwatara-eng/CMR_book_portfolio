@@ -555,8 +555,8 @@ header .logo,.about h2{font-family:'Pretendard',Arial,'Malgun Gothic',sans-serif
 
 /* ===== 배경색: 에스프레소 브라운 (화면 전용 — PDF 인쇄는 기존 밝은 종이색 그대로) ===== */
 @media screen{
- :root{--paper:#261e19;--ink:#f1eee6;--muted:#bfb5a7;--line:rgba(241,238,230,.18);--accent:#e8bc62}
- html,body{background:#261e19}
+ :root{--paper:#30261f;--ink:#f1eee6;--muted:#bfb5a7;--line:rgba(241,238,230,.18);--accent:#e8bc62}
+ html,body{background:#30261f}
  body{color:#f1eee6}
  /* 바탕 위 보조 글자 */
  .intro,.feature-copy p,.roles,.principles p,.ai-card p,.ai-card .key,.project p,.section-head p,.result-count,
