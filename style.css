@@ -553,15 +553,15 @@ header .logo,.about h2{font-family:'Pretendard',Arial,'Malgun Gothic',sans-serif
 /* 아카이브 카드: 출판사명과 책 제목 사이 간격 좁힘 */
 @media screen{.archive .book-card h3{margin-top:2px;line-height:1.4}}
 
-/* ===== 배경색: 딥 포레스트 (화면 전용 — PDF 인쇄는 기존 밝은 종이색 그대로) ===== */
+/* ===== 배경색: 에스프레소 브라운 (화면 전용 — PDF 인쇄는 기존 밝은 종이색 그대로) ===== */
 @media screen{
- :root{--paper:#1c2922;--ink:#f1eee6;--muted:#b7bcae;--line:rgba(241,238,230,.18);--accent:#f0a487}
- html,body{background:#1c2922}
+ :root{--paper:#261e19;--ink:#f1eee6;--muted:#bfb5a7;--line:rgba(241,238,230,.18);--accent:#e8bc62}
+ html,body{background:#261e19}
  body{color:#f1eee6}
  /* 바탕 위 보조 글자 */
  .intro,.feature-copy p,.roles,.principles p,.ai-card p,.ai-card .key,.project p,.section-head p,.result-count,
- .archive .card-meta,.archive .card-note,.fact b,.bottom,.about small{color:#c4c8bb}
- .hero h1 em{color:#f08a68}
+ .archive .card-meta,.archive .card-note,.fact b,.bottom,.about small{color:#cbc2b5}
+ .hero h1 em{color:#e8bc62}
  .pdf{border-color:#f1eee6;color:#f1eee6}
  nav a:hover,.textlink:hover,.project button:hover,.ai-card a:hover{color:var(--accent)}
  .project button,.feature-button{color:#f1eee6}
@@ -574,10 +574,10 @@ header .logo,.about h2{font-family:'Pretendard',Arial,'Malgun Gothic',sans-serif
  .modal .store-link{background:#242621;color:#fff}
  /* 아카이브 검색·필터 */
  .toolbar input,.toolbar select{background:rgba(241,238,230,.07);border-color:rgba(241,238,230,.24);color:#f1eee6}
- .toolbar input::placeholder{color:#a9ae9f}
+ .toolbar input::placeholder{color:#b3a999}
  .toolbar select option{color:#242621;background:#fff}
  .archive .placeholder{color:#242621}
- dialog::backdrop{background:rgba(10,16,12,.72)}
+ dialog::backdrop{background:rgba(14,10,8,.72)}
 }
 
 /* 명조 획 두께 조정: 폰트 파일은 보통 굵기(400) 하나뿐이라 700을 주면 브라우저가 억지로 두껍게 그린다.
@@ -596,13 +596,13 @@ header .logo,.about h2{font-family:'Pretendard',Arial,'Malgun Gothic',sans-serif
 .hero-art,.feature-image,.project .image,.about,.meta-bar div,.ai-card .ai-thumbnail{border-radius:14px}
 .feature-image,.project .image,.hero-art{overflow:hidden}
 
-/* ===== 박스 바탕 반투명 (딥 포레스트 화면 전용) =====
+/* ===== 박스 바탕 반투명 (에스프레소 브라운 화면 전용) =====
    표지 이미지 프레임: 어두운 바탕이 비치는 유리 느낌 / 글자가 있는 밝은 패널: 살짝 비치는 종이 느낌 */
 @media screen{
  .feature-image,.project .image,.project:nth-child(n) .image{background:rgba(214,198,238,.3);border:1px solid rgba(214,198,238,.28)}
  .project:nth-child(1) .image{background:rgba(190,228,217,.3);border-color:rgba(190,228,217,.28)}
- .project:nth-child(2) .image{background:rgba(244,230,182,.3);border-color:rgba(244,230,182,.28)}
- .project:nth-child(3) .image{background:rgba(246,201,182,.3);border-color:rgba(246,201,182,.28)}
+ .project:nth-child(2) .image{background:rgba(244,230,182,.4);border-color:rgba(244,230,182,.36)}
+ .project:nth-child(3) .image{background:rgba(246,201,182,.4);border-color:rgba(246,201,182,.36)}
  .project:nth-child(4) .image{background:rgba(183,215,242,.3);border-color:rgba(183,215,242,.28)}
  .hero-art{background:rgba(230,230,218,.9)}
  .meta-bar div{background:rgba(233,215,154,.92);border-color:rgba(241,238,230,.25)}
@@ -632,12 +632,12 @@ header .logo,.about h2{font-family:'Pretendard',Arial,'Malgun Gothic',sans-serif
 .cc-body .cc-legend i{border-radius:50%;flex:none}
 .cc-body .cc-legend b{font-size:9px;font-weight:400;margin-left:2px}
 @media screen{
- .hero-art.career-chart{--ink:#f1eee6;--muted:#c4c8bb;--line:rgba(241,238,230,.18);color:var(--ink);background:rgba(255,255,255,.1)}
+ .hero-art.career-chart{--ink:#f1eee6;--muted:#cbc2b5;--line:rgba(241,238,230,.18);color:var(--ink);background:rgba(255,255,255,.1)}
  .career-chart .cc-grid{stroke:rgba(241,238,230,.26)}
  .career-chart .cc-grid.base{stroke:rgba(241,238,230,.48)}
- .career-chart .cc-tick{fill:#c4c8bb}
+ .career-chart .cc-tick{fill:#cbc2b5}
  .career-chart .cc-val{fill:#fff8ed}
- .career-chart .cc-legend,.career-chart .cc-note{color:#c4c8bb}
+ .career-chart .cc-legend,.career-chart .cc-note{color:#cbc2b5}
 }
 @media screen and (max-width:480px){
  .hero-art.career-chart{padding:20px 16px 16px;gap:16px}
